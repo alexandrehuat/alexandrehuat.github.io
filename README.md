@@ -1,6 +1,6 @@
-<center><img alt="Loading" src="http://25.media.tumblr.com/tumblr_lritgdc4d61qlnzs9o1_500.gif" width="200"></center>
-
 The site is under construction. Major updates are expected by mid-2018.
+
+<center><img alt="Loading" src="http://25.media.tumblr.com/tumblr_lritgdc4d61qlnzs9o1_500.gif" width="200"></center>
 
 # *Me, myself and I*
 
