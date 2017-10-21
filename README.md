@@ -1,4 +1,4 @@
-![Loading](https://media.giphy.com/media/JxjnBQs18d7wI/giphy.gif | 100x100)
+![Loading](https://media.giphy.com/media/JxjnBQs18d7wI/giphy.gif)
 
 This site is under construction. Major updates are expected by mid-2018.
 
