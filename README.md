@@ -13,6 +13,3 @@ Feel free to contact me at <alexandre.huat@gmail.com> or <alexandre.huat@insa-ro
 
 My resume will be directly published here.
 See [my LinkedIn profile](https://www.linkedin.com/in/alexandre-huat/?locale=en_US) for now; it's pretty well detailed.
-
-Just another fractal because it's cool...
-<img alt="Good fractal" src="https://batchloaf.files.wordpress.com/2013/02/julia1.gif">
