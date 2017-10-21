@@ -12,5 +12,4 @@ Feel free to contact me at <alexandre.huat@gmail.com> or <alexandre.huat@insa-ro
 # Resume
 
 My resume will be directly published here.
-See [my LinkedIn profile](https://www.linkedin.com/in/alexandre-huat/?locale=en_US) for now.
-It's pretty well detailed.
+See [my LinkedIn profile](https://www.linkedin.com/in/alexandre-huat/?locale=en_US) for now; it's pretty well detailed.
