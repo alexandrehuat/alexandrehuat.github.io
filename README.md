@@ -1,6 +1,6 @@
 This site is under construction. Major updates are expected by mid-2018.
 
-![Under construction](https://media.giphy.com/media/JxjnBQs18d7wI/giphy.gif)
+![Under construction](https://media.giphy.com/media/zHfDSSYHWL5cY/giphy.gif "Loading")
 
 # **Me, myself and I**
 
