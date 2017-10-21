@@ -1,4 +1,16 @@
-# Alexandre Huat's personal website
+This site is under construction. Major updates are expected by mid-2018.
 
-Welcome! This site is under construction.
-Please see my [LinkedIn profile](https://www.linkedin.com/in/alexandre-huat/?locale=en_US) to check my resume.
+![Under construction](https://media.giphy.com/media/JxjnBQs18d7wI/giphy.gif)
+
+# **Me, myself and I**
+
+I'm studying data science in the [Department of Information Systems Architecture](http://asi.insa-rouen.fr/?language=en)
+of the [National Institute of Applied Science of Rouen Normandie](http://www.insa-rouen.fr/accueil/index_html/view?set_language=en).
+
+Feel free to contact me at <alexandre.huat@gmail.com> or <alexandre.huat@insa-rouen.fr>.
+
+# Resume
+
+My resume will be directly published here.
+See [my LinkedIn profile](https://www.linkedin.com/in/alexandre-huat/?locale=en_US) for now.
+It's pretty well detailed.
