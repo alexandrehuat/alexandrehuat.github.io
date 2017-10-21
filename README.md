@@ -1,4 +1,4 @@
-<center><img alt="Loading" src="https://media1.giphy.com/media/l3nWhI38IWDofyDrW/giphy.gif" width="200"></center>
+<center><img alt="Loading" src="http://25.media.tumblr.com/tumblr_lritgdc4d61qlnzs9o1_500.gif" width="200"></center>
 
 The site is under construction. Major updates are expected by mid-2018.
 
