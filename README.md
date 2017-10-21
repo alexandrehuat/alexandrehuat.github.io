@@ -1,6 +1,5 @@
 This site is under construction. Major updates are expected by mid-2018.
-
-<img alt="Loading" src="https://media.giphy.com/media/JxjnBQs18d7wI/giphy.gif" width="100">
+<img alt="Loading" src="https://media.giphy.com/media/JxjnBQs18d7wI/giphy.gif" width="200">
 
 # **Me, myself and I**
 
