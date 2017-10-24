@@ -18,7 +18,7 @@ See [my LinkedIn profile](https://www.linkedin.com/in/alexandre-huat/?locale=en_
 
 ## When you're having troubles managing your life
 
-Younger, I faced a lot of varied problems that resulted in psychological disorders. I've wasted a ton of times to deal with, like years, but I finally found real solutions to adress my difficulties. Below are listed three books that truly made me bury my problems and become a total new person happy with myself and my pairs. I had significant life improvements when starting them. I sincerely recommend them to you if you recognize yourself in the previews you can read on Amazon. The Kindle versions are very practical to work with.
+Younger, I faced a lot of varied problems that caused me psychological disorders. I've wasted a ton of times to deal with, like years, but I finally found real solutions to adress my difficulties. Below are listed three books that truly made me bury these problems and become happier with myself and my pairs. I had significant life improvements when starting them. I sincerely recommend them to you if you recognize yourself in the previews you can read on Amazon. The Kindle versions are very practical to work with.
 
 [Knaus, W. J. (2012). *The Cognitive Behavioral Workbook for Depression: A Step-by-Step Program* (2nd ed.).](https://www.amazon.fr/Cognitive-Behavioral-Workbook-Depression-Step-ebook/dp/B0088NH2VG/ref=sr_1_sc_3?ie=UTF8&qid=1508869293&sr=8-3-spell&keywords=cognitive+behaviorral+workbook+for+depression)
 
