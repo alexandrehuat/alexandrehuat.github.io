@@ -24,6 +24,7 @@ Younger, I faced a lot of varied problems that caused me psychological disorders
 <img alt="The Cognitive Behavioral Workbook for Depression" src="https://images-eu.ssl-images-amazon.com/images/I/51kYRFkkdyL.jpg" width="200"> <img alt="The Cognitive Behavioral Workbook for Anxiety" src="https://images-eu.ssl-images-amazon.com/images/I/51y8hx1RQuL.jpg" width="200"> <img alt="The Mindfulness Workbook for Addiction" src="https://images-eu.ssl-images-amazon.com/images/I/51SFzEuV3VL.jpg" width="200">
 </div>
 
+
 [Knaus, W. J. (2012). *The Cognitive Behavioral Workbook for Depression: A Step-by-Step Program* (2nd ed.).](https://www.amazon.fr/Cognitive-Behavioral-Workbook-Depression-Step-ebook/dp/B0088NH2VG/ref=sr_1_sc_3?ie=UTF8&qid=1508869293&sr=8-3-spell&keywords=cognitive+behaviorral+workbook+for+depression)
 
 [Knaus, W. J. (2014). *The Cognitive Behavioral Workbook for Anxiety: A Step-by-Step Program* (2nd ed.).](https://www.amazon.fr/Cognitive-Behavioral-Workbook-Anxiety-Step-ebook/dp/B00MQCLJJG/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=NS8NTSVE4869FE6FH67G)
