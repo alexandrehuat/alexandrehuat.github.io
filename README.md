@@ -1,4 +1,4 @@
-The site is under construction. Major updates are expected by mid-2018.
+This site is under construction. Major updates are expected by mid-2018.
 
 <center><img alt="Loading" src="http://25.media.tumblr.com/tumblr_lritgdc4d61qlnzs9o1_500.gif" width="200"></center>
 
@@ -20,9 +20,13 @@ See [my LinkedIn profile](https://www.linkedin.com/in/alexandre-huat/?locale=en_
 
 > "One in four people in the world will be affected by mental or neurological disorders at some point in their lives." [(World Health Organization, 2001)][mental_dis]
 
-Younger, I faced a lot of varied problems that caused me psychological disorders. I've wasted a ton of times to deal with, like years, but I finally found real solutions to adress my difficulties. Below are listed three books that truly made me bury these problems and become happier with myself and my pairs. I had significant life improvements when starting them. I sincerely recommend them to you if you recognize yourself in the previews you can read on Amazon. The Kindle versions are very practical to work with.
+Brain is as valuable as other organs, and mind as observable as other phenomenons.
 
-[Knaus, W. J. (2012). *The Cognitive Behavioral Workbook for Depression: A Step-by-Step Program* (2nd ed.).](https://www.amazon.fr/Cognitive-Behavioral-Workbook-Depression-Step-ebook/dp/B0088NH2VG/ref=sr_1_sc_3?ie=UTF8&qid=1508869293&sr=8-3-spell&keywords=cognitive+behaviorral+workbook+for+depression)
+Sometimes, life's hard, it bends you knees and breaks your heart, people seem rough and you perceive situations as unmanageable. You may feel helpless, hopeless or even become lethargic when such situation are repeated. Younger, I went through such hard times. I've wasted a ton of times to deal with. But, by persisting in looking for help, I finally found real solutions to adress my difficulties.
+
+Thanks to the authors of the three books listed below, I healed my mood and my mind and become happier with myself and my pairs. These books brought stability and control in my life. If ever you go through endless hard times and recognize yourself in the books previews you can read on Amazon, I sincerely recommend them to you. If you decide to buy it, don't hesitate to choose the Kindle versions: they are very practical to work with.
+ 
+[Knaus, W. J. (2012). *The Cognitive Behavioral Workbook for Depression: A Step-by-Step Program* (2nd ed.).](http://amzn.to/2zEElrq)
 
 [Knaus, W. J. (2014). *The Cognitive Behavioral Workbook for Anxiety: A Step-by-Step Program* (2nd ed.).](https://www.amazon.fr/Cognitive-Behavioral-Workbook-Anxiety-Step-ebook/dp/B00MQCLJJG/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=NS8NTSVE4869FE6FH67G)
 
