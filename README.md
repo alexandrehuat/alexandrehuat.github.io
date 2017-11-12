@@ -4,7 +4,7 @@ This site is under construction. Major updates are expected by mid-2018.
 
 # Introduction
 
-I'm studying data science in the [Department of Information Systems Architecture](http://asi.insa-rouen.fr/?language=en)
+I am studying data science in the [Department of Information Systems Architecture](http://asi.insa-rouen.fr/?language=en)
 of the [National Institute of Applied Sciences of Rouen Normandie](http://www.insa-rouen.fr/accueil/index_html/view?set_language=en).
 
 Feel free to contact me at <alexandre.huat@gmail.com> or <alexandre.huat@insa-rouen.fr>.
@@ -22,10 +22,12 @@ See [my LinkedIn profile](https://www.linkedin.com/in/alexandre-huat/?locale=en_
 
 Brain is as valuable as other organs, and mind as observable as other phenomenons.
 
-Sometimes, life's hard, it bends you knees and breaks your heart, people seem rough and you perceive situations as unmanageable. You may feel helpless, hopeless or even become lethargic when such situation are repeated. Younger, I went through such hard times. I've wasted a ton of times to deal with. But, by persisting in looking for help, I finally found real solutions to adress my difficulties.
+Sometimes, life is hard, it bends you knees and breaks your heart, people seem rough and you perceive situations as unmanageable. You may feel helpless, hopeless or even become lethargic when such situation are repeated. Younger, I went through such hard times. I have wasted a lot of ressources to deal with. But, by persisting in looking for help, I found real solutions to adress my difficulties.
 
-Thanks to the authors of the three books listed below, I healed my mood and my mind and become happier with myself and my pairs. These books brought stability and control in my life. If ever you go through endless hard times and recognize yourself in the books previews you can read on Amazon, I sincerely recommend them to you. If you decide to buy it, don't hesitate to choose the Kindle versions: they are very practical to work with.
- 
+Thanks to the authors of the three books listed below, I healed my mood and my mind and became smarter and happier with myself and my pairs. These books brought stability and control in my life. These adresses three very common disorders: depression, anxiety and addiction. Not everyone has a good understanding of these conditions, especially people who suffer from them—there are reasons why…
+
+You can read the previews of the books on Amazon, or find critics on the internet, it may help you to build an opinion. If you recognize yourself in one preview, I sincerely recommend the book to you. If you decide to buy one, don't hesitate to choose the Kindle version: it is very practical to work with.
+
 [Knaus, W. J. (2012). *The Cognitive Behavioral Workbook for Depression: A Step-by-Step Program* (2nd ed.).](http://amzn.to/2zEElrq)
 
 [Knaus, W. J. (2014). *The Cognitive Behavioral Workbook for Anxiety: A Step-by-Step Program* (2nd ed.).](https://www.amazon.fr/Cognitive-Behavioral-Workbook-Anxiety-Step-ebook/dp/B00MQCLJJG/ref=pd_sim_351_1?_encoding=UTF8&psc=1&refRID=NS8NTSVE4869FE6FH67G)
@@ -35,5 +37,7 @@ Thanks to the authors of the three books listed below, I healed my mood and my m
 <div style="display: inline">
 <img alt="The Cognitive Behavioral Workbook for Depression" src="https://images-eu.ssl-images-amazon.com/images/I/51kYRFkkdyL.jpg" width="200"> <img alt="The Cognitive Behavioral Workbook for Anxiety" src="https://images-eu.ssl-images-amazon.com/images/I/51y8hx1RQuL.jpg" width="200"> <img alt="The Mindfulness Workbook for Addiction" src="https://images-eu.ssl-images-amazon.com/images/I/51SFzEuV3VL.jpg" width="200">
 </div>
+
+Particularly, I want to emphasize the Knaus' books on depression and anxiety. I used them a lot, there are of great quality, pretty straightforward and easy to work with. They contain depression and anxiety tests, and just by executing the exercises, my scores truly diminished to a non-affected level (< 10 %): that proves the efficacity of the therapy, in my case.
 
 [mental_dis]: http://www.who.int/whr/2001/media_centre/press_release/en/ "World Health Organization (2001). Mental disorders affect one in four people: Treatment available but not being used."
