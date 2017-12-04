@@ -38,6 +38,4 @@ You can read the previews of the books on Amazon, or find critics on the interne
 <img alt="The Cognitive Behavioral Workbook for Depression" src="https://images-eu.ssl-images-amazon.com/images/I/51kYRFkkdyL.jpg" width="200"> <img alt="The Cognitive Behavioral Workbook for Anxiety" src="https://images-eu.ssl-images-amazon.com/images/I/51y8hx1RQuL.jpg" width="200"> <img alt="The Mindfulness Workbook for Addiction" src="https://images-eu.ssl-images-amazon.com/images/I/51SFzEuV3VL.jpg" width="200">
 </div>
 
-Particularly, I want to emphasize the Knaus' books on depression and anxiety. I used them a lot, there are of great quality, pretty straightforward and easy to work with. They allowed me to reach less than 10 % of depression/anxiety levels—i.e. healthy.
-
 [mental_dis]: http://www.who.int/whr/2001/media_centre/press_release/en/ "World Health Organization (2001). Mental disorders affect one in four people: Treatment available but not being used."
