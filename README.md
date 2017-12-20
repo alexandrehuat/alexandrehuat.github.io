@@ -4,7 +4,7 @@ This site is under construction. Major updates are expected by mid-2018.
 
 I'm a french student in data science at [Dept. of Information Systems Architectures](http://asi.insa-rouen.fr/?language=en) of the [National Institute of Applied Sciences of Rouen Normandie](http://www.insa-rouen.fr/accueil/index_html/view?set_language=en). Feel free to contact me at <alexandre.huat@gmail.com> or <alexandre.huat@insa-rouen.fr>.
 
--------------
+------------
 
 ### Site Map
 
@@ -13,7 +13,7 @@ I'm a french student in data science at [Dept. of Information Systems Architectu
     * [Professionnal Experiences and Major Projects](#professional-experiences-and-major-projects)
     * [Formation](#formation)
 
-**************
+-----------------
 
 # Public Projects
 
@@ -42,7 +42,7 @@ If you prefer so, see [my LinkedIn profile](https://www.linkedin.com/in/alexandr
 
 ## Formation
 
-#### [Upcoming] 2018
+#### [Upcoming diplomas] 2018
 
 * __[Data Science MSc by Research](http://mastersid.univ-rouen.fr/eng/sd_en.php)__. _University of Rouen Normandie_. Rouen, France.
 * __IT engineer's degree__, Major in Data Science. _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France.
