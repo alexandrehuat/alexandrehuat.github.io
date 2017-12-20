@@ -44,7 +44,7 @@ If you prefer so, see [my LinkedIn profile](https://www.linkedin.com/in/alexandr
 
 #### [Upcoming diplomas] 2018
 
-* __[Data Science MSc by Research](http://mastersid.univ-rouen.fr/eng/sd_en.php)__. _University of Rouen Normandie_. Rouen, France.
+* __[Data Science MSc by Research](http://mastersid.univ-rouen.fr/eng/index_en.php)__. _University of Rouen Normandie_. Rouen, France.
 * __IT engineer's degree__, Major in Data Science. _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France.
 
 #### 2012–2014
