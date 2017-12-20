@@ -5,11 +5,13 @@ This site is under construction. Major updates are expected by mid-2018.
 I'm a french student in data science at [Department of Information Systems Architecture](http://asi.insa-rouen.fr/?language=en) of the [National Institute of Applied Sciences of Rouen Normandie](http://www.insa-rouen.fr/accueil/index_html/view?set_language=en). Feel free to contact me at <alexandre.huat@gmail.com> or <alexandre.huat@insa-rouen.fr>.
 
 
-Site plan
+# Site plan
+
 1. [Public Projects](#public-projects)
 2. [Resume](#resume)
     1. [Professionnal Experiences and Major Projects](#professional-experiences-and-major-projects)
     2. [Formation](#formation)
+
 
 # Public Projects
 
