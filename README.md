@@ -31,7 +31,7 @@ If you prefer so, see [my LinkedIn profile](https://www.linkedin.com/in/alexandr
 
 #### 2017
 
-* __ISO9001:2015 Certified INSA Project__ [1 year] [`UNICANCER Innovation Award 2017 <img alt="Award" src="images/award-medal.png" height="20">`](http://www.unicancer.fr/actualites/groupe/prix-unicancer-l’innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp). _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France. _**Abstract**—Part 1: Conception and development of a GUI for the segmentation of cancer patients' CT scans. Part 2: Automation of the process thanks to deep and fully convolutional networks._
+* __ISO9001:2015 Certified INSA Project__ [1 year] [`UNICANCER Innovation Award 2017` <img alt="Award" src="images/award-medal.png" height="20">](http://www.unicancer.fr/actualites/groupe/prix-unicancer-l’innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp). _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France. _**Abstract**—Part 1: Conception and development of a GUI for the segmentation of cancer patients' CT scans. Part 2: Automation of the process thanks to deep and fully convolutional networks._
 
 * __Data Scientist Intern__ [3 months]. _[Vekia](http://www.vekia.co.uk)_. Lille, France. _**Abstract**—Development of a Python 3 module for detecting suspicious stocks—phantom inventories—with machine learning techniques._
 
@@ -44,7 +44,7 @@ If you prefer so, see [my LinkedIn profile](https://www.linkedin.com/in/alexandr
 
 #### [Upcoming] 2018
 
-* __[Data Science MSc by Research](http://mastersid.univ-rouen.fr/eng/sd_en.php)__. _University of Rouen Normandie_. Rouen, France.
+* [__Data Science MSc by Research__](http://mastersid.univ-rouen.fr/eng/sd_en.php). _University of Rouen Normandie_. Rouen, France.
 * __IT engineer's degree__, Major in Data Science. _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France.
 
 #### 2012–2014
