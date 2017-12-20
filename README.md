@@ -15,7 +15,7 @@ I'm a french student in data science at [Dept. of Information Systems Architectu
 
 -----------------
 
-# Public Projects
+# Public Projects [↑](#site-map)
 
 #### 2017
 
@@ -23,11 +23,11 @@ I'm a french student in data science at [Dept. of Information Systems Architectu
 This project was part of an Estimation and Decision for Signal Processing class, given by Romain Hérault at INSA Rouen Normandie.
 
 
-# Resume
+# Resume [↑](#site-map)
 
 If you prefer so, see [my LinkedIn profile](https://www.linkedin.com/in/alexandre-huat/?locale=en_US).
 
-## Professional Experiences and Major Projects
+## Professional Experiences and Major Projects [↑](#resume)
 
 #### 2017
 
@@ -40,7 +40,7 @@ If you prefer so, see [my LinkedIn profile](https://www.linkedin.com/in/alexandr
 * __Production Workman Intern__ (4 weeks). _[Ressorts Masselin](http://www.masselin.com/fr/)_. Le Petit-Quevilly, France. _**Abstract**—Cold springs rolling, grinding, shot peening, quality controlling and packaging._
 
 
-## Formation
+## Formation [↑](#resume)
 
 #### [Upcoming diplomas] 2018
 
