@@ -34,15 +34,15 @@ If you prefer so, see [my LinkedIn profile](https://www.linkedin.com/in/alexandr
 
 #### 2017-2018
 
-* __Certified ISO9001:2015 INSA Project__ [1 year], <img alt="Award" src="images/award-medal.png" height="20"> `UNICANCER Innovation Award 2017`. _INSA Rouen Normandie, [Dept. Information Systems Architecture](http://asi.insa-rouen.fr/?language=en)_. Rouen, France. _**Abstract**—As part of a team of 6–9 students, in part time work. Part 1: Conception and development of a GUI for the segmentation of cancer patients' CT scans. The software aims to measure the patients' body composition so as to adjust their treatment. Part 2: Automation of the process thanks to deep convolutional and fully convolutional networks._
+* __Certified ISO9001:2015 INSA Project__ [1 year] <img alt="Award" src="images/award-medal.png" height="20"> `UNICANCER Innovation Award 2017`. _INSA Rouen Normandie, [Dept. Information Systems Architecture](http://asi.insa-rouen.fr/?language=en)_. Rouen, France. _**Abstract**—Part 1: Conception and development of a GUI for the segmentation of cancer patients' CT scans. Part 2: Automation of the process thanks to deep and fully convolutional networks._
 
 #### 2017
 
-* __Data Scientist Intern__ [3 months]. _[Vekia](http://www.vekia.co.uk)_. Lille, France. _**Abstract**—This research internship aimed to develop a Python module for detecting suspicious stocks—phantom inventories—with machine learning techniques. It led to build a stock simulator and an architecture for performance evaluation. One detector was conceived and compared with the already existing modules._
+* __Data Scientist Intern__ [3 months]. _[Vekia](http://www.vekia.co.uk)_. Lille, France. _**Abstract**—Development of a Python 3 module for detecting suspicious stocks—phantom inventories—with machine learning techniques._
 
 #### 2013
 
-* __Production Workman Intern__ [4 weeks]. _[Ressorts Masselin](http://www.masselin.com/fr/)_. Le Peti-Quevilly, France. _**Tasks**_—Cold springs rolling, grinding, shot peening, quality controlling and packaging.
+* __Production Workman Intern__ [4 weeks]. _[Ressorts Masselin](http://www.masselin.com/fr/)_. Le Petit-Quevilly, France. _**Abstract**—Cold springs rolling, grinding, shot peening, quality controlling and packaging._
 
 ## Languages
 
