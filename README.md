@@ -33,7 +33,7 @@ If you prefer so, see [my LinkedIn profile](https://www.linkedin.com/in/alexandr
 
 * `2016-2017.` __Java Developer__ (9 months). _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France. _**Abtsract**–Conception and development of a Java application for spatio-temporal hypergraphs representation._
 
-* `2016.` __Scientific and Technological Support in Primary School__ (6 months/7 sessions). _Public Primary School Gérard Philipe & University of Rouen._ Amfreville-la-Mi-Voie, France. _**Abstract**—Construction of a little wolf robot with 3rd and 5th grade pupils, and playful introduction to robotic programmation with [Thymio II](https://www.thymio.org/home-en:home)._
+* `2016.` __Scientific and Technological Support in Primary School__ (6 months/7 sessions). _Public Primary School Gérard Philipe and University of Rouen._ Amfreville-la-Mi-Voie, France. _**Abstract**—Construction of a little wolf robot with 3rd and 5th grade pupils, and playful introduction to robotic programmation with [Thymio II](https://www.thymio.org/home-en:home)._
 
 * `2013.` __Production Workman Intern__ (4 weeks). _[Ressorts Masselin](http://www.masselin.com/fr/)_. Le Petit-Quevilly, France. _**Abstract**—Cold springs rolling, grinding, shot peening, quality controlling and packaging._
 
@@ -44,6 +44,6 @@ If you prefer so, see [my LinkedIn profile](https://www.linkedin.com/in/alexandr
 
 * `2014-` __IT engineer's degree__, Major in Data Science. _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France.
 
-* `2012-2014.` __Engineer's preparatory class__, Major in Information Systems & Mathematics. _INSA Rouen Normandie, Dept. Sciences and Technologies for Engineering_. Rouen, France.
+* `2012-2014.` __Engineer's preparatory class__, Major in Information Systems and Mathematics. _INSA Rouen Normandie, Dept. Sciences and Technologies for Engineering_. Rouen, France.
 
-* `2012.` __French Baccalaureate of Sciences__, ***Magna Cum Laude***, Major in Earth & Life Sciences. _French School Abroad Montaigne_. Cotonou, Benin.
+* `2012.` __French Baccalaureate of Sciences__, ***Magna Cum Laude***, Major in Earth and Life Sciences. _French School Abroad Montaigne_. Cotonou, Benin.
