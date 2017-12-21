@@ -27,7 +27,7 @@ If you prefer so, see [my LinkedIn profile](https://www.linkedin.com/in/alexandr
 
 ## Professional Experience and Major Projects
 
-* `2017-`  __Lead Python Developer @ ISO9001:2015 Certified INSA Project__ (9 months), __*[UNICANCER Innovation Award 2017<img alt="Award" src="images/award-medal.png" height="20">](http://www.unicancer.fr/actualites/groupe/prix-unicancer-l’innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)*__. _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France. _**Abstract**—Part 1: Conception and development of a GUI for the segmentation of cancer patients' CT scans. Part 2: Automation of the process thanks to deep and fully convolutional networks._
+* `2017-`  __Lead Python Developer @ ISO9001:2015 Certified INSA Project__ (9 months), <img alt="Award" src="images/award-medal.png" height="20">__*[UNICANCER Innovation Award 4th ed.](http://www.unicancer.fr/actualites/groupe/prix-unicancer-l’innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)*__ _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France. _**Abstract**—Part 1: Conception and development of a GUI for the segmentation of cancer patients' CT scans. Part 2: Automation of the process thanks to deep and fully convolutional networks._
 
 * `2017.` __Data Scientist Intern__ (3 months). _[Vekia](http://www.vekia.co.uk)_. Lille, France. _**Abstract**—Development of a Python 3 module for detecting suspicious stocks—phantom inventories—with machine learning techniques._
 
