@@ -17,7 +17,7 @@ I’m a french student in data science. My favorite languages are Python 3 and m
 
 # Public Projects
 
-* `2017-` __[The group fused Lasso for multiple change-point detection: A Python 3 implementation](https://github.com/alexandrehuat/chgpt-detection-lasso)__. This project implements the group fused Lasso as defined by [Bleakley and Vert, 2011](https://arxiv.org/abs/1106.4199); it aims to detect breakpoints in multidimensional signals.
+* `2017-` __[The group fused Lasso for multiple change-point detection: A Python 3 implementation](https://github.com/alexandrehuat/chgpt-detection-lasso)__. This project implements the group fused Lasso as defined by [Bleakley and Vert, 2011](https://arxiv.org/abs/1106.4199); this method aims to detect breakpoints in multidimensional signals.
 
 * `2016.` For students or teachers: __Scientific and Technological Support in Primary School: An Introduction to Robotic Building and Programming for Children__ [[Report, French only]](https://www.dropbox.com/s/s3966fsgtphrx1s/ASTEP2016_AlexandreHuat_Rapport.pdf?dl=0)
 
