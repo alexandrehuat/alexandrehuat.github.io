@@ -10,8 +10,8 @@ I’m a french student in data science. My favorite languages are Python 3 and m
 
 * [Public Projects](#public-projects)
 * [Resume](#resume)
-    * [Professionnal Experiences and Major Projects](#professional-experiences-and-major-projects)
-    * [Formation](#formation)
+    * [Professionnal Experience and Major Projects](#professional-experience-and-major-projects)
+    * [Education](#education)
 
 -----------------
 
@@ -38,7 +38,7 @@ If you prefer so, see [my LinkedIn profile](https://www.linkedin.com/in/alexandr
 * `2013.` __Production Workman Intern__ (4 weeks). _[Ressorts Masselin](http://www.masselin.com/fr/)_. Le Petit-Quevilly, France. _**Abstract**—Cold springs rolling, grinding, shot peening, quality controlling and packaging._
 
 
-## Formation
+## Education
 
 * `2017-` __[Data Science MSc by Research](http://mastersid.univ-rouen.fr/eng/index_en.php)__. _University of Rouen Normandie_. Rouen, France.
 
