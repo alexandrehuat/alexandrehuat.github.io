@@ -20,7 +20,7 @@ I’m a french student in data science. My favorite languages are Python 3 and m
 * `2017-` __[The group fused Lasso for multiple change-point detection: A Python 3 implementation](https://github.com/alexandrehuat/chgpt-detection-lasso)__.
 This project was part of an Estimation and Decision for Signal Processing class, given by Romain Hérault at INSA Rouen Normandie.
 
-* `2016` For students or teachers: __Scientific and Technological Support in Primary School: An Introduction to Robotic Building and Programming for Children__ [[Report, French only]](ASTEP2016_Report_fr.pdf)
+* `2016.` For students or teachers: __Scientific and Technological Support in Primary School: An Introduction to Robotic Building and Programming for Children__ [[Report, French only]](https://www.dropbox.com/s/s3966fsgtphrx1s/ASTEP2016_AlexandreHuat_Rapport.pdf?dl=0)
 
 # Resume
 
@@ -30,13 +30,13 @@ If you prefer so, see [my LinkedIn profile](https://www.linkedin.com/in/alexandr
 
 * `2017-`  __Lead Python Developer @ ISO9001:2015 Certified INSA Project__ (9 months), __*[UNICANCER Innovation Award 2017<img alt="Award" src="images/award-medal.png" height="20">](http://www.unicancer.fr/actualites/groupe/prix-unicancer-l’innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)*__. _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France. _**Abstract**—Part 1: Conception and development of a GUI for the segmentation of cancer patients' CT scans. Part 2: Automation of the process thanks to deep and fully convolutional networks._
 
-* `2017` __Data Scientist Intern__ (3 months). _[Vekia](http://www.vekia.co.uk)_. Lille, France. _**Abstract**—Development of a Python 3 module for detecting suspicious stocks—phantom inventories—with machine learning techniques._
+* `2017.` __Data Scientist Intern__ (3 months). _[Vekia](http://www.vekia.co.uk)_. Lille, France. _**Abstract**—Development of a Python 3 module for detecting suspicious stocks—phantom inventories—with machine learning techniques._
 
-* `2016-2017` __Java Developer__ (9 months). _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France. _**Abtsract**–Conception and development of a Java application for spatio-temporal hypergraphs representation._
+* `2016-2017.` __Java Developer__ (9 months). _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France. _**Abtsract**–Conception and development of a Java application for spatio-temporal hypergraphs representation._
 
-* `2016` __Scientific and Technological Support in Primary School__ (6 months/7 sessions). _Public Primary School Gérard Philipe & University of Rouen._ Amfreville-la-Mi-Voie, France. _**Abstract**—Construction of a little wolf robot with 3rd and 5th grade pupils, and playful introduction to robotic programmation with [Thymio II](https://www.thymio.org/home-en:home)._
+* `2016.` __Scientific and Technological Support in Primary School__ (6 months/7 sessions). _Public Primary School Gérard Philipe & University of Rouen._ Amfreville-la-Mi-Voie, France. _**Abstract**—Construction of a little wolf robot with 3rd and 5th grade pupils, and playful introduction to robotic programmation with [Thymio II](https://www.thymio.org/home-en:home)._
 
-* `2013` __Production Workman Intern__ (4 weeks). _[Ressorts Masselin](http://www.masselin.com/fr/)_. Le Petit-Quevilly, France. _**Abstract**—Cold springs rolling, grinding, shot peening, quality controlling and packaging._
+* `2013.` __Production Workman Intern__ (4 weeks). _[Ressorts Masselin](http://www.masselin.com/fr/)_. Le Petit-Quevilly, France. _**Abstract**—Cold springs rolling, grinding, shot peening, quality controlling and packaging._
 
 
 ## Formation
@@ -45,6 +45,6 @@ If you prefer so, see [my LinkedIn profile](https://www.linkedin.com/in/alexandr
 
 * `2014-` __IT engineer's degree__, Major in Data Science. _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France.
 
-* `2012-2014` __Engineer's preparatory class__, Major in Information Systems & Mathematics. _INSA Rouen Normandie, Dept. Sciences and Technologies for Engineering_. Rouen, France.
+* `2012-2014.` __Engineer's preparatory class__, Major in Information Systems & Mathematics. _INSA Rouen Normandie, Dept. Sciences and Technologies for Engineering_. Rouen, France.
 
-* `2012` __French Baccalaureate of Sciences__, ***Magna Cum Laude***, Major in Earth & Life Sciences. _French School Abroad Montaigne_. Cotonou, Benin.
+* `2012.` __French Baccalaureate of Sciences__, ***Magna Cum Laude***, Major in Earth & Life Sciences. _French School Abroad Montaigne_. Cotonou, Benin.
