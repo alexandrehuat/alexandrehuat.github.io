@@ -22,3 +22,5 @@ highlighter: rouge
 
 plugins:
   - jekyll-paginate
+  - jekyll-avatar
+  - jekyll-sitemap
