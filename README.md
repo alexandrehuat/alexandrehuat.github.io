@@ -15,19 +15,18 @@ I'm a french student in data science at [Dept. of Information Systems Architectu
 
 -----------------
 
-# Public Projects [↑](#site-map)
+# Public Projects
 
 #### 2017
 
 * __[The group fused Lasso for multiple change-point detection: A Python 3 implementation](https://github.com/alexandrehuat/chgpt-detection-lasso)__.
 This project was part of an Estimation and Decision for Signal Processing class, given by Romain Hérault at INSA Rouen Normandie.
 
-
-# Resume [↑](#site-map)
+# Resume
 
 If you prefer so, see [my LinkedIn profile](https://www.linkedin.com/in/alexandre-huat/?locale=en_US).
 
-## Professional Experiences and Major Projects [↑](#resume)
+## Professional Experiences and Major Projects
 
 #### 2017
 
@@ -40,7 +39,7 @@ If you prefer so, see [my LinkedIn profile](https://www.linkedin.com/in/alexandr
 * __Production Workman Intern__ (4 weeks). _[Ressorts Masselin](http://www.masselin.com/fr/)_. Le Petit-Quevilly, France. _**Abstract**—Cold springs rolling, grinding, shot peening, quality controlling and packaging._
 
 
-## Formation [↑](#resume)
+## Formation
 
 #### [Upcoming diplomas] 2018
 
