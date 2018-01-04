@@ -31,7 +31,7 @@ I’m a french student in data science. My favorite languages are Python 3 and m
 
 * `2016–2017.` __Java Developer__ (9 months). _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France. _**Abtsract**–Conception and development of a Java application for spatio-temporal hypergraphs representation—contribution to geomatic research at INSA Rouen Normandie._
 
-* `2016.` __Scientific and Technological Support in Primary School__ (6 months/7 sessions). _Public Primary School Gérard Philipe and University of Rouen._ Amfreville-la-Mi-Voie, France. _**Abstract**—Construction of a wolf robot with 3rd and 5th grade pupils, and playful introduction to robotic programmation with [Thymio II](https://www.thymio.org/home-en:home)._
+* `2016.` __Scientific and Technological Support in Primary School__ (6 months/7 sessions). _Public Primary School Gérard Philipe and University of Rouen._ Amfreville-la-Mi-Voie, France. _**Abstract**—Construction of a wolf robot with 3rd and 5th grade pupils, and playful introduction to robotic programming with [Thymio II](https://www.thymio.org/home-en:home)._
 
 * `2013.` __Production Workman Intern__ (4 weeks). _[Ressorts Masselin](http://www.masselin.com/fr/)_. Le Petit-Quevilly, France. _**Abstract**—Cold springs rolling, grinding, shot peening, quality controlling and packaging._
 
