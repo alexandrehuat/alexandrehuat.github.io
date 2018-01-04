@@ -8,16 +8,18 @@ I’m a french student in data science. My favorite languages are Python 3 and m
 
 ### Site Map
 
-* [Public Projects](#public-projects)
+* [Public Projects and Realisations](#public-projects)
 * [Resume](#resume)
     * [Professionnal Experience and Major Projects](#professional-experience-and-major-projects)
     * [Education](#education)
 
 -----------------
 
-# Public Projects
+# Public Projects and Realisations
 
 * `2017–` [Not for release yet] __[The group fused Lasso for multiple change-point detection: A Python 3 implementation](https://github.com/alexandrehuat/chgpt-detection-lasso)__. This project implements the group fused Lasso as defined by [Bleakley and Vert, 2011](https://arxiv.org/abs/1106.4199); this method aims to detect breakpoints in multidimensional signals.
+
+* `2017.` __Speech Emotion Recognition: A bibliographical survey__ [French only]().
 
 * `2016.` For students or teachers: __Scientific and Technological Support in Primary School: An Introduction to Robotic Programming for Children__ [[Report, French only]](https://www.dropbox.com/s/s3966fsgtphrx1s/ASTEP2016_AlexandreHuat_Rapport.pdf?dl=0).
 
