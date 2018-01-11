@@ -27,9 +27,9 @@ I’m a french student in data science and a believer in open source. My favorit
 
 ## Professional experience and major projects
 
-* `2017–`  __Lead Python Developer @ ISO9001:2015 Certified INSA Project__ (9 months), <img alt="Award" src="images/award-medal.png" height="20">__*[UNICANCER Innovation Award 4th ed.](http://www.unicancer.fr/actualites/groupe/prix-unicancer-l’innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)*__ _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France. _**Abstract**—Part 1: Conception and development of a GUI for the segmentation of cancer patients' CT scans. Part 2: Automation of the process thanks to deep and fully convolutional networks._
+* `2017–`  __Lead Python Developer @ ISO9001:2015 Certified INSA Project__ (9 months), <img alt="Award" src="images/award-medal.png" height="20">__*[UNICANCER Innovation Award 4th ed.](http://www.unicancer.fr/actualites/groupe/prix-unicancer-l’innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)*__ _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France. _**Abstract**—Conception and development of a Python GUI for the segmentation of cancer patients' CT scans. Automation of the process thanks to Keras-implemented deep and fully convolutional networks._
 
-* `2017.` __Data Scientist Intern__ (3 months). _[Vekia](http://www.vekia.co.uk)_. Lille, France. _**Abstract**—Development of a Python 3 module for detecting suspicious stocks—phantom inventories—with machine learning techniques._
+* `2017.` __Data Scientist Intern__ (3 months). _[Vekia](http://www.vekia.co.uk)_. Lille, France. _**Abstract**—Development of a Python module for detecting suspicious stocks—phantom inventories—with machine learning techniques._
 
 * `2013.` __Production Workman Intern__ (4 weeks). _[Ressorts Masselin](http://www.masselin.com/fr/)_. Le Petit-Quevilly, France. _**Abstract**—Cold springs rolling, grinding, shot peening, quality controlling and packaging._
 
