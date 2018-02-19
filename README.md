@@ -2,6 +2,8 @@
 
 I’m a french student in data science and a believer in open source and public data. My favorite languages are Python 3 and mathematics. I'm interested in machine learning applied to medicine, sports and security. Feel free to contact me at <alexandre.huat@gmail.com> or <alexandre.huat@insa-rouen.fr>.
 
+[LinkedIn](https://www.linkedin.com/in/alexandre-huat/?locale=en_US)
+
 ------------
 
 ### Site map
