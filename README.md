@@ -25,7 +25,7 @@ I’m a french student in data science and a believer in open source and public 
 
 ## Professional experience and major projects
 
-* `Jan. 2017 – Jan. 2018.`  __Lead Python Developer @ ISO9001:2015 Certified INSA Project__, <img alt="Award" src="images/award-medal.png" height="20">__*[UNICANCER Innovation Award 4th ed.](http://www.unicancer.fr/actualites/groupe/prix-unicancer-l’innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)*__ _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France. _**Abstract**—Conception and development of a Python GUI for the segmentation of cancer patients' CT scans. Automation of the process thanks to Keras-implemented deep and fully convolutional networks._
+* `Jan. 2017 – Jan. 2018.`  __Lead Python Developer @ ISO9001:2015 Certified INSA Project__, <img alt="Award" src="images/award-medal.png" height="20">__*[UNICANCER Innovation Award 2017](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)*__. _INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)_. Rouen, France. _**Abstract**—Conception and development of a Python GUI for the segmentation of cancer patients' CT scans. Automation of the process thanks to Keras-implemented deep and fully convolutional networks._
 
 * `June – Aug. 2017.` __Data Scientist Intern__. _[Vekia](http://www.vekia.co.uk)_. Lille, France. _**Abstract**—Development of a Python module for detecting suspicious stocks—phantom inventories—with machine learning techniques._
 
