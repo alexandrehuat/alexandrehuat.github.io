@@ -15,7 +15,7 @@ I’m a french student in data science and a believer in open source and public 
 
 # Public projects and other works
 
-* `Jan. 2018.` __Speech Emotion Recognition: A bibliographical survey__ [[French only]](SER_Survey_fr.pdf). Cite this [(BibTeX)](SER_Survey_cite_this.bib).
+* `Jan. 2018.` __Speech Emotion Recognition: A bibliographical survey__ [[French only]](SER_Survey_fr.pdf). [Cite this (BibTeX)](SER_Survey_cite_this.bib).
 
 * `Feb. 2018–` __[gflsegpy: A Python 3 implementation of the group fused Lasso for multiple change-point detection](https://github.com/alexandrehuat/gflsegpy)__. This project implements the group fused Lasso (GFL) as defined by [Bleakley and Vert, 2011](https://arxiv.org/abs/1106.4199), a method aiming to detect breakpoints in multidimensional signals. The fully documented gflsegpy package provides an implementation of two GFL algorithms plus a demo script and a data visualization module.
 
