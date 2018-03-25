@@ -10,6 +10,7 @@ I’m a french student in data science and a believer in open source and public 
 * [Resume](#resume)
     * [Professionnal experience and major projects](#professional-experience-and-major-projects)
     * [Education](#education)
+    * [Prizes](#prizes)
 
 -----------------
 
@@ -29,7 +30,7 @@ I’m a french student in data science and a believer in open source and public 
 
 * `Jan. 2017–Jan. 2018.`  **Lead Python Developer @ ISO9001:2015 Certified INSA Project**, <img alt="Award" src="images/award-medal.png" height="20">**_[UNICANCER Innovation Award 2017](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)_**. *[INSA Rouen Normandie](https://www.insa-rouen.fr), [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)*. Rouen, France. *__Abstract__—Conception and development of a Python GUI for the segmentation of cancer patients' CT scans. Automation of the process thanks to Keras-implemented deep and fully convolutional networks.*
 
-* `June–Aug. 2017.` **Data Scientist Intern**. *[Vekia](http://www.vekia.co.uk)*. Lille, France. *__Abstract__—Development of a Python module for detecting suspicious stocks—phantom inventories—with machine learning techniques.*
+* `June–Aug. 2017.` **R&D Data Scientist Intern**. *[Vekia](http://www.vekia.co.uk)*. Lille, France. *__Abstract__—Development of a Python module for detecting suspicious stocks—phantom inventories—with machine learning techniques.*
 
 * `July 2013.` **Production Workman Intern**. *[Ressorts Masselin](http://www.masselin.com/fr/)*. Le Petit-Quevilly, France. _**Abstract**—Cold springs rolling, grinding, shot peening, quality controlling and packaging._
 
@@ -43,3 +44,9 @@ I’m a french student in data science and a believer in open source and public 
 * `Sept. 2012–June 2014.` **Engineer's preparatory class**, Major in Information Systems and Mathematics. *[INSA Rouen Normandie](https://www.insa-rouen.fr), Dept. Sciences and Technologies for Engineering*. Rouen, France.
 
 * `July 2012.` **French Baccalaureate of Sciences**, **_Magna Cum Laude_**, Major in Earth and Life Sciences. *French School Abroad Montaigne*. Cotonou, Benin.
+
+
+## Prizes
+
+* `Feb.–May 2017.` **[4th @ Speed Data Scientist 2017: Failures detection challenge](http://speed-data-scientist.bemyapp.com)**. *[Société Générale](https://www.societegenerale.fr)*. Paris, France.
+
