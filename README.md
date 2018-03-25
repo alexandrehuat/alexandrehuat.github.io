@@ -27,7 +27,7 @@ I’m a french student in data science and a believer in open source and public 
 
 * `March 2018–`  **Research Intern**. *[INRIA Lille Nord Europe](https://www.inria.fr/centre/lille), [Team MAGNET](https://team.inria.fr/magnet)*. Lille, France. *__Abstract__—Improvement of the robustness of a privacy-preserving algorithm for decentralized averaging. Robustness is to be provided against users disconnections and malicious adversaries in P2P-like networks.*
 
-* `Jan. 2017–Jan. 2018.`  **Lead Python Developer @ ISO9001:2015 Certified INSA Project**, <img alt="Award" src="images/award-medal.png" height="20">**_[UNICANCER Innovation Award 2017](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)_**. *INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)*. Rouen, France. *__Abstract__—Conception and development of a Python GUI for the segmentation of cancer patients' CT scans. Automation of the process thanks to Keras-implemented deep and fully convolutional networks.*
+* `Jan. 2017–Jan. 2018.`  **Lead Python Developer @ ISO9001:2015 Certified INSA Project**, <img alt="Award" src="images/award-medal.png" height="20">**_[UNICANCER Innovation Award 2017](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)_**. *[INSA Rouen Normandie](https://www.insa-rouen.fr), [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)*. Rouen, France. *__Abstract__—Conception and development of a Python GUI for the segmentation of cancer patients' CT scans. Automation of the process thanks to Keras-implemented deep and fully convolutional networks.*
 
 * `June–Aug. 2017.` **Data Scientist Intern**. *[Vekia](http://www.vekia.co.uk)*. Lille, France. *__Abstract__—Development of a Python module for detecting suspicious stocks—phantom inventories—with machine learning techniques.*
 
@@ -36,10 +36,10 @@ I’m a french student in data science and a believer in open source and public 
 
 ## Education
 
-* `Sept. 2017–` **[Data Science MSc by Research](http://mastersid.univ-rouen.fr/eng/index_en.php)**. *University of Rouen Normandie*. Rouen, France.
+* `Sept. 2017–` **[Data Science MSc by Research](http://mastersid.univ-rouen.fr/eng/index_en.php)**. *[University of Rouen Normandie](http://www.univ-rouen.fr)*. Rouen, France.
 
-* `Sept. 2014–` **IT engineer's degree, Major in Data Science. *INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)*. Rouen, France.
+* `Sept. 2014–` **IT engineer's degree**, Major in Data Science. *[INSA Rouen Normandie](https://www.insa-rouen.fr), [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)*. Rouen, France.
 
-* `Sept. 2012–June 2014.` **Engineer's preparatory class**, Major in Information Systems and Mathematics. *INSA Rouen Normandie, Dept. Sciences and Technologies for Engineering*. Rouen, France.
+* `Sept. 2012–June 2014.` **Engineer's preparatory class**, Major in Information Systems and Mathematics. *[INSA Rouen Normandie](https://www.insa-rouen.fr), Dept. Sciences and Technologies for Engineering*. Rouen, France.
 
 * `July 2012.` **French Baccalaureate of Sciences**, **_Magna Cum Laude_**, Major in Earth and Life Sciences. *French School Abroad Montaigne*. Cotonou, Benin.
