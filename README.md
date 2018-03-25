@@ -25,7 +25,7 @@ I’m a french student in data science and a believer in open source and public 
 
 ## Professional experience and major projects
 
-* `March 2018–`  **Research Intern**. *[INRIA Lille Nord Europe](https://www.inria.fr/centre/lille), [Team MAGNET](https://team.inria.fr/magnet)*. Lille, France. *__Abstract__—Improvement of the robustness of a decentralized and privacy-preserving algorithm for averaging. Robustness is to be provided against users disconnections and malicious adversaries in P2P-like networks.*
+* `March 2018–`  **Research Intern**. *[INRIA Lille Nord Europe](https://www.inria.fr/centre/lille), [Team MAGNET](https://team.inria.fr/magnet)*. Lille, France. *__Abstract__—Improvement of the robustness of a privacy-preserving algorithm for decentralized averaging. Robustness is to be provided against users disconnections and malicious adversaries in P2P-like networks.*
 
 * `Jan. 2017–Jan. 2018.`  **Lead Python Developer @ ISO9001:2015 Certified INSA Project**, <img alt="Award" src="images/award-medal.png" height="20">**_[UNICANCER Innovation Award 2017](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)_**. *INSA Rouen Normandie, [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)*. Rouen, France. *__Abstract__—Conception and development of a Python GUI for the segmentation of cancer patients' CT scans. Automation of the process thanks to Keras-implemented deep and fully convolutional networks.*
 
