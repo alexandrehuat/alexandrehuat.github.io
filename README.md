@@ -1,6 +1,6 @@
 <center><img alt="Loading" src="http://25.media.tumblr.com/tumblr_lritgdc4d61qlnzs9o1_500.gif" width="200"></center>
 
-I’m a french student in data science and a believer in open source and public data. My favorite languages are Python 3 and mathematics. I'm interested in machine learning applied to medicine, sports and security. Feel free to contact me at <alexandre.huat@gmail.com>.
+I am a french student in data science and a believer in open source and public data. My favorite languages are Python 3 and mathematics. I'm interested in machine learning applied to medicine, sports and security. Feel free to contact me at <alexandre.huat@gmail.com>.
 
 ------------
 
