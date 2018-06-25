@@ -24,6 +24,8 @@ I am a french student in data science and a believer in open source and public d
 
 # Resume
 
+***[Click here to get the PDF version](CV-AlexandreHuat-2018-06.pdf)***
+
 ## Professional experience and major projects
 
 * `March 2018–`  **Research Intern**. *[INRIA Lille Nord Europe](https://www.inria.fr/centre/lille), [MAGNET team](https://team.inria.fr/magnet)*. Lille, France. *__Abstract__—Improvement of the robustness of a privacy-preserving algorithm for decentralized averaging. Robustness is to be provided against users disconnections and malicious adversaries in P2P networks.*
