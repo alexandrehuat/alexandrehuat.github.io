@@ -39,7 +39,7 @@ I am a french student in data science and a believer in open source and public d
 
 ## Education
 
-* `Sept. 2017–` **[MSc by Research Data Science](http://mastersid.univ-rouen.fr/eng/index_en.php)** (dual degree). *[University of Rouen Normandie](http://www.univ-rouen.fr)*. Rouen, France.
+* `Sept. 2017–` **[MSc by Research Data Science](http://mastersid.univ-rouen.fr/eng/index_en.php)** *(Dual degree)*. *[University of Rouen Normandie](http://www.univ-rouen.fr)*. Rouen, France.
 
 * `Sept. 2014–` **IT engineer's degree**, Major in Data Science. *[INSA Rouen Normandie](https://www.insa-rouen.fr), [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)*. Rouen, France.
 
