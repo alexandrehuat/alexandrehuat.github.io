@@ -8,22 +8,13 @@ I'm a french student in data science and a believer in open source and public da
 
 ### Site map
 
-* [Public projects and other works](#public-projects-and-other-works)
 * [Resume](#resume)
-    * [Professionnal experience and major projects](#professional-experience-and-major-projects)
-    * [Education](#education)
+    * [Work experience](#work-experience)
+    * [Diplomas](#diplomas)
     * [Prizes](#prizes)
+* [Public projects and other works](#public-projects-and-other-works)
 
 -----------------
-
-# Public projects and other works
-
-* `Jan. 2018.` **Speech Emotion Recognition: A bibliographical survey** [[French only]](SER_Survey_elsarticle.pdf). [Cite this (BibTeX)](SER_Survey_cite_this.bib).
-
-* `Nov. 2017–` **[gflsegpy: A Python 3 implementation of the group fused Lasso for multiple change-point detection](https://github.com/alexandrehuat/gflsegpy)**. This project implements the group fused Lasso (GFL), as defined by [Bleakley and Vert, 2011](https://arxiv.org/abs/1106.4199), a method for detecting breakpoints in multidimensional signals. The gflsegpy package provides an implementation of two GFL algorithms plus a demo script and a data visualization module.
-
-* `Jan.–June 2016.` For students or teachers: **Scientific and Technological Support in Primary School: An introduction to robotic programming for children** [[Report, French only]](https://www.dropbox.com/s/s3966fsgtphrx1s/ASTEP2016_AlexandreHuat_Rapport.pdf?dl=0).
-
 
 # Resume
 
@@ -39,20 +30,24 @@ I'm a french student in data science and a believer in open source and public da
 
 * `July 2013.` **Production Workman Intern**. *[Ressorts Masselin](http://www.masselin.com/fr/)*. Le Petit-Quevilly, France. _**Abstract**—Cold springs rolling, grinding, shot peening, quality controlling and packaging._
 
+## Diplomas
 
-## Education
+* `Sept. 2018` **[Master Data Science and Engineering](http://mastersid.univ-rouen.fr/eng/index_en.php)**, *Data Science Track*. *[University of Rouen Normandie](http://www.univ-rouen.fr)*. Rouen, France.
 
-* `Sept. 2017–Sopt. 2018` **[Master Data Science and Engineering](http://mastersid.univ-rouen.fr/eng/index_en.php)**, *Data Science Track*. *[University of Rouen Normandie](http://www.univ-rouen.fr)*. Rouen, France.
-
-* `Sept. 2014–Sept. 2018` **IT engineer's degree**, Major in Data Engineering. *[INSA Rouen Normandie](https://www.insa-rouen.fr), [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)*. Rouen, France.
-
-* `Sept. 2012–June 2014.` **Engineer's preparatory class**, Major in Information Systems and Mathematics. *[INSA Rouen Normandie](https://www.insa-rouen.fr), Dept. Sciences and Technologies for Engineering*. Rouen, France.
+* `Sept. 2018` **IT engineer**, Major in Data Engineering. *[INSA Rouen Normandie](https://www.insa-rouen.fr), [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)*. Rouen, France.
 
 * `July 2012.` **French Baccalaureate of Sciences**, **_Magna Cum Laude_**, Major in Earth and Life Sciences. *French School Abroad Montaigne*. Cotonou, Benin.
-
 
 ## Prizes
 
 * `October 2017.` **[UNICANCER Innovation Award 2017: Management and Research Award](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)**. *[UNICANCER](http://www.unicancer.fr)*. France.
 * `May 2017.` **[4th and Best Presentation Award @ Speed Data Scientist 2017: Failures detection challenge](http://speed-data-scientist.bemyapp.com)**. *[Société Générale](https://www.societegenerale.fr)*. Paris, France.
 
+
+# Public projects and other works
+
+* `Jan. 2018.` **Speech Emotion Recognition: A bibliographical survey** [[French only]](SER_Survey_elsarticle.pdf). [Cite this (BibTeX)](SER_Survey_cite_this.bib).
+
+* `Nov. 2017–` **[gflsegpy: A Python 3 implementation of the group fused Lasso for multiple change-point detection](https://github.com/alexandrehuat/gflsegpy)**. This project implements the group fused Lasso (GFL), as defined by [Bleakley and Vert, 2011](https://arxiv.org/abs/1106.4199), a method for detecting breakpoints in multidimensional signals. The gflsegpy package provides an implementation of two GFL algorithms plus a demo script and a data visualization module.
+
+* `Jan.–June 2016.` For students or teachers: **Scientific and Technological Support in Primary School: An introduction to robotic programming for children** [[Report, French only]](https://www.dropbox.com/s/s3966fsgtphrx1s/ASTEP2016_AlexandreHuat_Rapport.pdf?dl=0).
