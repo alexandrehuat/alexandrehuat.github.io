@@ -1,6 +1,6 @@
 <center><img alt="Loading" src="http://25.media.tumblr.com/tumblr_lritgdc4d61qlnzs9o1_500.gif" width="200"></center>
 
-I am a french student in data science and a believer in open source and public data. My favorite languages are Python 3 and mathematics. I'm interested in machine learning applied to medicine, sports and security. Feel free to contact me at <alexandre.huat@gmail.com>.
+I'm a french student in data science and a believer in open source and public data. My favorite languages are Python 3 and mathematics. I'm interested in machine learning applied to medicine, sports and security. Feel free to contact me at <alexandre.huat@gmail.com>.
 
 ------------
 
@@ -25,11 +25,11 @@ I am a french student in data science and a believer in open source and public d
 
 # Resume
 
-***[Click here to get the PDF version](CV-AlexandreHuat-2018-06.pdf)***
+***[Click here to get the PDF version (06/2018)](CV.pdf)***
 
 ## Work experience
 
-* `March 2018–`  **Research Intern**. *[INRIA Lille Nord Europe](https://www.inria.fr/centre/lille), [MAGNET team](https://team.inria.fr/magnet)*. Lille, France. *__Abstract__—Improvement of the robustness of a privacy-preserving algorithm for decentralized averaging. Robustness is to be provided against users disconnections and malicious adversaries in P2P networks.*
+* `March–August 2018`  **Research Intern**. *[INRIA Lille Nord Europe](https://www.inria.fr/centre/lille), [MAGNET team](https://team.inria.fr/magnet)*. Lille, France. *__Abstract__—Improvement of the robustness of GOPA, a privacy-preserving algorithm for distributed averaging. GOPA has applications to distributed machine learning over P2P networks. Robustness was provided against users disconnections and malicious adversaries.*
 
 * `Jan. 2017–Jan. 2018.`  **Lead Python Developer @ ISO9001:2015 Certified INSA Project**, <img alt="Award" src="images/award-medal.png" height="20">**_[UNICANCER Innovation Award 2017: Management and Research Award](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)_**. *[Henri Becquerel Center](http://www.becquerel.fr/), Medical Imaging and [INSA Rouen Normandie](https://www.insa-rouen.fr), [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)*. Rouen, France. *__Abstract__—Conception and development of a Python GUI for the segmentation of cancer patients' CT scans. Automation of the process thanks to Keras-implemented deep and fully convolutional networks.*
 
@@ -40,9 +40,9 @@ I am a french student in data science and a believer in open source and public d
 
 ## Education
 
-* `Sept. 2017–` **[MSc by Research Data Science](http://mastersid.univ-rouen.fr/eng/index_en.php)** *(Dual degree)*. *[University of Rouen Normandie](http://www.univ-rouen.fr)*. Rouen, France.
+* `Sept. 2017–Sopt. 2018` **[Master Data Science and Engineering](http://mastersid.univ-rouen.fr/eng/index_en.php)**, *Data Science Track*. *[University of Rouen Normandie](http://www.univ-rouen.fr)*. Rouen, France.
 
-* `Sept. 2014–` **IT engineer's degree**, Major in Data Science. *[INSA Rouen Normandie](https://www.insa-rouen.fr), [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)*. Rouen, France.
+* `Sept. 2014–Sept. 2018` **IT engineer's degree**, Major in Data Engineering. *[INSA Rouen Normandie](https://www.insa-rouen.fr), [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)*. Rouen, France.
 
 * `Sept. 2012–June 2014.` **Engineer's preparatory class**, Major in Information Systems and Mathematics. *[INSA Rouen Normandie](https://www.insa-rouen.fr), Dept. Sciences and Technologies for Engineering*. Rouen, France.
 
