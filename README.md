@@ -18,7 +18,7 @@ I'm a french student in data science and a believer in open source and public da
 
 # Resume
 
-***[Click here to get the PDF version (06/2018)](CV.pdf)***
+***[Click here to get the French version (PDF)](CV.pdf)***
 
 ## Work experience
 
