@@ -44,14 +44,13 @@ I'm a french PhD student in machine learning and a believer in open source and p
 * `Oct. 2017.` **[Unicancer Innovation Award 2017: Management and Research Award](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)**. *[Unicancer](http://www.unicancer.fr)*. France.
 * `May 2017.` **[4th and Best Presentation Award @ Speed Data Scientist 2017: Failures detection challenge](http://speed-data-scientist.bemyapp.com)**. *[Société Générale](https://www.societegenerale.fr)*. Paris, France.
 
-
+----
 
 # Publications
 
 <div><script src="https://bibbase.org/show?bib=https%3A%2F%2Falexandrehuat.github.io%2Fpublications.bib&jsonp=1"></script></div>
-<br>
 
-
+----
 
 # Public projects and other works
 
