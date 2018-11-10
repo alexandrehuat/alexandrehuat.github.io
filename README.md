@@ -17,7 +17,7 @@ I'm a french PhD student in machine learning and a believer in open source and p
 
 ----
 
-# Resume [&uarr;](#site-map)
+# Resume
 
 ***[Click here to get the French version (PDF)](CV.pdf)***
 
@@ -46,14 +46,14 @@ I'm a french PhD student in machine learning and a believer in open source and p
 
 
 
-# Publications [&uarr;](#site-map)
+# Publications
 
 <div><script src="https://bibbase.org/show?bib=https%3A%2F%2Falexandrehuat.github.io%2Fpublications.bib&jsonp=1"></script></div>
 <br>
 
 
 
-# Public projects and other works [&uarr;](#site-map)
+# Public projects and other works
 
 * `Jan. 2018.` **[Speech Emotion Recognition: A bibliographical survey](SER_Survey_elsarticle.pdf)**. [BibTeX](SER_Survey_cite_this.bib).
 
