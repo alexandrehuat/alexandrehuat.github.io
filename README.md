@@ -47,7 +47,7 @@ I'm a french PhD student in machine learning and a believer in open source and p
 
 # Publications
 
-
+<div><script src="https://bibbase.org/show?bib=https%3A%2F%2Falexandrehuat.github.io%2Fpublications.bib&jsonp=1"></script></div>
 
 # Public projects and other works
 
