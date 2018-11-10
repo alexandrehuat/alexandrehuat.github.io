@@ -49,7 +49,7 @@ I'm a french PhD student in machine learning and a believer in open source and p
 # Publications [&uarr;](#site-map)
 
 <div><script src="https://bibbase.org/show?bib=https%3A%2F%2Falexandrehuat.github.io%2Fpublications.bib&jsonp=1"></script></div>
-<br><br>
+<br>
 
 
 
