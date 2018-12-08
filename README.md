@@ -23,9 +23,11 @@ I'm a french PhD student in machine learning and a believer in open source and p
 
 ## Work experience
 
+* `Nov. 2018–Now!` **Industrial PhD student**. *[LITIS](http://www.litislab.fr/), [QuantIF team](http://www.litislab.fr/equipe/quantif/) and [Henri Becquerel Center](https://www.becquerel.fr/) and [AQUILAB](http://www.aquilab.com/)*. France.
+
 * `March–Aug. 2018.`  **Research Intern**. *[INRIA Lille Nord Europe](https://www.inria.fr/centre/lille), [MAGNET team](https://team.inria.fr/magnet)*. Lille, France. *__Abstract__—Improvement of GOPA, a privacy-preserving algorithm for distributed averaging over P2P networks. Robustness was provided against users disconnections and malicious adversaries.*
 
-* `Jan. 2017–Jan. 2018.`  **Lead Python Developer @ ISO9001:2015 Certified INSA Project**, <img alt="Award" src="images/award-medal.png" height="20">**_[Unicancer Innovation Award 2017: Management and Research Award](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)_**. *[Henri Becquerel Center](http://www.becquerel.fr/), Medical Imaging and [INSA Rouen Normandie](https://www.insa-rouen.fr), [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)*. Rouen, France. *__Abstract__—Conception and development of a Python GUI for the segmentation of cancer patients' CT scans. Automation of the process thanks to Keras-implemented deep and fully convolutional networks.*
+* `Jan. 2017–Jan. 2018.`  **Lead Python Developer @ ISO9001:2015 Certified INSA Project**, <img alt="Award" src="images/award-medal.png" height="20">**_[Unicancer Innovation Award 2017: Management and Research Award](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)_**. *[Henri Becquerel Center](http://www.becquerel.fr/) and [INSA Rouen Normandie](https://www.insa-rouen.fr), [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en)*. Rouen, France. *__Abstract__—Conception and development of a Python GUI for the segmentation of cancer patients' CT scans. Automation of the process thanks to Keras-implemented deep and fully convolutional networks.*
 
 * `June–Aug. 2017.` **R&D Data Scientist Intern**. *[Vekia](http://www.vekia.co.uk)*. Lille, France. *__Abstract__—Development of a Python module for detecting suspicious stocks—phantom inventories—with machine learning techniques.*
 
