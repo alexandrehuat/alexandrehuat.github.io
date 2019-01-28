@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Alexandre Huat
-description: Welcome to my personal website! Feel free to bookmark this to keep an eye on my project updates.
+description: Welcome to my personal website! Follow me on github and social networks to keep an eye on my project updates.
 avatar: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA2aAAAAJDhlZGJkOGQ1LWY0M2EtNDY2NS1hYzZkLTVkNDg5OWQzMWJiZQ.jpg"
 
 author:
@@ -8,6 +8,7 @@ author:
   email: "alexandre.huat@gmail.com"
   github: alexandrehuat
   linkedin: alexandre-huat
+  researchgate: Alexandre_Huat
   telephone: +33695257087
 
 footer-links-active:
