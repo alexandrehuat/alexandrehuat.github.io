@@ -2,7 +2,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Loading" src="http://25.media.tumblr.com/tumblr_lritgdc4d61qlnzs9o1_500.gif" height="150">
 
-I'm a french PhD student in machine learning and a believer in open source and public data. My favorite languages are Python 3 and mathematics. I'm interested in data science for medicine, sports and security. Feel free to contact me at <alexandre.huat@gmail.com>.
+I'm a french PhD student in machine learning applied to medical imaging. I'm interested in data science for medicine, sports and security. I'm a believer in open source and public data. My favorite languages are Python 3 and mathematics. Feel free to contact me at <alexandre.huat@gmail.com>.
+
+Follow me on &nbsp;
+[<img alt="ResearchGate logo" src="https://images.ecosia.org/Alfr2xryPo50DtJ6bFqKuLKNBmw=/0x390/smart/https%3A%2F%2Fcampuspress.yale.edu%2Fcnspy%2Ffiles%2F2016%2F06%2FGBfhn7j7-1xth4vd.png" height="20"> ResearchGate](https://www.researchgate.net/profile/Alexandre_Huat)
+&nbsp;
+[<img alt="LinkedIn logo" src="https://images.ecosia.org/nASKS2sjLf2my3qoYh9IQpR1UkM=/0x390/smart/http%3A%2F%2Fwww.tv-bay.com%2Fimg%2Fbasic%2Ficon_linkedin.png" height="20"> LinkedIn](https://www.linkedin.com/in/alexandre-huat/)
 
 ----
 
