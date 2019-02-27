@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Loading" src="http://25.media.tumblr.com/tumblr_lritgdc4d61qlnzs9o1_500.gif" height="150">
 
-I'm a french PhD student in machine learning applied to medical imaging. I'm a believer in open source and public data. My favorite languages are Python 3 and mathematics. Feel free to contact me at <alexandre.huat@gmail.com>.
+I'm a french PhD student in machine learning applied to medical imaging. My favorite languages are Python 3 and mathematics and I believe in open source and public data. Feel free to contact me at <alexandre.huat@gmail.com>.
 
 Follow me on &nbsp;
 [<img alt="ResearchGate logo" src="https://images.ecosia.org/Alfr2xryPo50DtJ6bFqKuLKNBmw=/0x390/smart/https%3A%2F%2Fcampuspress.yale.edu%2Fcnspy%2Ffiles%2F2016%2F06%2FGBfhn7j7-1xth4vd.png" height="20"> ResearchGate](https://www.researchgate.net/profile/Alexandre_Huat)
@@ -13,18 +13,27 @@ Follow me on &nbsp;
 
 ### Site map
 
+* [Publications](#publications)
 * [Resume](#resume)
     * [Work experience](#work-experience)
     * [Diplomas](#diplomas)
     * [Prizes](#prizes)
-* [Publications](#publications)
 * [Public projects and other works](#public-projects-and-other-works)
 
 ----
 
-# Resume
+# Publications
 
-***[Click here to get the French version (PDF)](CV.pdf)***
+<img alt="ORCID logo" src="https://images.ecosia.org/fVt7pKcQcnb-YA5UgJv0lbP_OuQ=/0x390/smart/https%3A%2F%2Fwww.electrochem.org%2Fwp-content%2Fuploads%2F2017%2F11%2FORCID-icon.png" height="20"> My ORCID: [0000-0002-5725-7910](https://orcid.org/0000-0002-5725-7910)
+
+<div>
+   <script src="https://bibbase.org/show?bib=https%3A%2F%2Falexandrehuat.github.io%2Fpublications.bib&jsonp=1&token=62790a510010632ccb95d513cdd671b2"></script>
+</div>
+<br>
+
+----
+
+# Resume
 
 ## Work experience
 
@@ -50,15 +59,6 @@ Follow me on &nbsp;
 
 * `Oct. 2017.` **[Unicancer Innovation Award 2017: Management and Research Award](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)**. *[Unicancer](http://www.unicancer.fr)*. France.
 * `May 2017.` **[4th and Best Presentation Award @ Speed Data Scientist 2017: Failures detection challenge](http://speed-data-scientist.bemyapp.com)**. *[Société Générale](https://www.societegenerale.fr)*. Paris, France.
-
-----
-
-# Publications
-
-<div>
-   <script src="https://bibbase.org/show?bib=https%3A%2F%2Falexandrehuat.github.io%2Fpublications.bib&jsonp=1&token=62790a510010632ccb95d513cdd671b2"></script>
-</div>
-<br>
 
 ----
 
