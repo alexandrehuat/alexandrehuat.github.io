@@ -28,7 +28,7 @@ Follow me on &nbsp;
 
 ## Work experience
 
-* `Nov. 2018–Now!` **Industrial PhD student**. *[LITIS](http://www.litislab.fr/), [QuantIF team](http://www.litislab.fr/equipe/quantif/) and [Henri Becquerel Center](https://www.becquerel.fr/) and [AQUILAB](http://www.aquilab.com/)*. France.
+* `Nov. 2018–Now!` **Industrial PhD student**. *[QuantIF](http://www.litislab.fr/equipe/quantif/) and [Henri Becquerel Center](https://www.becquerel.fr/) and [AQUILAB](http://www.aquilab.com/)*. France.
 
 * `March–Aug. 2018.`  **Research Intern**. *[INRIA Lille Nord Europe](https://www.inria.fr/centre/lille), [MAGNET team](https://team.inria.fr/magnet)*. Lille, France. *__Abstract__—Improvement of GOPA, a privacy-preserving algorithm for distributed averaging over P2P networks. Robustness was provided against users disconnections and malicious adversaries.*
 
