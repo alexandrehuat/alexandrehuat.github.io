@@ -27,7 +27,7 @@ Follow me on &nbsp;
 <img alt="ORCID logo" src="https://images.ecosia.org/fVt7pKcQcnb-YA5UgJv0lbP_OuQ=/0x390/smart/https%3A%2F%2Fwww.electrochem.org%2Fwp-content%2Fuploads%2F2017%2F11%2FORCID-icon.png" height="20"> My ORCID: [0000-0002-5725-7910](https://orcid.org/0000-0002-5725-7910)
 
 <div>
-   <script src="http://bibbase.org/show?bib=https%3A%2F%2Falexandrehuat.github.io%2Fpublications.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fgithub.com%2Falexandrehuat%2Falexandrehuat.github.io%2Fblob%2Fmaster%2Fpublications.bib&jsonp=1"></script>
 </div>
 <br>
 
