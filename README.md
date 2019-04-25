@@ -33,11 +33,13 @@ Follow me on &nbsp;
 </div>
 <br>
 
-*NB: "Robustness for GOssip Private Averaging" is my Master's thesis, not my PhD thesis. This is a bug with BibBase.*
+*NB: "Robustness for GOssip Private Averaging" is my Master's thesis, not my PhD thesis. This is a bug of BibBase.*
 
 ----
 
 # Resume
+
+**[Download complete PDF version](https://cdn.cvdesignr.com/cv/pdf/5b04a76514fcb_843ac8e20257f990ea18f04e30248362dee9b946.pdf)**
 
 ## Work experience
 
