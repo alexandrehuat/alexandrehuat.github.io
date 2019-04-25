@@ -28,12 +28,12 @@ Follow me on &nbsp;
 
 **[Download BibTeX](https://raw.githubusercontent.com/alexandrehuat/alexandrehuat.github.io/master/my_publications.bib)**
 
-*NB: "Robust GOssip Private Averaging" is my Master's thesis, not my PhD thesis. This is a bug with BibBase.*
-
 <div>
 <script src="https://bibbase.org/service/mendeley/fdd686a8-32de-38c0-97f8-853ef3fffb3e?jsonp=1"></script>
 </div>
 <br>
+
+*NB: "Robustness for GOssip Private Averaging" is my Master's thesis, not my PhD thesis. This is a bug with BibBase.*
 
 ----
 
