@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Loading" src="http://25.media.tumblr.com/tumblr_lritgdc4d61qlnzs9o1_500.gif" height="150">
 
-I'm a french PhD student in machine learning applied to medical imaging. My favorite languages are Python 3 and mathematics and I believe in open source and public data. Feel free to contact me at <alexandre.huat@gmail.com>.
+I'm a french Ph.D. student in machine learning applied to medical imaging. My favorite languages are Python 3 and mathematics and I believe in open source and public data. Feel free to contact me at <alexandre.huat@gmail.com>.
 
 Follow me on &nbsp;
 [<img alt="ResearchGate logo" src="https://images.ecosia.org/Alfr2xryPo50DtJ6bFqKuLKNBmw=/0x390/smart/https%3A%2F%2Fcampuspress.yale.edu%2Fcnspy%2Ffiles%2F2016%2F06%2FGBfhn7j7-1xth4vd.png" height="20"> ResearchGate](https://www.researchgate.net/profile/Alexandre_Huat)
@@ -39,7 +39,7 @@ ___[Consult full PDF version](https://cvdesignr.com/public/5b04a76514fcb?hl=fr_F
 
 ## Work experience
 
-* `Nov. 2018–Now!` **Industrial PhD student**. *[QuantIF](http://www.litislab.fr/equipe/quantif/) and [Henri Becquerel Center](https://www.becquerel.fr/) and [AQUILAB](http://www.aquilab.com/)*. France. *__Topic__—Prediction of survival and adverse effects of (chemo)radiotherapy in lung and head-and-neck cancers. Application of machine learning to medical imaging.*
+* `Nov. 2018–Now!` **Cifre Ph.D. student**. *[QuantIF](http://www.litislab.fr/equipe/quantif/) and [Henri Becquerel Center](https://www.becquerel.fr/) and [AQUILAB](http://www.aquilab.com/)*. France. *__Topic__—Prediction of survival and adverse effects of (chemo)radiotherapy in lung and head-and-neck cancers. Application of machine learning to medical imaging.*
 
 * `March–Aug. 2018.`  **Research Intern**. *[INRIA Lille Nord Europe](https://www.inria.fr/centre/lille), [MAGNET team](https://team.inria.fr/magnet)*. Lille, France. *__Topic__—Improvement of GOPA, a privacy-preserving algorithm for distributed averaging over P2P networks. Robustness was provided against users disconnections and malicious adversaries.*
 
