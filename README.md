@@ -26,14 +26,11 @@ Follow me on &nbsp;
 
 <img alt="ORCID logo" src="https://images.ecosia.org/fVt7pKcQcnb-YA5UgJv0lbP_OuQ=/0x390/smart/https%3A%2F%2Fwww.electrochem.org%2Fwp-content%2Fuploads%2F2017%2F11%2FORCID-icon.png" height="20"> My ORCID: [0000-0002-5725-7910](https://orcid.org/0000-0002-5725-7910)
 
-**[Download BibTeX](https://raw.githubusercontent.com/alexandrehuat/alexandrehuat.github.io/master/my_publications.bib)**
-
 <div>
-<script src="https://bibbase.org/service/mendeley/fdd686a8-32de-38c0-97f8-853ef3fffb3e?jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Falexandrehuat%2Falexandrehuat.github.io%2Fmaster%2Fmy_publications.bib&jsonp=1"></script>
 </div>
-<br>
 
-*NB: "Robustness for GOssip Private Averaging" is my Master's thesis, not my PhD thesis. This is a bug of BibBase.*
+<br>
 
 ----
 
