@@ -1,4 +1,4 @@
-<img alt="Portrait" src="portrait_cv_20180922_border.jpg" height="150">
+<img alt="Portrait" src="photo_cv_rond_20180922.png" height="150">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Loading" src="http://25.media.tumblr.com/tumblr_lritgdc4d61qlnzs9o1_500.gif" height="150">
 
