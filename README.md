@@ -35,7 +35,7 @@ Follow me on &nbsp;
 
 # Resume
 
-**[Download complete PDF version](https://cdn.cvdesignr.com/cv/pdf/5b04a76514fcb_843ac8e20257f990ea18f04e30248362dee9b946.pdf)**
+___[Consult full PDF version](https://cvdesignr.com/public/5b04a76514fcb?hl=fr_FR)___
 
 ## Work experience
 
