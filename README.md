@@ -39,7 +39,7 @@ ___[Consult full PDF version](https://cvdesignr.com/public/5b04a76514fcb?hl=fr_F
 
 ## Work experience
 
-* `Nov. 2018–Now!` **Cifre Ph.D. student**. *[QuantIF](http://www.litislab.fr/equipe/quantif/) and [Henri Becquerel Center](https://www.becquerel.fr/) and [AQUILAB](http://www.aquilab.com/)*. France. *__Topic__—Prediction of survival and adverse effects of (chemo)radiotherapy in lung and head-and-neck cancers. Application of machine learning to medical imaging.*
+* `Nov. 2018–Now!` **Cifre Ph.D. student**. *[QuantIF](http://www.litislab.fr/equipe/quantif/) and [Henri Becquerel Center](https://www.becquerel.fr/la-recherche/recherche-fondamentale/) and [AQUILAB](https://www.aquilab.com/)*. France. *__Topic__—Prediction of survival and adverse effects of chemoradiotherapy in lung and head-and-neck cancers. Application of machine learning to medical imaging.*
 
 * `March–Aug. 2018.`  **Research Intern**. *[INRIA Lille Nord Europe](https://www.inria.fr/centre/lille), [MAGNET team](https://team.inria.fr/magnet)*. Lille, France. *__Topic__—Improvement of GOPA, a privacy-preserving algorithm for distributed averaging over P2P networks. Robustness was provided against users disconnections and malicious adversaries.*
 
