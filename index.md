@@ -1,7 +1,3 @@
-----
-title: Presentation
-----
-
 <img alt="Portrait" src="photo_cv_rond_20180922.png" height="150">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Loading" src="http://25.media.tumblr.com/tumblr_lritgdc4d61qlnzs9o1_500.gif" height="150">
@@ -64,9 +60,3 @@ ___[Consult full PDF version](https://cvdesignr.com/public/5b04a76514fcb?hl=fr_F
 * `Nov. 2017–` **[gflsegpy: A Python 3 implementation of the group fused Lasso for multiple change-point detection](https://github.com/alexandrehuat/gflsegpy)**. This project implements the group fused Lasso (GFL), as defined by [Bleakley and Vert, 2011](https://arxiv.org/abs/1106.4199), a method for detecting breakpoints in multidimensional signals. The gflsegpy package provides an implementation of two GFL algorithms plus a demo script and a data visualization module.
 
 * `Jan.–June 2016.` For students or teachers: **[Scientific and Technological Support in Primary School: An introduction to robotic programming for children](https://www.dropbox.com/s/s3966fsgtphrx1s/ASTEP2016_AlexandreHuat_Rapport.pdf?dl=0)**.
-
-----
-title: Blog articles
-----
-
-Work in progress…
