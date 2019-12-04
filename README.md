@@ -1,5 +1,5 @@
 ----
-Presentation
+title: Presentation
 ----
 
 <img alt="Portrait" src="photo_cv_rond_20180922.png" height="150">
@@ -66,7 +66,7 @@ ___[Consult full PDF version](https://cvdesignr.com/public/5b04a76514fcb?hl=fr_F
 * `Jan.–June 2016.` For students or teachers: **[Scientific and Technological Support in Primary School: An introduction to robotic programming for children](https://www.dropbox.com/s/s3966fsgtphrx1s/ASTEP2016_AlexandreHuat_Rapport.pdf?dl=0)**.
 
 ----
-Blog articles
+title: Blog articles
 ----
 
 Work in progress…
