@@ -53,10 +53,12 @@ ___[Consult full PDF version](https://cvdesignr.com/public/5b04a76514fcb?hl=fr_F
 
 ----
 
-# Public projects and other works
+# Public projects and miscellaneous works
 
-* `Jan. 2018.` **[Speech Emotion Recognition: A bibliographical survey](SER_Survey_elsarticle.pdf)**. [BibTeX](SER_Survey_cite_this.bib).
+* `March. 2020.` **[Bayes and the coronavirus: An example of the application of Bayes's theorem](https://gist.github.com/alexandrehuat/f0c7854e911847ef74e79b60cbd9747c).** A Jupyter Notebook to understand and play with screening tests and Bayes's theorem. #teaching
 
-* `Nov. 2017–` **[gflsegpy: A Python 3 implementation of the group fused Lasso for multiple change-point detection](https://github.com/alexandrehuat/gflsegpy)**. This project implements the group fused Lasso (GFL), as defined by [Bleakley and Vert, 2011](https://arxiv.org/abs/1106.4199), a method for detecting breakpoints in multidimensional signals. The gflsegpy package provides an implementation of two GFL algorithms plus a demo script and a data visualization module.
+* `Jan. 2018.` **[Speech Emotion Recognition: A bibliographical survey](SER_Survey_elsarticle.pdf).** [BibTeX](SER_Survey_cite_this.bib).
 
-* `Jan.–June 2016.` For students or teachers: **[Scientific and Technological Support in Primary School: An introduction to robotic programming for children](https://www.dropbox.com/s/s3966fsgtphrx1s/ASTEP2016_AlexandreHuat_Rapport.pdf?dl=0)**.
+* `Nov. 2017–` **[gflsegpy: A Python 3 implementation of the group fused Lasso for multiple change-point detection](https://github.com/alexandrehuat/gflsegpy).** This project implements the group fused Lasso (GFL), as defined by [Bleakley and Vert, 2011](https://arxiv.org/abs/1106.4199), a method for detecting breakpoints in multidimensional signals. The gflsegpy package provides an implementation of two GFL algorithms plus a demo script and a data visualization module.
+
+* `Jan.–June 2016.` **[Scientific and Technological Support in Primary School: An introduction to robotic programming for children](https://www.dropbox.com/s/s3966fsgtphrx1s/ASTEP2016_AlexandreHuat_Rapport.pdf?dl=0).** #teaching
