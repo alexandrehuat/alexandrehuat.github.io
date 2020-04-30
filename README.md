@@ -20,11 +20,16 @@ Follow me on &nbsp;
 </div>
 <br>
 
+## Oral communications
+
+
+A. Huat, S. Thureau, S. Ducornet, G. Dequeker, R. Modzelewski, J. Thariat, V. Grégoire, D. Pasquier, P. Vera, D. Gibon and I. Gardin. "Constitution d’une base de données rétrospective multicentrique de cancers ORL et pulmonaires traités par radiothérapie pour la prédiction de la survie globale." *Réunion de l’Axe 3 du Cancéropôle Nord-Ouest : Place de l’imagerie médicale dans la précision thérapeutique.* Lille, France. 13 December 2019.
+
 ----
 
 # Resume
 
-___[Consult full PDF version](https://cvdesignr.com/public/5b04a76514fcb?hl=fr_FR)___
+***[Consult full PDF version](https://cvdesignr.com/public/5b04a76514fcb?hl=fr_FR)***
 
 ## Work experience
 
