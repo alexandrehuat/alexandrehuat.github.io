@@ -4,16 +4,15 @@
 
 I am a french Ph.D. student in machine learning applied to medical imaging. My favorite languages are Python 3 and mathematics and I believe in open source and public data. Feel free to contact me at <alexandre.huat@gmail.com>.
 
-Follow me on &nbsp;
-[<img alt="ResearchGate logo" src="https://images.ecosia.org/Alfr2xryPo50DtJ6bFqKuLKNBmw=/0x390/smart/https%3A%2F%2Fcampuspress.yale.edu%2Fcnspy%2Ffiles%2F2016%2F06%2FGBfhn7j7-1xth4vd.png" height="20"> ResearchGate](https://www.researchgate.net/profile/Alexandre_Huat)
+[<img alt="LinkedIn" src="https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/295016_10151407645257823_521333568_n.png?_nc_cat=103&_nc_sid=85a577&_nc_ohc=JOhkAQMllHcAX-2CepQ&_nc_ht=scontent-cdt1-1.xx&oh=056abf4718bdcbde0509d8d948f79bd4&oe=5F2CA7D9" height="20">](https://www.linkedin.com/in/alexandre-huat/)
+[<img alt="ResearchGate" src="https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/72973774_10157892330811209_1491332633672548352_n.png?_nc_cat=109&_nc_sid=85a577&_nc_ohc=5nTJM1vjoBEAX-JBkwh&_nc_ht=scontent-cdt1-1.xx&oh=406ac06c631525b79517668b743b3ec8&oe=5F2B170C" height="20">](https://www.researchgate.net/profile/Alexandre_Huat)
 &nbsp;
-[<img alt="LinkedIn logo" src="https://images.ecosia.org/nASKS2sjLf2my3qoYh9IQpR1UkM=/0x390/smart/http%3A%2F%2Fwww.tv-bay.com%2Fimg%2Fbasic%2Ficon_linkedin.png" height="20"> LinkedIn](https://www.linkedin.com/in/alexandre-huat/)
 
 ----
 
 # Publications
 
-<img alt="ORCID logo" src="https://images.ecosia.org/fVt7pKcQcnb-YA5UgJv0lbP_OuQ=/0x390/smart/https%3A%2F%2Fwww.electrochem.org%2Fwp-content%2Fuploads%2F2017%2F11%2FORCID-icon.png" height="20"> My ORCID: [0000-0002-5725-7910](https://orcid.org/0000-0002-5725-7910)
+<img alt="ORCID" src="https://orcid.org/assets/vectors/orcid.logo.svg" height="16"> [0000-0002-5725-7910](https://orcid.org/0000-0002-5725-7910)
 
 <div>
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Falexandrehuat%2Falexandrehuat.github.io%2Fmaster%2Fmy_publications.bib&jsonp=1"></script>
@@ -29,15 +28,13 @@ A. Huat, S. Thureau, S. Ducornet, G. Dequeker, R. Modzelewski, J. Thariat, V. Gr
 
 # Resume
 
-***[Consult full PDF version](https://cvdesignr.com/public/5b04a76514fcb?hl=fr_FR)***
-
 ## Work experience
 
 * `Nov. 2018–Now!` **Cifre Ph.D. student.** *[QuantIF](http://www.litislab.fr/equipe/quantif/), [AQUILAB](https://www.aquilab.com/) and [Henri Becquerel Center](https://www.becquerel.fr/la-recherche/recherche-fondamentale/).* France. *__Topic__—Prediction of survival and adverse effects of chemoradiotherapy in lung and head-and-neck cancers. Application of machine learning to medical imaging.*
 
 * `March–Aug. 2018.`  **Research Intern.** *[INRIA Lille Nord Europe](https://www.inria.fr/centre/lille), [MAGNET team](https://team.inria.fr/magnet).* Lille, France. *__Topic__—Improvement of GOPA, a privacy-preserving algorithm for distributed averaging over P2P networks. Robustness was provided against users disconnections and malicious adversaries.*
 
-* `Jan. 2017–Jan. 2018.`  **Lead Python Developer @ ISO9001:2015 Certified INSA Project,** <img alt="Award" src="images/award-medal.png" height="20">**_[Unicancer Innovation Award 2017: Management and Research Award](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)._** *[Henri Becquerel Center](http://www.becquerel.fr/) and [INSA Rouen Normandie](https://www.insa-rouen.fr), [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en).* Rouen, France. *__Topic__—Conception and development of a Python GUI for the segmentation of cancer patients' CT scans. Automation of the process thanks to Keras-implemented deep and fully convolutional networks.*
+* `Jan. 2017–Jan. 2018.`  **Lead Junior Python Developer @ ISO9001:2015 Certified INSA Project,** <img alt="Award" src="images/award-medal.png" height="20">**_[Unicancer Innovation Award 2017: Management and Research Award](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)._** *[Henri Becquerel Center](http://www.becquerel.fr/) and [INSA Rouen Normandie](https://www.insa-rouen.fr), [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en).* Rouen, France. *__Topic__—Conception and development of a Python GUI for the segmentation of cancer patients' CT scans. Automation of the process thanks to Keras-implemented deep and fully convolutional networks.*
 
 * `June–Aug. 2017.` **R&D Data Scientist Intern.** *[Vekia](http://www.vekia.co.uk).* Lille, France. *__Topic__—Development of a Python module for detecting suspicious stocks—phantom inventories—with machine learning techniques.*
 
@@ -60,7 +57,7 @@ A. Huat, S. Thureau, S. Ducornet, G. Dequeker, R. Modzelewski, J. Thariat, V. Gr
 
 # Public projects and miscellaneous works
 
-* `March. 2020.` **[Bayes and the coronavirus: An example of the application of Bayes's theorem](https://gist.github.com/alexandrehuat/f0c7854e911847ef74e79b60cbd9747c).** A Jupyter Notebook to understand and play with screening tests and Bayes's theorem. #teaching
+* `March. 2020.` **[Bayes and the coronavirus: An example of the application of Bayes's theorem](https://gist.github.com/alexandrehuat/f0c7854e911847ef74e79b60cbd9747c).** A Python Jupyter Notebook to understand and play with screening tests and Bayes's theorem.
 
 * `Jan. 2018.` **[Speech Emotion Recognition: A bibliographical survey](SER_Survey_elsarticle.pdf).** [BibTeX](SER_Survey_cite_this.bib).
 
