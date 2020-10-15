@@ -1,6 +1,4 @@
 <img alt="Portrait" src="photo_cv_rond_20180922.png" height="160">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Fractal" src="https://media4.giphy.com/media/zHfDSSYHWL5cY/giphy.gif" height="160" border="2 solid black">
 
 I am a French Engineer and Master in the 3rd year of my Ph.D. studies in data science.
 
