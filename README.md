@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img alt="Fractal" src="https://media4.giphy.com/media/zHfDSSYHWL5cY/giphy.gif" height="160" border="2 solid black">
 
-I am a French Engineer and Master in the 3rd year of my Ph.D. studies in data science. Basically, my Ph.D. consists in machine learning applied to medical imaging.
+I am a French Engineer and Master in the 3rd year of my Ph.D. studies in data science.
 
 My favorite languages are Python 3 and mathematics. I believe in open source and public data to leverage innovation and human development. Contact me at <alexandre.huat@gmail.com>.
 
