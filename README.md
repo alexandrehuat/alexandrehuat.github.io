@@ -29,23 +29,23 @@ A. Huat, S. Thureau, S. Ducornet, G. Dequeker, R. Modzelewski, J. Thariat, V. Gr
 
 ## Work experience
 
-* `Nov. 2018–Now!` **Data Science Ph.D. Student** *[QuantIF](http://www.litislab.fr/equipe/quantif/), [AQUILAB](https://www.aquilab.com/) and [Henri Becquerel Center](https://www.becquerel.fr/la-recherche/recherche-fondamentale/).* France. *__Topic__—Prediction of survival and adverse effects of chemoradiotherapy in lung and head-and-neck cancers. Application of machine learning to medical imaging.*
+* `From Nov. 2018` **Data Science Ph.D. Student** *[QuantIF](http://www.litislab.fr/equipe/quantif/), [AQUILAB](https://www.aquilab.com/) and [Henri Becquerel Center](https://www.becquerel.fr/la-recherche/recherche-fondamentale/).* France. *__Topic__—Prediction of survival and adverse effects of chemoradiotherapy in lung and head-and-neck cancers. Application of machine learning to medical imaging.*
 
-* `March–Aug. 2018.`  **Computer Science Research Intern.** *[INRIA Lille Nord Europe](https://www.inria.fr/centre/lille), [MAGNET team](https://team.inria.fr/magnet).* Lille, France. *__Topic__—Improvement of GOPA, a privacy-preserving algorithm for distributed averaging over P2P networks. Robustness was provided against users disconnections and malicious adversaries.*
+* `March – Aug. 2018 (6 months).`  **Computer Science Research Intern.** *[INRIA Lille Nord Europe](https://www.inria.fr/centre/lille), [MAGNET team](https://team.inria.fr/magnet).* Lille, France. *__Topic__—Improvement of GOPA, a privacy-preserving algorithm for distributed averaging over P2P networks. Robustness was provided against users disconnections and malicious adversaries.*
 
-* `Jan. 2017–Jan. 2018.`  **Lead Junior Python Developer @ ISO9001:2015 Certified INSA Project,** <img alt="Award" src="images/award-medal.png" height="20"> **_[Unicancer Innovation Award 2017: Management and Research Award](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)._** *[Henri Becquerel Center](http://www.becquerel.fr/) and [INSA Rouen Normandie](https://www.insa-rouen.fr), [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en).* Rouen, France. *__Topic__—Conception and development of a Python GUI for the segmentation of cancer patients' CT scans. Automation of the process thanks to Keras-implemented deep and fully convolutional networks.*
+* `Jan. 2017 – Jan. 2018 (1 year).`  **Lead Junior Python Developer @ ISO9001:2015 Certified INSA Project,** <img alt="Award" src="images/award-medal.png" height="20"> **_[Unicancer Innovation Award 2017: Management and Research Award](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)._** *[Henri Becquerel Center](http://www.becquerel.fr/) and [INSA Rouen Normandie](https://www.insa-rouen.fr), [Dept. Information Systems Architectures](http://asi.insa-rouen.fr/?language=en).* Rouen, France. *__Topic__—Conception and development of a Python GUI for the segmentation of cancer patients' CT scans. Automation of the process thanks to Keras-implemented deep and fully convolutional networks.*
 
-* `June–Aug. 2017.` **Data Science R&D Intern.** *[Vekia](http://www.vekia.co.uk).* Lille, France. *__Topic__—Development of a Python module for detecting suspicious stocks—phantom inventories—with machine learning techniques.*
+* `June – Aug. 2017 (3 months).` **Data Science R&D Intern.** *[Vekia](http://www.vekia.co.uk).* Lille, France. *__Topic__—Development of a Python module for detecting suspicious stocks—phantom inventories—with machine learning techniques.*
 
-* `July 2013.` **Production Workman Intern.** *[Ressorts Masselin](http://www.masselin.com/fr/).* Le Petit-Quevilly, France. _**Topic**—Cold springs rolling, grinding, shot peening, quality controlling and packaging._
+* `July 2013 (4 weeks).` **Production Workman Intern.** *[Ressorts Masselin](http://www.masselin.com/fr/).* Le Petit-Quevilly, France. _**Topic**—Cold springs rolling, grinding, shot peening, quality controlling and packaging._
 
 ## Diplomas & Formations
 
-* `Sept. 2017 – Sept. 2018.` **[Master Data Science and Engineering](http://mastersid.univ-rouen.fr/eng/index_en.php),** *[INSA Rouen Normandy & University of Rouen Normandie](http://www.univ-rouen.fr).* Rouen, France.
+* `Sept. 2017 – Sept. 2018 (1 year).` **[Master 2 Data Science and Engineering](http://mastersid.univ-rouen.fr/eng/index_en.php),** *[INSA Rouen Normandy & University of Rouen Normandie](http://www.univ-rouen.fr).* Rouen, France.
 
-* `Sept. 2014 – Sept. 2018.` **Engineer's degree in Computer Science,** Specialization in Data Engineering. *[INSA Rouen Normandie](https://www.insa-rouen.fr), [Deptartment of Information Systems Architectures](http://asi.insa-rouen.fr/?language=en).* Rouen, France.
+* `Sept. 2014 – Sept. 2018 (4 years).` **Engineer's degree in Computer Science,** Specialization in Data Engineering. *[INSA Rouen Normandie](https://www.insa-rouen.fr), [Deptartment of Information Systems Architectures](http://asi.insa-rouen.fr/?language=en).* Rouen, France.
 
-* `Sept. 2012 – Jun. 2014.` **Higher Schools Preparatory Classes,** Specialization in Computer Science & Mathematics. *[INSA Rouen Normandie](https://www.insa-rouen.fr), [Deptartment of Sciences and Skills for Engineering](http://asi.insa-rouen.fr/?language=en).* Rouen, France.
+* `Sept. 2012 – Jun. 2014 (2 years).` **Higher Schools Preparatory Classes,** Specialization in Computer Science & Mathematics. *[INSA Rouen Normandie](https://www.insa-rouen.fr), [Deptartment of Sciences and Skills for Engineering](http://asi.insa-rouen.fr/?language=en).* Rouen, France.
 
 * `July 2012.` **French Baccalaureate of Sciences,** **_Magna Cum Laude,_** Specialization in Earth and Life Sciences. *French School Abroad Montaigne.* Cotonou, Benin.
 
