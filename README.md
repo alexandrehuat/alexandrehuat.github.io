@@ -41,11 +41,11 @@ A. Huat, S. Thureau, S. Ducornet, G. Dequeker, R. Modzelewski, J. Thariat, V. Gr
 
 ## Diplomas & Formations
 
-* `Sept. 2018.` **[Master Data Science and Engineering](http://mastersid.univ-rouen.fr/eng/index_en.php),** *[INSA Rouen Normandy & University of Rouen Normandie](http://www.univ-rouen.fr).* Rouen, France.
+* `Sept. 2017 – Sept. 2018.` **[Master Data Science and Engineering](http://mastersid.univ-rouen.fr/eng/index_en.php),** *[INSA Rouen Normandy & University of Rouen Normandie](http://www.univ-rouen.fr).* Rouen, France.
 
-* `Sept. 2018.` **Engineer's degree in Computer Science,** Specialization in Data Engineering. *[INSA Rouen Normandie](https://www.insa-rouen.fr), [Deptartment of Information Systems Architectures](http://asi.insa-rouen.fr/?language=en).* Rouen, France.
+* `Sept. 2014 – Sept. 2018.` **Engineer's degree in Computer Science,** Specialization in Data Engineering. *[INSA Rouen Normandie](https://www.insa-rouen.fr), [Deptartment of Information Systems Architectures](http://asi.insa-rouen.fr/?language=en).* Rouen, France.
 
-* `Sept. 2018.` **Higher Schools Preparatory Classes,** Specialization in Computer Science & Mathematics. *[INSA Rouen Normandie](https://www.insa-rouen.fr), [Deptartment of Sciences and Skills for Engineering](http://asi.insa-rouen.fr/?language=en).* Rouen, France.
+* `Sept. 2012 – Jun. 2014.` **Higher Schools Preparatory Classes,** Specialization in Computer Science & Mathematics. *[INSA Rouen Normandie](https://www.insa-rouen.fr), [Deptartment of Sciences and Skills for Engineering](http://asi.insa-rouen.fr/?language=en).* Rouen, France.
 
 * `July 2012.` **French Baccalaureate of Sciences,** **_Magna Cum Laude,_** Specialization in Earth and Life Sciences. *French School Abroad Montaigne.* Cotonou, Benin.
 
