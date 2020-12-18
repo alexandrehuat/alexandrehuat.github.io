@@ -1,0 +1,35 @@
+In DeepLearning.AI’s newsletter "The Batch" of 17 December 2020, Andrew Ng asked the deep learning community for ideas for research publishing rules. As you may know, I wish for methodological improvement so here are my answers to his questions.
+
+
+• Should researchers be allowed to release any technology they wish, as long as they don't publish confidential information?
+
+It’s a complex question because of the numerous particular cases. I think that researchers must inform their company about the human opportunity that open source is. Open source is one of the greatest contributor to scientific development but some technologies could be misused by other people or not in the interest of the company. Moreover, some technologies could not not have been invented without material provided by the company. So whether such or such technology and information be published should always be discussed with the company.
+
+
+• Alternatively, should companies (and universities) have the final say, including the right to stop publication of papers when it’s in their interest to do so? (This is the de facto policy in many companies today.)
+
+The question is "the final say to what?". If the researcher is not supported by its institute for the publication of work XYZ, why not publishing indepently, in its own name, such that the company or university is not linked to the work? It also questions publishers’s choices to accept such publications. It’s a complex answer that depends on the context as well. We must worry about "general" rules because most of them are just overfitting.
+
+
+• Should a company be responsible for ensuring the quality of research published under its name, or should this be left only to peer review?
+
+It’s not a one-vs-one question, everyone is responsible for what he does. Companies **are** responsible for the research they make and submit, and publishers **are** responsible for what they publish. If peer reviewing doesn’t check for submissions quality, just call it "spell and grammar reviewing" because it no longer relates to science.
+
+
+• Conversely, if a researcher publishes a scientifically flawed paper, does the fault lie with the researcher, or with both the researcher and the company?
+
+It depends on which fault you are thinking about. Companies trust their employees to a certain level. If the researcher makes his company believe that everything is okay with his work while it’s actually flawed, then the company is equally victim of the fraud as the publisher. The researcher himself could have no illwill but just be deceived by his own belief. If the company knew that research was flawed but still publishes, then it’s connivance. It doesn’t mean that companies and publishers must not check for research quality. It means that they don’t always share the same faults.
+
+Fraud is the fault of those who knew about the flaw, whereas belief is the fault of those who didn’t know. Naivety is an intellectual fault but one must not confuse the fault and the sanction for the fault. While deliberate fraud must be severly sanctionned, the sanction for naivety is just knowledge and disillusionment. Of course, if a researcher/company/publisher supports the flaw after disillusionment, then it becomes fraud.
+
+
+• What would be a reasonable prepublication review process within companies, and how can we ensure that it is applied fairly and consistently?
+
+I would just recommend reading the paper and discussing about controversial or misunderstood points. Absolute fairness is unreachable because no one is fully impartial. Still, we can increase fairness by discussing and challenging our beliefs, even our greatest certitudes. We are never 100 % scientifical.
+
+To maintain fairness, we must assume the consequences of our errors and belief. In other words, we must recognize uncertainty and must not deliberately impair improvement. If a point is too controversial, we can suspend its publication and propose it in a next publication after maturation. Or we can also mention that it is highly controversial. Some people believe that science is about consensus while consensus actually is a great ennemy of science. Science is about challenging our beliefs but we cannot challenge a belief if we avoid disagreement. People often know complementary parts of the same reality.
+
+
+• What rights and responsibilities do researchers and companies have with respect to patent filings of inventions in which they both played a part?
+
+I don’t feel confident enough on this question.
