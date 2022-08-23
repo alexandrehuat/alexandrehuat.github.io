@@ -1,8 +1,7 @@
 <img alt="Portrait" src="photo_cv_rond_20180922.png" height="160">
 
-I am a French Engineer and Master in the 3rd year of my Ph.D. studies in data science.
-
-My favorite languages are Python 3 and mathematics. I believe in open source and public data to leverage innovation and human development. Contact me at <alexandre.huat@gmail.com>.
+I am a French Computer Science Engineer working in Medical Data Science.
+My favorite languages are mathematics and Python but I can get along in other languages like PHP, JavaScript and SQL when needed.
 
 [<img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="20">](https://www.linkedin.com/in/alexandre-huat/)
 
@@ -23,7 +22,9 @@ My favorite languages are Python 3 and mathematics. I believe in open source and
 
 ## Work experience
 
-* From Nov. 2018. **Medical Data Science Ph.D. Student** *[QuantIF](http://www.litislab.fr/equipe/quantif/), [AQUILAB](https://www.aquilab.com/) and [Henri Becquerel Center](https://www.becquerel.fr/la-recherche/recherche-fondamentale/).* France. *__Topic__—Research of radiomics signatures in head-and-neck and pulmonary cancers treated with radiotherapy based on machine learning approches.*
+* From Nov. 2021. **R&D Engineer.** *[AQUILAB](https://www.aquilab.com/).* Loos, France. *__Topic__—Development of data analytics modules on web platform Onco Place for clinical trials; back-end and front-end work. Research projects guidance.*
+
+* Nov. 2018 – Nov. 2021. **Medical Data Science Ph.D. Student.** *[QuantIF](http://www.litislab.fr/equipe/quantif/), [AQUILAB](https://www.aquilab.com/) and [Henri Becquerel Center](https://www.becquerel.fr/la-recherche/recherche-fondamentale/).* Rouen and Loos, France. *__Topic__—Research of radiomics signatures in head-and-neck and pulmonary cancers treated with radiotherapy based on machine learning approches.*
 
 * March – Aug. 2018 (6 months).  **Computer Science Research Intern.** *[INRIA Lille](https://www.inria.fr/centre/lille), [MAGNET team](https://team.inria.fr/magnet).* Lille, France. *__Topic__—Improvement of GOPA, a privacy-preserving algorithm for distributed averaging over P2P networks. Robustness was provided against users disconnections and malicious adversaries.*
 
@@ -35,7 +36,9 @@ My favorite languages are Python 3 and mathematics. I believe in open source and
 
 ## Diplomas and formation
 
-* Sept. 2017 – Sept. 2018 (1 year). **[Master 2 Data Science](http://mastersid.univ-rouen.fr/en/sd.php),** *[INSA Rouen and University of Rouen](http://www.univ-rouen.fr).* Rouen, France.
+* *I decided to abort my Ph.D. studies due to major health issues at the end of my 3rd year.*
+
+* Sept. 2017 – Sept. 2018 (1 year). **[Master 2 Data Science](http://mastersid.univ-rouen.fr/en/sd.php).** *[INSA Rouen and University of Rouen](http://www.univ-rouen.fr).* Rouen, France.
 
 * Sept. 2014 – Sept. 2018 (4 years). **Engineer's degree in Computer Science,** Specialization in Data Engineering. *[INSA Rouen](https://www.insa-rouen.fr), [Department of Information Systems Architectures](http://asi.insa-rouen.fr/?language=en).* Rouen, France.
 
