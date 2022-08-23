@@ -3,13 +3,26 @@
 I am a French Computer Science Engineer working in Medical Data Science.
 My favorite languages are mathematics and Python but I can get along in other languages like PHP, JavaScript and SQL when needed.
 
-[<img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="20">](https://www.linkedin.com/in/alexandre-huat/)
+[<img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="16">](https://www.linkedin.com/in/alexandre-huat/)
+
 
 ----
 
 # Publications
 
-<img alt="ORCID" src="https://orcid.org/assets/vectors/orcid.logo.svg" height="14"> [0000-0002-5725-7910](https://orcid.org/0000-0002-5725-7910)
+<a
+id="cy-effective-orcid-url"
+class="underline"
+ href="https://orcid.org/0000-0002-5725-7910"
+ target="orcid.widget"
+ rel="me noopener noreferrer"
+ style="vertical-align: top">
+ <img
+    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+    style="width: 1em; margin-inline-start: 0.5em"
+    alt="ORCID iD icon"/>
+  0000-0002-5725-7910
+</a>
 
 <div>
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Falexandrehuat%2Falexandrehuat.github.io%2Fmaster%2Fmy_publications.bib&jsonp=1"></script>
