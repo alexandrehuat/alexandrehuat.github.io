@@ -73,8 +73,8 @@ class="underline"
 * From March 2020. **Handstand walk and push-ups**. *Preparation for a world record of handstand walk.*
 * From Sept. 2012.
   * **Muay Thai.** *Collective and private training with Rufin Didier and [Team Naja](https://team-naja.fr).*
-  * **Strength training.** Pull-ups, push-ups, burpees, etc.
-  * **Running**
+  * **Strength training.** *Pull-ups, push-ups, burpees, etc.*
+  * **Running.**
 
 ----
 
