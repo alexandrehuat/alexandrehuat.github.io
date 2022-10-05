@@ -66,7 +66,7 @@ class="underline"
 
 * Jan. – June 2016. **[Scientific and technological support in primary school: An introduction to robotic programming for children](https://www.dropbox.com/s/s3966fsgtphrx1s/ASTEP2016_AlexandreHuat_Rapport.pdf?dl=0).** *Primary School Gérard Philipe and [National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr).* Amfreville-la-Mi-Voie, France.
 
-## Hobbys
+## Hobbies
 
 ### Sports
 
