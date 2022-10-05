@@ -62,7 +62,7 @@ class="underline"
 
 * From Oct. 2011. **Volunteer School Mentoring.** 🤝 *[Entraide Scolaire Amicale (ESA)](https://www.entraidescolaireamicale.org/)*. Lille, France. *__Topic__—Mentoring and support classes in mathematics and english to a last year highscool student.*
 
-* Feb. – May 2017. **[Speed Data Scientist 2017: Failures Detection Challenge](http://speed-data-scientist.bemyapp.com),** 🏅 4th and Best Presentation Award. *[Société Générale](https://www.societegenerale.fr).* Paris, France.
+* Feb. – May 2017. **[Speed Data Scientist 2017: Failures Detection Challenge](http://speed-data-scientist.bemyapp.com), 🏅 4th and Best Presentation Award.** *[Société Générale](https://www.societegenerale.fr).* Paris, France.
 
 * Jan. – June 2016. **[Scientific and technological support in primary school: An introduction to robotic programming for children](https://www.dropbox.com/s/s3966fsgtphrx1s/ASTEP2016_AlexandreHuat_Rapport.pdf?dl=0).** *Primary School Gérard Philipe and [National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr).* Amfreville-la-Mi-Voie, France.
 
