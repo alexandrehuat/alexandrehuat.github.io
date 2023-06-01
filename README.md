@@ -12,7 +12,7 @@ My favorite languages are mathematics and Python but I can get along in other la
 
 * From Nov. 2021. **R&D Engineer / Data Scientist.** *[AQUILAB](https://www.aquilab.com/).* Loos, France. *__Topic__—Development of data analytics modules on a web platform for clinical trials; back-end and front-end work. Research projects guidance.*
 
-  * Dec. 2022. 🏆 Winner of the **video competition** ['The story behind our personalised medicine research project'](https://erapermed.isciii.es/the-story-behind-our-personalised-medicine-research-project-video-competition/) by presenting [RADprecise](https://youtu.be/yR9LXra8Wz8). *[ERA PerMed](https://erapermed.isciii.es/).* Europe.
+  * Dec. 2022. 🏆 Winner of the **video competition** ['The story behind our personalised medicine research project'](https://erapermed.isciii.es/the-story-behind-our-personalised-medicine-research-project-video-competition/) by presenting the [RADprecise](https://youtu.be/yR9LXra8Wz8) project. *[ERA PerMed](https://erapermed.isciii.es/).* Europe.
 
 * Nov. 2018 – Nov. 2021. (3 years) **Medical Data Science Ph.D. Student (Cifre).** *[AQUILAB](https://www.aquilab.com/).* Loos, France. *__Topic__—Research of radiomics signatures in head-and-neck and pulmonary cancers treated with radiotherapy based on machine learning approches.*
 
@@ -26,12 +26,11 @@ My favorite languages are mathematics and Python but I can get along in other la
 
 ## Diplomas and formation
 
-* *I decided to abort my Ph.D. studies due to health issues at the end of my 3rd year.*
+* *I aborted my Ph.D. studies due to health issues at the end of my 3rd year.*
 
 * Nov. 2018 – Nov. 2021. **Medical Data Science Ph.D. Student (Cifre).** *[University of Rouen Normandy, Laboratory of Computer Science, Information Processing and Systems (LITIS), Team Quantification in Functional Imaging (QuantIF)](http://www.litislab.fr/equipe/quantif) and [Henri Becquerel Center](https://www.becquerel.fr/la-recherche/recherche-fondamentale).* Rouen, France. *See work experience.*
 
-* 
-2017 – Sep. 2018 (1 year). **[Master 2 Data Science](http://mastersid.univ-rouen.fr/en/sd.php).** *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr) and [University of Rouen Normandy](http://www.univ-rouen.fr).* Saint-Étienne-du-Rouvray, France.
+* 2017 – Sep. 2018 (1 year). **[Master 2 Data Science](http://mastersid.univ-rouen.fr/en/sd.php).** *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr) and [University of Rouen Normandy](http://www.univ-rouen.fr).* Saint-Étienne-du-Rouvray, France.
 
 * Sep. 2014 – Sep. 2018 (4 years). **Engineer's degree in Computer Science,** Specialization in Data Engineering. *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr), [Department of Information Systems Architectures (ASI)](http://asi.insa-rouen.fr).* Saint-Étienne-du-Rouvray, France.
 
@@ -56,14 +55,14 @@ class="underline"
 </a>
 
 <div>
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Falexandrehuat%2Falexandrehuat.github.io%2Fmaster%2Fmy_publications.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Falexandrehuat%2Falexandrehuat.github.io%2Fmaster%2Fmy_publications.bib&jsonp=1&commas=true"></script>
 </div>
 <br>
 
 
 ## Other experiences
 
-* From Oct. 2011. 🤝 **Volunteer School Mentoring.** *[Entraide Scolaire Amicale (ESA)](https://www.entraidescolaireamicale.org/)*. Lille, France. *__Topic__—Mentoring and support classes in mathematics and english to a last year highscool student.*
+* From Oct. 2011. 🤝 **Volunteer School Mentoring.** *[Entraide Scolaire Amicale (ESA)](https://www.entraidescolaireamicale.org/)*. Lille, France. *__Topic__—Mentoring and support classes in mathematics to a last year highscool student.*
 
 * Feb. – May 2017. **[Speed Data Scientist 2017: Failures Detection Challenge](http://speed-data-scientist.bemyapp.com), 🏅 4th and Best Presentation Award.** *[Société Générale](https://www.societegenerale.fr).* Paris, France.
 
@@ -73,11 +72,19 @@ class="underline"
 
 ### Sports
 
-* From Mar. 2020. **Handstand walk and push-ups**. *Preparation for a world record of handstand walk.*
-* From Sep. 2012.
-  * **Muay Thai.** *Collective and private training with Rufin Didier and [Team Naja](https://team-naja.fr).*
-  * **Strength training.** *Pull-ups, push-ups, burpees, etc.*
-  * **Running.**
+* From Sep. 2012. **Muay thai.** *Collective and private training with Rufin Didier and [Team Naja](https://team-naja.fr). Solo training. Volunteer coaching for beginners.*
+* From Oct. 2022. **Judo-jujūtsu.** *5th kyu (yellow belt).*
+* From Mar. 2020. **Handstand walk.** *Preparation for a world record.*
+
+* From 2010. **Strength training.** *Pull-ups, push-ups, jumps, etc.*
+* From 2010. **Running.** *Occasionally.*
+
+* 2002 -- 2008. **Tennis.** *Competitive practice.*
+
+### Music
+
+* 2002 -- 2019. **Guitar.** *Classic, electric, folk.*
+* Just for fun! **Beatbox & Drums.**
 
 ----
 
