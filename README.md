@@ -1,9 +1,7 @@
-<img src="http://gravatar.com/avatar/f6fa57646c85a6e933afac27d012ffb5?s=144&d=404" alt="Gravatar" style="border-radius: 50%">
+<img src="http://gravatar.com/avatar/f6fa57646c85a6e933afac27d012ffb5?s=144&d=404" alt="Gravatar" style="border-radius: 50%"> [<img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="16">](https://www.linkedin.com/in/alexandre-huat)
 
 I am a French Computer Science Engineer working in Medical Data Science.
 My favorite languages are mathematics and Python but I can get by in other languages like PHP, JavaScript and SQL when needed.
-
-[<img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" height="16">](https://www.linkedin.com/in/alexandre-huat)
 
 # Curriculum vitae
 
@@ -54,7 +52,7 @@ class="underline"
 </a>
 
 <div>
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Falexandrehuat%2Falexandrehuat.github.io%2Fmaster%2Fmy_publications.bib&jsonp=1&commas=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Falexandrehuat%2Falexandrehuat.github.io%2Fmaster%2Fmy_publications.bib&jsonp=1&folding=1&commas=1"></script>
 </div>
 <br>
 
