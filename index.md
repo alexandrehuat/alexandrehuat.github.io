@@ -1,6 +1,5 @@
-*Lang.*
-<button onclick="window.location.href='https://alexandrehuat-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp';">🇫🇷</button>
-<button onclick="window.location.href='https://alexandrehuat.github.io';">🇬🇧</button>
+<button onclick="window.location.href='https://alexandrehuat-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp';">Traduire avec Google 🇫🇷</button>
+*Certaines phrases et émoticônes peuvent être légèrement altérées.*
 
 <img src="http://gravatar.com/avatar/f6fa57646c85a6e933afac27d012ffb5?s=144&d=404" alt="Gravatar" style="border-radius: 50%; border: 1px solid #C30000;">
 
@@ -58,11 +57,11 @@ alt="ORCID iD icon"/>
 
 ## Languages
 <ul style="list-style: none; padding-left: 0;">
-<li>🇫🇷&nbsp;&nbsp;<strong>French.</strong> Native.</li>
-<li>🇬🇧&nbsp;&nbsp;<strong>English.</strong> B2–C1.</li>
-<li>🇪🇸&nbsp;&nbsp;<strong>Spanish.</strong> Notions.</li>
-<li>🇩🇪&nbsp;&nbsp;<strong>German.</strong> Notions.</li>
-<li>🇲🇦&nbsp;&nbsp;<strong>Arabic.</strong> Notions.</li>
+<li>🇫🇷 <strong>French.</strong> Native.</li>
+<li>🇬🇧 <strong>English.</strong> B2–C1.</li>
+<li>🇪🇸 <strong>Spanish.</strong> Notions.</li>
+<li>🇩🇪 <strong>German.</strong> Notions.</li>
+<li>🇲🇦 <strong>Arabic.</strong> Notions.</li>
 </ul>
 
 ## Certifications
@@ -91,8 +90,6 @@ alt="ORCID iD icon"/>
 ### Music
 
 * 2002—2019. 🎸 **Guitar.** Classic, electric, folk.
-
-----
 
 # Public projects and miscellaneous works
 
