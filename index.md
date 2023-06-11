@@ -1,5 +1,5 @@
 <button onclick="window.location.href='https://alexandrehuat-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp';">Traduire avec Google 🇫🇷</button>
-*Certaines phrases et émoticônes peuvent être légèrement altérées.*
+<small>*Certaines phrases et émoticônes peuvent être légèrement altérées.*</small>
 
 <img src="http://gravatar.com/avatar/f6fa57646c85a6e933afac27d012ffb5?s=144&d=404" alt="Gravatar" style="border-radius: 50%; border: 1px solid #C30000;">
 
