@@ -37,12 +37,10 @@ href="https://orcid.org/0000-0002-5725-7910"
 target="orcid.widget"
 rel="me noopener noreferrer"
 style="vertical-align: top">
-<img
-src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-height="12pt"
-style="margin-inline-start: 0.5em"
-alt="ORCID iD icon"/>
-0000-0002-5725-7910
+  <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"
+  style="margin-inline-start: 0.5em; height: 1em;"
+  alt="ORCID iD"/>
+  0000-0002-5725-7910
 </a>
 
 <div>
@@ -56,13 +54,12 @@ alt="ORCID iD icon"/>
 * Jan. – June 2016. 👨🏻‍🏫 **[Scientific and technological support in primary school: An introduction to robotic programming for children](https://www.dropbox.com/s/s3966fsgtphrx1s/ASTEP2016_AlexandreHuat_Rapport.pdf?dl=0).** *Primary School Gérard Philipe and [National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr).* Amfreville-la-Mi-Voie, France.
 
 ## Languages
-<ul style="list-style: none; padding-left: 0;">
-<li>🇫🇷 <strong>French.</strong> Native.</li>
-<li>🇬🇧 <strong>English.</strong> B2–C1.</li>
-<li>🇪🇸 <strong>Spanish.</strong> Notions.</li>
-<li>🇩🇪 <strong>German.</strong> Notions.</li>
-<li>🇲🇦 <strong>Arabic.</strong> Notions.</li>
-</ul>
+
+* 🇫🇷 <strong>French.</strong> Native.
+* 🇬🇧 <strong>English.</strong> B2–C1.
+* 🇪🇸 <strong>Spanish.</strong> Notions.
+* 🇩🇪 <strong>German.</strong> Notions.
+* 🇲🇦 <strong>Arabic.</strong> Notions.
 
 ## Certifications
 
