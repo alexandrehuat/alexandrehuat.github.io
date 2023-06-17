@@ -1,5 +1,6 @@
 <button onclick="window.location.href='https://alexandrehuat-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp';">Traduire avec Google 🇫🇷</button>
-<small>*Certaines phrases et émoticônes peuvent être légèrement altérées.*</small>
+<small>
+*Certaines phrases et émoticônes ou images peuvent être légèrement altérées.*</small>
 
 <img src="http://gravatar.com/avatar/f6fa57646c85a6e933afac27d012ffb5?s=144&d=404" alt="Gravatar" style="border-radius: 50%;">
 
@@ -50,7 +51,7 @@ style="vertical-align: top">
 ## Other experiences
 
 * Oct. 2022 – Juin 2023. 🤝 **Volunteer School Mentoring.** *[Entraide Scolaire Amicale (ESA)](https://www.entraidescolaireamicale.org/)*. Lille, France. *__Topic__—Mentoring and support classes in mathematics to a last year highschool student.*
-* Feb. – May 2017.  **[Speed Data Scientist 2017: Failures Detection Challenge](http://speed-data-scientist.bemyapp.com), 🏅 4th and Best Presentation Award.** *[Société Générale](https://www.societegenerale.fr).* Paris, France.
+* Feb. – May 2017.  **[Speed Data Scientist 2017: Failures Detection Challenge](http://speed-data-scientist.bemyapp.com), 🏅 4<sup>th</sup> Place and Best Presentation Award.** *[Société Générale](https://www.societegenerale.fr).* Paris, France.
 * Jan. – June 2016. 👨🏻‍🏫 **[Scientific and technological support in primary school: An introduction to robotic programming for children](https://www.dropbox.com/s/s3966fsgtphrx1s/ASTEP2016_AlexandreHuat_Rapport.pdf?dl=0).** *Primary School Gérard Philipe and [National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr).* Amfreville-la-Mi-Voie, France.
 
 ## Languages
@@ -75,7 +76,7 @@ style="vertical-align: top">
 ### Martial arts
 
 * From Sep. 2012. 🥊 **Muay thai.** *Kru Rufin Didier and [Team Naja](https://team-naja.fr).* Also, volunteer coaching for beginners.
-* From Oct. 2022. 🥋 **Judo-jujūtsu.** 5th kyu (yellow belt). *[Faubourg de Béthune Judo Club Lillois](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).*
+* From Oct. 2022. 🥋 **Judo-jujūtsu,** 5<sup>th</sup> kyu (yellow belt). *[Faubourg de Béthune Judo Club Lillois](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).*
 
 ### Sports
 
