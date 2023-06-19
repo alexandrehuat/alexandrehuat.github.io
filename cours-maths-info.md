@@ -43,7 +43,7 @@ téléphone</a>.
 |    **S8**    |  Série de 8 heures  |      30 €      |    240 €     |              Les vacances d'été               |
 |   **S36**    | Série de 36 heures  |      28 €      |   1 008 €    |      L'année scolaire moins les vacances      |
 |   **S46**    | Série de 46 heures  |      26 €      |   1 196 €    |   L'année scolaire moins les vacances d'été   |
-|   **S52**    | Série de 52 heures  |      24 €      |   1 248 €    |              L'année calendaire               |
+|   **S52**    | Série de 52 heures  |      24 €      |   1 248 €    |               L'année complète                |
 
 Vous disposez de deux options de paiement pour les formules :
 
@@ -66,22 +66,26 @@ Mais lorsque j'ai démarré mon cursus d'ingénieur post-bac, je me suis rapidem
 
 ### Naturellement pédagogue
 
-Petit, finissant souvent mes exercices en avance, mon maître d'école me faisait sillonner la classe pour aider les autres élèves. Ce bon souvenir d'aider et d'aimer aider m'anime encore aujourd'hui. Expliquer, transmettre la connaissance et l'émerveillement est dans ma nature. Mes expériences personnelles m'ont régulièrement confirmé mon approche pédagogique. De plus, j'écoute attentivement les retours d'autrui en acceptant toute critique négative, ce qui me permet de m'adapter continuellement à mes élèves.
+Petit, finissant souvent mes exercices en avance, mon maître d'école me faisait sillonner la classe pour aider les autres élèves. Ce bon souvenir d'aider et d'aimer aider m'anime encore aujourd'hui. Expliquer, transmettre la connaissance et le pouvoir qu'elle procure est dans ma nature. De plus, j'apprécie toujours les retours positifs comme négatifs, ce qui me permet de m'améliorer continuellement.
 
+Mes expériences personnelles me confirment régulièrement mon approche pédagogique.
 Toute discipline confondue, j'ai compté comme élève ou personne encadrée :
-* Arthur et Hamza, en mathématiques de niveau 2<sup>nde</sup> à Terminale ;
-* Oumar, Morgane, Herna et Noémie, stagiaires et alternante encadrés dans le cadre de mon doctorat et de mon poste d'ingénieur ;
+* Arthur et Hamza, en mathématiques de niveau 3<sup>e</sup> à Terminale ;
+* Oumar, Morgane, Herna et Noémie, stagiaires et alternante encadrés durant mon doctorat et en tant qu'ingénieur ;
 * Raoul, Ilyes, Kardine, Fadel et Hamza, à qui j'ai donné des cours de boxe thaïlandaise.
 
 ### Plus qu'un professeur, un mentor
 
-Vous n'avez pas confiance en vous ? Vous connaissez votre cours à la maison mais l'oubliez lors de l'examen ? Vous bloquez lorsqu'il faut se mettre au travail : _« pas envie »_, _« la flemme »_, _« ça ne sert à rien »_, _« de toute façon je ne vais pas y arriver »_, etc. ? Vous êtes en excès de confiance, du moins on vous le dit, mais vous pensez _« ça va le faire »_ ? Tout cela vous empêche d'exploiter votre potentiel.
+Vous n'avez pas confiance en vous ? Vous connaissez votre cours à la maison mais l'oubliez lors de l'examen ? Vous bloquez lorsqu'il faut se mettre au travail : _« pas envie »_, _« la flemme »_, _« ça ne sert à rien »_, _« de toute façon je ne vais pas y arriver »_, etc. ? Vous êtes en excès de confiance, du moins on vous le dit, mais vous pensez que _« ça va le faire »_ ? Tout cela vous empêche de briller.
 
-Je suis quelqu'un de très investi et pour moi cela inclut travailler sur votre état d'esprit. Mon approche prend en compte la dimension psychologique de l'apprentissage tout en vous aidant à identifier et négocier les perturbateurs externes (mauvais rapport avec l'enseignant, parents au stress négatif, fréquentations trop distrayantes, etc.).
+Je suis quelqu'un de très investi et pour moi cela inclut travailler sur votre état d'esprit. Mon approche prend en compte la dimension psychologique de l'apprentissage tout en vous aidant à identifier et négocier les perturbateurs externes (mauvais rapport avec l'enseignant, parents au stress négatif, fréquentations distrayantes, etc.).
 
-Quel que soit votre objectif, le mien sera toujours votre 20/20 ! Donnez-vous le bénéfice du doute, prenez conscience de l'importance du travail et vous verrez que vous êtes capable de bien meilleurs résultats.
+Quel que soit votre objectif, le mien sera toujours votre 20/20 ! Donnez-vous l'occasion de briller, acceptez l'importance du travail et vous verrez que vous êtes capable de bien meilleurs résultats !
 
 ## Annexe: Règles générales des cours
 
-1. Tout cours annulé moins de 2 jours à l'avance, y compris en distanciel, est dû, sauf cas d'extrême urgence. Les cours ne pourront reprendre qu'au règlement du cours dû.
-2. Pour des raisons juridiques, les cours donnés en présentiel dans un lieu privé à un élève de moins de 18 ans nécessiteront la présence d'un responsable légal de l'enfant ou d'un tiers désigné.
+Les règles suivantes organiser le respect mutuel du cadre de travail.
+
+1. Tout cours annulé moins de 2 jours à l'avance, y compris en distanciel, est dû, sauf cas d'extrême urgence. Les cours ne pourront reprendre qu'au règlement du cours dû. Mon absence vaudra remboursement.
+2. Un retard de plus de 10 min sans prévenir au moins une heure à l'avance vaut annulation du cours, sauf cas d'extrême urgence.
+3. Pour des raisons juridiques, les cours donnés en présentiel dans un lieu privé à un élève de moins de 18 ans nécessitent la présence d'un responsable légal de l'enfant ou d'un tiers désigné.
