@@ -1,3 +1,8 @@
+---
+layout: default
+title: Cours Maths Infos
+---
+
 # Cours particuliers de mathématiques et d'informatique
 
 ## Présentation

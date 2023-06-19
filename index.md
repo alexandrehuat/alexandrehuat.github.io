@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 <button onclick="window.location.href='https://alexandrehuat-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp';">Traduire avec Google 🇫🇷</button>
 <small>*Certaines phrases et icônes peuvent être légèrement altérées.*</small>
 
