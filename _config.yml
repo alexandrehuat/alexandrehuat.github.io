@@ -2,6 +2,7 @@ remote_theme: pages-themes/dinky@v0.2.0
 title: Alexandre Huat
 description: Welcome to my professional website. Follow me on GitHub and social networks to keep an eye on my project updates.
 avatar: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA2aAAAAJDhlZGJkOGQ1LWY0M2EtNDY2NS1hYzZkLTVkNDg5OWQzMWJiZQ.jpg"
+google_analytics: 5527782389
 
 author:
   name: Alexandre Huat
@@ -14,7 +15,7 @@ footer-links-active:
   email: true
   github: true
   linkedin: true
-  telephone: false
+  telephone: true
 
 timezone: "Europe/Paris"
 markdown: kramdown

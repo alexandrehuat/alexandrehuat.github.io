@@ -1,6 +1,11 @@
+----
+title: Home
+layout: default
+filename: index.md
+----
+
 <button onclick="window.location.href='https://alexandrehuat-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp';">Traduire avec Google 🇫🇷</button>
-<small>
-*Certaines phrases et émoticônes ou images peuvent être légèrement altérées.*</small>
+<small>*Certaines phrases et icônes peuvent être légèrement altérées.*</small>
 
 <img src="http://gravatar.com/avatar/f6fa57646c85a6e933afac27d012ffb5?s=144&d=404" alt="Gravatar" style="border-radius: 50%;">
 
@@ -22,7 +27,7 @@ I also like human interaction, especially through teaching and learning.
 
 ## Diplomas and formation
 
-*N.B. I aborted my Ph.D. studies due to health issues at the end of my 3rd year.*
+* _I aborted my Ph.D. studies due to health issues at the end of my 3rd year._
 * Nov. 2018 – Nov. 2021. **Medical Data Science Ph.D. Student (Cifre).** *[University of Rouen, Laboratory of Computer Science, Information Processing and Systems (LITIS), Team Quantification in Functional Imaging (QuantIF)](http://www.litislab.fr/equipe/quantif) and [Henri Becquerel Center](https://www.becquerel.fr/la-recherche/recherche-fondamentale).* Rouen, France. *See 'Work experience'.*
 * 2017 – Sep. 2018 (1 year). **[Master 2 Data Science](http://mastersid.univ-rouen.fr/en/sd.php).** *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr) and [University of Rouen](http://www.univ-rouen.fr).* Saint-Étienne-du-Rouvray, France.
 * Sep. 2014 – Sep. 2018 (4 years). **Engineer's degree in Computer Science,** Specialization in Data Engineering. *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr), [Department of Information Systems Architectures (ASI)](http://asi.insa-rouen.fr).* Saint-Étienne-du-Rouvray, France.
