@@ -1,4 +1,4 @@
-# remote_theme: pages-themes/dinky@v0.2.0
+remote_theme: pages-themes/dinky@v0.2.0
 title: Alexandre Huat
 description: Welcome to my professional website. Follow me on GitHub and social networks to keep an eye on my project updates.
 avatar: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA2aAAAAJDhlZGJkOGQ1LWY0M2EtNDY2NS1hYzZkLTVkNDg5OWQzMWJiZQ.jpg"
@@ -22,7 +22,7 @@ markdown: kramdown
 highlighter: rouge
 
 plugins:
-#- jekyll-remote-theme
+- jekyll-remote-theme
 - jekyll-avatar
 - jekyll-sitemap
 
