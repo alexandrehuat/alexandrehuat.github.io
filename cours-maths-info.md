@@ -1,9 +1,3 @@
-----
-title: Cours Maths Info
-layout: default
-filename: cours-maths-info.md
-----
-
 # Cours particuliers de mathématiques et d'informatique
 
 ## Présentation
