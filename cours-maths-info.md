@@ -81,10 +81,10 @@ Je suis quelqu'un de très investi et pour moi cela inclut travailler sur votre 
 
 Quel que soit votre objectif, le mien sera toujours votre 20/20 ! Donnez-vous l'occasion de briller, acceptez l'importance du travail et vous verrez que vous êtes capable de bien meilleurs résultats !
 
-## Annexe: Règles générales des cours
+## Annexe: Règles générales
 
-Les règles suivantes organiser le respect mutuel du cadre de travail.
+Afin d'organiser un cadre de respect mutuel :
 
-1. Tout cours annulé moins de 2 jours à l'avance, y compris en distanciel, est dû, sauf cas d'extrême urgence. Les cours ne pourront reprendre qu'au règlement du cours dû. Mon absence vaudra remboursement.
-2. Un retard de plus de 10 min sans prévenir au moins une heure à l'avance vaut annulation du cours, sauf cas d'extrême urgence.
-3. Pour des raisons juridiques, les cours donnés en présentiel dans un lieu privé à un élève de moins de 18 ans nécessitent la présence d'un responsable légal de l'enfant ou d'un tiers désigné.
+1. Pour des raisons juridiques, les cours donnés en présentiel dans un lieu privé à un élève de moins de 18 ans nécessitent la présence d'un responsable légal de l'enfant ou d'un tiers.
+1. Tout cours annulé moins de 2 jours à l'avance, y compris en distanciel, est dû, sauf cas d'extrême urgence. Les cours ne pourront reprendre qu'au règlement du cours dû.
+1. Un retard de plus de 10 min sans prévenir au moins une heure à l'avance vaut annulation du cours, sauf cas d'extrême urgence.
