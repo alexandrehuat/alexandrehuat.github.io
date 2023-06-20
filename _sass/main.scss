@@ -8,7 +8,30 @@ th, td {
 }
 
 .circle {
-	-moz-border-radius: 50%;
-	-webkit-border-radius: 50%;
 	border-radius: 50%;
+}
+
+a.linkedin {
+    background: url(../images/linkedin.png) no-repeat 1px;
+//     height: 18px;
+}
+
+a.email-icon, .phone-icon {
+    text-decoration: none;
+}
+
+a.email-icon:after {
+    content: "📧";
+}
+
+a.email-icon:hover:after {
+    content: "📤";
+}
+
+a.phone-icon:after {
+    content: "📱";
+}
+
+a.phone-icon:hover:after {
+    content: "📲";
 }

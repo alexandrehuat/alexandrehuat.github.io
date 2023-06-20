@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Cours Maths Infos
+layout: default
 ---
 
 # Cours particuliers de mathématiques et d'informatique
@@ -28,10 +28,10 @@ Je propose des cours particuliers de mathématiques et d'informatique selon les 
 Concernant l'informatique, je peux enseigner en particulier l'algorithmique théorique, le langage Python et l'apprentissage statistique.
 
 Pour demander cours ou obtenir davantage de détails, veuillez me contacter par
-<a href="mailto:alexandre.huat@gmail.com?subject=Cours particuliers - Prénom NOM - Matières&body=(1) Modifiez l'objet du mail en précisant le nom complet de l'élève potentiel et les matières qui vous intéressent. (2) Renseignez directement vos disponibilités si vous les connaissez. (3) Renseignez votre numéro de téléphone pour être recontacté.">
+<a href="{{ 'mailto:' ~ site.author.email ~ '?subject=Cours particuliers - Prénom NOM - Matières&body=(1) Modifiez l'objet du mail en précisant le nom complet de l'élève potentiel et les matières qui vous intéressent. (2) Renseignez directement vos disponibilités si vous les connaissez. (3) Renseignez votre numéro de téléphone pour être recontacté.'}}">
 e-mail</a>
 ou par
-<a href="tel:+33749365848">téléphone</a>.
+<a href="{{ 'tel:' ~ site.author.phone }}">téléphone</a>.
 
 ### Modalités
 

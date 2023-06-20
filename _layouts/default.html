@@ -13,10 +13,6 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     {% include head-custom.html %}
-
-    <!-- MathJax -->
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 <body>
 <div class="wrapper">
@@ -40,6 +36,9 @@
         {% if site.github.is_user_page %}
         <ul>
             <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
+            <li><a class="buttons linkedin" href="{{ 'https://www.linkedin.com/in/' ~ site.author.linkedin }}">
+                LinkedIn Profile
+            </a></li>
         </ul>
         {% endif %}
     </header>
@@ -49,13 +48,9 @@
     </section>
 
     <footer>
-        <p>Contact<br>
-            <button onclick="window.location.href='mailto:alexandre.huat@gmail.com'">📧</button>
-            <button onclick="window.location.href='tel:+33749365848'">📱</button>
-            <a href="https://www.linkedin.com/in/alexandre-huat/">
-                <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"
-                     style="height: 1em;">
-            </a>
+        <p>Contact
+            <a class="email-icon" href="{{ 'mailto:' ~ site.author.email }}"></a>
+            <a class="phone-icon" href="{{ 'tel:' ~ site.author.phone }}"></a>
         </p>
         <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
     </footer>
