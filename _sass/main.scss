@@ -1,3 +1,9 @@
+:root {
+    --dinky-black: #171717;
+    --dinky-red: #c30000;
+    --linkedin-blue: #0b66c2;
+}
+
 a {
     font-weight: inherit;
 }
@@ -11,27 +17,42 @@ th, td {
 	border-radius: 50%;
 }
 
-a.linkedin {
-    background: url(../images/linkedin.png) no-repeat 1px;
-//     height: 18px;
-}
-
-a.email-icon, .phone-icon {
+/* Fontawesome Common Properties: All required to make icons render reliably */
+.contact-icon::before {
+    /* removed font-based rules */
+    display: inline-block;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
     text-decoration: none;
+    margin-left: 1ex;
+    font: var(--fa-font-solid);
+    color: var(--dinky-black);
 }
 
-a.email-icon:after {
-    content: "📧";
+.contact-icon:hover:before {
+    color: var(--linkedin-blue);
 }
 
-a.email-icon:hover:after {
-    content: "📤";
+a.linkedin-icon::before {
+    content: "\f08c";
 }
 
-a.phone-icon:after {
-    content: "📱";
+a.email-icon::before {
+//  content: "📧";
+    content: "\f0e0";
 }
 
-a.phone-icon:hover:after {
-    content: "📲";
+a.email-icon:hover:before {
+//  content: "📤";
+    content: "\f658";
+}
+
+a.phone-icon::before {
+//  content: "📱";
+    content: "\f095";
+}
+
+a.phone-icon:hover:before {
+//  content: "📲";
+    content: "\f2a0";
 }
