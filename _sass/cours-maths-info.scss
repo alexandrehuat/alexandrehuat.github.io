@@ -1,3 +1,10 @@
-input.cours-maths-info[type=number] {
-    width: 8ch;
+div.calc {
+    border: 1px solid var(--dinky-red);
+    border-radius: var(--dinky-border-radius);
+    background-color: var(--dinky-gray);
+    padding: 1ch;
+}
+
+input.calc[type=number] {
+    width: 6ch;
 }

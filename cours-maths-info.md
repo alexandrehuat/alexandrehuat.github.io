@@ -45,7 +45,7 @@ ou par
 
 **Base tarifaire horaire :** 34 €
 
-💹 _Une [réduction](#premières-heures) de 50 % vous est offerte sur les deux premiers cours !_
+_Une [réduction](#premières-heures) de 50 % vous est offerte aux deux premières heures !_
 
 | Formule | Description        | Tarif horaire | Prix total                                | Équivalence au rythme d'une heure par semaine |
 |---------|--------------------|---------------|-------------------------------------------|-----------------------------------------------|
@@ -121,27 +121,30 @@ Vous disposez de plusieurs options de règlement pour les formules.
 
 Vous réglez les séances une par une au tarif de base puis vous obtenez une compensation à chaque fin de série.
 
-Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heures au tarif de base, donc vous ne réglez que 240 − 7 × 34 = 2 €. À la fin d'une série de 36 heures, vous avez déjà réglé 4 formules S8 et 3 heures au tarif de base, donc vous devez 1008 − (4 × 240 + 3 × 34) = −54 €, autrement dit, 54 € vous sont remboursés.
+Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heures au tarif de base, donc vous ne réglez que 240 − 7 × 34 = 2 €.
+À la fin d'une série de 36 heures, vous avez déjà réglé 4 formules S8 et 3 heures au tarif de base, donc vous devez 1008 − (4 × 240 + 3 × 34) = −54 €, autrement dit, 54 € vous sont remboursés.
 
 Une pause des cours de plus de 3 semaines annule la série, sauf cas de force majeure.
 
-##### Calculateur
+<div class="calc">
+##### Calculatrice
 
-_Ce programme peut ne pas fonctionner sous certains navigateurs._
+<small>_Ce programme peut ne pas fonctionner sous certains navigateurs._</small>
 
-<input id="calc-first-hours-discount"  class="cours-maths-info" type=checkbox checked>
-[Réduction](#premières-heures) les premières heures
-
+<input class="calc" name="first-hours-discount" type=checkbox checked>
+[Réduction](#premières-heures) les premières heures<br>
 Nombre d'heures :
-<input id="calc-hours" class="cours-maths-info" type=number min=1>
-
+<input class="calc" name="hours" type=number min=1>
+<br>
 Prix :
-<input id="calc-price" class="cours-maths-info" type=number readonly> €
-
-<script src="assets/js/cours-maths-info.js"></script>
+<input class="calc" name="price" type=number readonly> €
+</div>
 
 #### Option Tout-en-un
 
-Vous réglez la totalité de la série en une fois. 
+Vous réglez la totalité de la série en une fois.
 
-Si certaines séances n'ont pas été utilisées à la fin de l'année scolaire en raison d'annulations justifiées, ces dernières sont remboursées au tarif de la formule concernée. Aucun remboursement n'est réalisé en cas d'arrêt anticipé, sauf cas de force majeure.
+Si certaines heures n'ont pas été utilisées à la fin de l'année scolaire en raison d'annulations justifiées, ces dernières sont remboursées au tarif de la formule concernée.
+Aucun remboursement n'est réalisé en cas d'arrêt anticipé, sauf cas de force majeure.
+
+<script src="assets/js/cours-maths-info.js"></script>
