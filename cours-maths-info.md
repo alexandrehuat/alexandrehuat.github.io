@@ -18,7 +18,7 @@ et [AQUILAB by Coexya](https://www.aquilab.com).
 Actuellement, je suis en poste à Lille en tant qu'Ingénieur de Recherche et Développement à AQUILAB by Coexya.
 Mon rôle principal est d'y développer des modules d'analyse de données médicales dans une plateform web de gestion d'essais cliniques dans le domaine de la radiothérapie.
 
-Pour plus de détails sur mon parcours et moi-même, consultez mon [CV](index.md).
+Pour plus de détails sur mon parcours et moi-même, consultez mon <a href="./index.md" target="_blank">CV</a>.
 
 ## Prestation
 
