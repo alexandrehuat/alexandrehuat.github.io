@@ -5,7 +5,7 @@ title: Cours Maths Infos
 
 # Cours particuliers de mathématiques et d'informatique
 
-<div class="circle"><iframe src="https://giphy.com/embed/8RJIK9ddgZ0l0iXdTu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<img src="assets/images/humour-pas-sure-nb-prb-maths.png" style="height: 240px;">
 
 ## Présentation
 
