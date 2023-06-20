@@ -62,7 +62,7 @@ Aucun remboursement n'est réalisé en cas d'arrêt anticipé, sauf cas de force
 
 #### Option Fidélité
 
-Vous réglez les séances une par une au tarif de base puis vous êtes remboursé à chaque fin de série.
+Vous réglez les séances une par une au tarif de base puis vous êtes remboursés à chaque fin de série.
 
 Par exemples, à la fin d'une série de 8 heures, vous êtes remboursés de 8 × (34 − 30) = 16 €.
 À la fin d'une série de 36 heures, vous avez déjà réglé 4 formules S8 et 4 heures au tarif de base, donc vous êtes remboursé de 4 × (256 + 34) − 1008 = 152 €.
@@ -106,19 +106,16 @@ Toute discipline confondue, j'ai compté comme élève ou personne encadrée :
 Vous n'avez pas confiance en vous ? Vous connaissez votre cours à la maison mais l'oubliez lors de l'examen ? Vous
 bloquez lorsqu'il faut se mettre au travail : _« pas envie »_, _« la flemme »_, _« ça ne sert à rien »_, _« de toute
 façon je ne vais pas y arriver »_, etc. ? Vous êtes en excès de confiance, du moins on vous le dit, mais vous pensez que
-_« ça va le faire »_? Tout cela vous empêche de briller.
+_« ça va le faire »_?
+Tout cela vous empêche de briller.
 
-Je suis quelqu'un de très investi et pour moi cela inclut travailler sur votre état d'esprit. Mon approche prend en
-compte la dimension psychologique de l'apprentissage tout en vous aidant à identifier et négocier les perturbateurs
-externes (mauvais rapport avec l'enseignant, parents au stress négatif, fréquentations distrayantes, etc.).
+Je suis quelqu'un de très investi et pour moi cela inclut travailler sur votre état d'esprit. Mon approche prend en compte la dimension psychologique de l'apprentissage tout en vous aidant à identifier et négocier les perturbateurs externes (mauvais rapport avec l'enseignant, stress négatif de l'entourage, fréquentations distrayantes, etc.).
 
-Quel que soit votre objectif, le mien sera toujours votre 20/20 ! Donnez-vous l'occasion de briller, acceptez
-l'importance du travail et vous verrez que vous êtes capable de bien meilleurs résultats !
+Quel que soit votre objectif, le mien sera toujours votre 20/20 ! Donnez-vous l'occasion de briller, acceptez l'importance du travail et vous verrez que vous êtes capable de bien meilleurs résultats !
 
 ## Annexe : Règles générales
 
-Afin d'organiser un cadre de travail dans le respect mutuel :
-
+Afin de bénéficier d'un cadre de travail mutuellement respectueux :
 1. Les cours donnés en présentiel dans un lieu privé à un élève de moins de 18 ans nécessitent la présence d'un responsable légal de l'enfant ou d'un tiers.
 1. Tout cours annulé moins de 2 jours à l'avance, y compris en distanciel, est dû, sauf cas d'extrême urgence. Les cours ne pourront reprendre qu'au règlement du cours dû.
 1. Un retard de plus de 10 min sans prévenir au moins une heure à l'avance vaut annulation du cours, sauf cas d'extrême urgence.
