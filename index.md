@@ -4,7 +4,7 @@ title: Home
 ---
 
 <button onclick="window.location.href='https://alexandrehuat-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp';">Traduire avec Google 🇫🇷</button>
-<small>*Certaines phrases et icônes peuvent être légèrement altérées.*</small>
+<span style="margin-left: 1ex;">*Certaines phrases et icônes peuvent être légèrement altérées.*</span>
 
 <img src="http://gravatar.com/avatar/f6fa57646c85a6e933afac27d012ffb5?s=144&d=404" alt="Gravatar" class="circle">
 
