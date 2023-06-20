@@ -83,10 +83,10 @@ concret et instructif impliquant mathématiques et informatique.
 Petit, finissant souvent mes exercices en avance, mon maître d'école me faisait sillonner la classe pour aider les autres élèves.
 Ce bon souvenir d'aider et d'aimer aider m'anime encore aujourd'hui.
 Expliquer, transmettre la connaissance et le pouvoir qu'elle procure est dans ma nature.
-De plus, j'apprécie toujours les retours positifs comme négatifs, ce qui me permet de m'améliorer continuellement.
+De plus, j'apprécie autant les retours négatifs que positifs, ce qui me permet de m'améliorer continuellement.
 
 Mes expériences personnelles me confirment régulièrement mon approche pédagogique.
-Toute discipline confondue, j'ai compté comme élève ou personne encadrée :
+Toute discipline confondue, j'ai compté comme élèves et personnes encadrées :
 
 * Arthur et Hamza, en mathématiques de niveau 3<sup>e</sup> à Terminale ;
 * Oumar, Morgane, Herna et Noémie, stagiaires et alternante encadrés durant mon doctorat et en tant qu'ingénieur ;
@@ -98,7 +98,7 @@ Vous n'avez pas confiance en vous ? Vous connaissez votre cours à la maison ma
 bloquez lorsqu'il faut se mettre au travail : _« pas envie »_, _« la flemme »_, _« ça ne sert à rien »_, _« de toute
 façon je ne vais pas y arriver »_, etc. ? Vous êtes en excès de confiance, du moins on vous le dit, mais vous pensez que
 _« ça va le faire »_ ?
-Tout cela vous empêche de briller.
+Tout cela vous empêche de briller !
 
 Je suis quelqu'un de très investi et pour moi cela inclut travailler sur votre état d'esprit. Mon approche prend en compte la dimension psychologique de l'apprentissage tout en vous aidant à identifier et négocier les perturbateurs externes (mauvais rapport avec l'enseignant, stress négatif de l'entourage, fréquentations distrayantes, etc.).
 
@@ -107,6 +107,6 @@ Quel que soit votre objectif, le mien sera toujours votre 20/20 ! Donnez-vous l
 ## Annexe : Règles générales
 
 Afin de bénéficier d'un cadre de travail mutuellement respectueux :
-1. Les cours donnés en présentiel dans un lieu privé à un élève de moins de 18 ans nécessitent la présence d'un responsable légal de l'enfant ou d'un tiers.
-1. Tout cours annulé moins de 2 jours à l'avance, y compris en distanciel, est dû, sauf cas d'extrême urgence. Les cours ne pourront reprendre qu'au règlement du cours dû.
-1. Un retard de plus de 10 min sans prévenir au moins une heure à l'avance vaut annulation du cours, sauf cas d'extrême urgence.
+1. Les cours donnés en présentiel dans un lieu privé à un élève de moins de 18 ans nécessitent la présence d'un responsable légal de l'élève ou d'un tiers.
+1. Tout cours annulé moins de 2 jours à l'avance, y compris en distanciel, est dû, sauf cas d'extrême urgence. Les cours ne peuvent reprendre qu'au règlement du cours dû.
+1. Un retard de plus de 10 min sans prévenir au moins une heure à l'avance vaut annulation, sauf cas d'extrême urgence.
