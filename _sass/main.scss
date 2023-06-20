@@ -17,6 +17,8 @@ th, td {
 	border-radius: 50%;
 }
 
+/* ================ Contact icons ================ */
+
 a.contact-icon {
     display: inline-block;
     margin-left: 1em;
@@ -31,12 +33,7 @@ a.contact-icon::before {
 }
 
 a.contact-icon:hover:before {
-    color: var(--linkedin-blue);
-}
-
-a.linkedin-icon::before {
-    font: var(--fa-font-brands);
-    content: "\f08c";
+    color: var(--dinky-red);
 }
 
 a.email-icon::before {
@@ -53,4 +50,10 @@ a.phone-icon::before {
 
 a.phone-icon:hover:before {
     content: "\f2a0";
+}
+
+a.linkedin-icon::before {
+    font: var(--fa-font-brands);
+    content: "\f08c";
+    color: var(--linkedin-blue);
 }
