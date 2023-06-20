@@ -16,20 +16,20 @@ le [Centre Unicancer Henri Becquerel](https://www.becquerel.fr/le-centre/la-rech
 et [AQUILAB by Coexya](https://www.aquilab.com).
 
 Actuellement, je suis en poste à Lille en tant qu'Ingénieur de Recherche et Développement à AQUILAB by Coexya.
-Mon rôle principal est d'y développer des modules d'analyse de données médicales dans une plateform web de gestion
-d'essais cliniques dans le domaine de la radiothérapie.
+Mon rôle principal est d'y développer des modules d'analyse de données médicales dans une plateform web de gestion d'essais cliniques dans le domaine de la radiothérapie.
 
 Pour plus de détails sur mon parcours et moi-même, consultez mon [CV](index.md).
 
 ## Prestation
 
 Je propose des cours particuliers de mathématiques et d'informatique selon les modalités et les tarifs décrits ci-après.
-Concernant l'informatique, je peux enseigner en particulier l'algorithmique théorique, le langage Python et
-l'apprentissage statistique.
+Concernant l'informatique, je peux enseigner en particulier l'algorithmique théorique, le langage Python et l'apprentissage statistique.
 
-Pour demander cours ou obtenir davantage de détails, veuillez me contacter
-par <a href="mailto:alexandre.huat@gmail.com?subject=Cours particuliers — Prénom NOM — Matières&body=(1) Modifiez l'objet du mail en précisant le nom complet de l'élève potentiel et les matières qui vous intéressent. (2) Renseignez directement vos disponibilités si vous les connaissez. (3) Renseignez votre numéro de téléphone pour être recontacté.">
-e-mail</a> ou par <a href="tel:+33749365848">téléphone</a>.
+Pour demander cours ou obtenir davantage de détails, veuillez me contacter par
+<a href="mailto:alexandre.huat@gmail.com?subject=Cours particuliers - Prénom NOM - Matières&body=(1) Modifiez l'objet du mail en précisant le nom complet de l'élève potentiel et les matières qui vous intéressent. (2) Renseignez directement vos disponibilités si vous les connaissez. (3) Renseignez votre numéro de téléphone pour être recontacté.">
+e-mail</a>
+ou par
+<a href="tel:+33749365848">téléphone</a>.
 
 ### Modalités
 
@@ -41,49 +41,47 @@ e-mail</a> ou par <a href="tel:+33749365848">téléphone</a>.
 
 ### Tarifs
 
-**Base tarifaire horaire:** 34 €
+**Base tarifaire horaire :** 34 €
 
-| Formules | Description        | Tarif horaire | Prix total | Équivalence au rythme d'une heure par semaine |
-|----------|--------------------|---------------|------------|-----------------------------------------------|
-| S8       | Série de 8 heures  | 30 €          | 240 €      | Les vacances d'été                            |
-| S36      | Série de 36 heures | 28 €          | 1 008 €    | L'année scolaire moins les vacances           |
-| S46      | Série de 46 heures | 26 €          | 1 196 €    | L'année scolaire moins les vacances d'été     |
-| S52      | Série de 52 heures | 24 €          | 1 248 €    | L'année complète                              |
+| Formule | Description        | Tarif horaire | Prix total | Équivalence au rythme d'une heure par semaine |
+|---------|--------------------|---------------|------------|-----------------------------------------------|
+| S8      | Série de 8 heures  | 30 €          | 240 €      | Les vacances d'été                            |
+| S36     | Série de 36 heures | 28 €          | 1 008 €    | L'année scolaire moins les vacances           |
+| S46     | Série de 46 heures | 26 €          | 1 196 €    | L'année scolaire moins les vacances d'été     |
+| S52     | Série de 52 heures | 24 €          | 1 248 €    | L'année complète                              |
 
 Vous disposez de deux options de paiement pour les formules.
 
-#### Tout-en-un
+#### Option Tout-en-un
 
 Vous réglez la totalité de la série en une fois.
 
-Si certaines séances n'ont pas été utilisée à la fin de l'année scolaire en raison d'annulations justifiées, ces
-dernières seront remboursées au tarif de la formule concernée.
+Si certaines séances n'ont pas été utilisées à la fin de l'année scolaire en raison d'annulations justifiées, ces dernières sont remboursées au tarif de la formule concernée.
 
-Aucun remboursement ne sera réalisé en cas d'arrêt anticipé.
+Aucun remboursement n'est réalisé en cas d'arrêt anticipé, sauf cas de force majeur.
 
-#### Fidélité
+#### Option Fidélité
 
 Vous réglez les séances une par une au tarif de base puis vous êtes remboursé à chaque fin de série.
 
-Par exemples, à la fin d'une série de 8 heures, vous êtes remboursés de 8 × (34 − 30) = 16 €. À la fin d'une série de 36
-heures, vous avez déjà réglé 4 formules S8 et 4 heures au tarif de base, vous êtes donc remboursé de 4 × (256 + 34) −
-1008 = 152 €.
+Par exemples, à la fin d'une série de 8 heures, vous êtes remboursés de 8 × (34 − 30) = 16 €.
+À la fin d'une série de 36 heures, vous avez déjà réglé 4 formules S8 et 4 heures au tarif de base, donc vous êtes remboursé de 4 × (256 + 34) − 1008 = 152 €.
 
 ## Pourquoi moi plutôt qu'un autre professeur ?
 
 ### Un apprentissage concret et imagé grâce à ma pratique professionnelle
 
-_« Monsieur, j'ai compris le cours, mais tout ça, à quoi ça sert ? »_ Telle est la question redoutée à laquelle de
+_« Monsieur, j'ai compris le cours, mais tout ça, à quoi ça sert ? »_ Telle est la question redoutée à laquelle de
 nombreux professeurs ne savent répondre de façon satisfaisante, surtout concernant les mathématiques.
 
 Mais lorsque j'ai démarré mon cursus d'ingénieur post-bac, je me suis rapidement rendu compte que les mathématiques
 étaient bien plus riches et intéressantes que ce qu'on apprenait au lycée. En constante évolution, elles sont faites
-pour répondre à des problèmes quotidiens concrets dont mon usage dans mon métier en témoigne. La fameuse question _« à
-quoi ça sert ? »_ n'est pour moi que l'opportunité de transmettre l'émerveillement de la matière.
+pour répondre à des problèmes quotidiens concrets dont mon usage dans mon métier en témoigne. La fameuse question _« à
+quoi ça sert ? »_ n'est pour moi que l'opportunité de transmettre l'émerveillement de la matière.
 
 À titre d'illustration, comme sujet
 au [grand oral](https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-comment-se-passe-le-grand-oral-100028) de
-mathématiques du baccalauréat, j'ai aidé un ancien élève, Hamza, dans le choix et la préparation de son sujet: l'étude
+mathématiques du baccalauréat, j'ai aidé un ancien élève, Hamza, dans le choix et la préparation de son sujet : l'étude
 de [l'épidémie de _sang vicié_](https://fr.wikipedia.org/wiki/Incident_du_sang_vicié) du jeu en ligne World of Warcraft.
 Ainsi, nous avons plongé dans des équations différentielles décrivant l'évolution du taux d'infectés dans un modèle
 épidémiologique SIR pour déterminer comment les comportements des joueurs influençaient l'épidémie. Ce fut un sujet très
@@ -91,39 +89,36 @@ concret et instructif impliquant mathématiques et informatique.
 
 ### Naturellement pédagogue
 
-Petit, finissant souvent mes exercices en avance, mon maître d'école me faisait sillonner la classe pour aider les
-autres élèves. Ce bon souvenir d'aider et d'aimer aider m'anime encore aujourd'hui. Expliquer, transmettre la
-connaissance et le pouvoir qu'elle procure est dans ma nature. De plus, j'apprécie toujours les retours positifs comme
-négatifs, ce qui me permet de m'améliorer continuellement.
+Petit, finissant souvent mes exercices en avance, mon maître d'école me faisait sillonner la classe pour aider les autres élèves.
+Ce bon souvenir d'aider et d'aimer aider m'anime encore aujourd'hui.
+Expliquer, transmettre la connaissance et le pouvoir qu'elle procure est dans ma nature.
+De plus, j'apprécie toujours les retours positifs comme négatifs, ce qui me permet de m'améliorer continuellement.
 
 Mes expériences personnelles me confirment régulièrement mon approche pédagogique.
-Toute discipline confondue, j'ai compté comme élève ou personne encadrée:
+Toute discipline confondue, j'ai compté comme élève ou personne encadrée :
 
-* Arthur et Hamza, en mathématiques de niveau 3<sup>e</sup> à Terminale ;
-* Oumar, Morgane, Herna et Noémie, stagiaires et alternante encadrés durant mon doctorat et en tant qu'ingénieur ;
+* Arthur et Hamza, en mathématiques de niveau 3<sup>e</sup> à Terminale ;
+* Oumar, Morgane, Herna et Noémie, stagiaires et alternante encadrés durant mon doctorat et en tant qu'ingénieur ;
 * Raoul, Ilyes, Kardine, Fadel et Hamza, à qui j'ai donné des cours de boxe thaïlandaise.
 
 ### Plus qu'un professeur, un mentor
 
-Vous n'avez pas confiance en vous ? Vous connaissez votre cours à la maison mais l'oubliez lors de l'examen ? Vous
-bloquez lorsqu'il faut se mettre au travail: _« pas envie »_, _« la flemme »_, _« ça ne sert à rien »_, _« de toute
-façon je ne vais pas y arriver »_, etc. ? Vous êtes en excès de confiance, du moins on vous le dit, mais vous pensez que
-_« ça va le faire »_? Tout cela vous empêche de briller.
+Vous n'avez pas confiance en vous ? Vous connaissez votre cours à la maison mais l'oubliez lors de l'examen ? Vous
+bloquez lorsqu'il faut se mettre au travail : _« pas envie »_, _« la flemme »_, _« ça ne sert à rien »_, _« de toute
+façon je ne vais pas y arriver »_, etc. ? Vous êtes en excès de confiance, du moins on vous le dit, mais vous pensez que
+_« ça va le faire »_? Tout cela vous empêche de briller.
 
 Je suis quelqu'un de très investi et pour moi cela inclut travailler sur votre état d'esprit. Mon approche prend en
 compte la dimension psychologique de l'apprentissage tout en vous aidant à identifier et négocier les perturbateurs
 externes (mauvais rapport avec l'enseignant, parents au stress négatif, fréquentations distrayantes, etc.).
 
-Quel que soit votre objectif, le mien sera toujours votre 20/20! Donnez-vous l'occasion de briller, acceptez
-l'importance du travail et vous verrez que vous êtes capable de bien meilleurs résultats!
+Quel que soit votre objectif, le mien sera toujours votre 20/20 ! Donnez-vous l'occasion de briller, acceptez
+l'importance du travail et vous verrez que vous êtes capable de bien meilleurs résultats !
 
-## Annexe: Règles générales
+## Annexe : Règles générales
 
-Afin d'organiser un cadre de respect mutuel:
+Afin d'organiser un cadre de travail dans le respect mutuel :
 
-1. Pour des raisons juridiques, les cours donnés en présentiel dans un lieu privé à un élève de moins de 18 ans
-   nécessitent la présence d'un responsable légal de l'enfant ou d'un tiers.
-1. Tout cours annulé moins de 2 jours à l'avance, y compris en distanciel, est dû, sauf cas d'extrême urgence. Les cours
-   ne pourront reprendre qu'au règlement du cours dû.
-1. Un retard de plus de 10 min sans prévenir au moins une heure à l'avance vaut annulation du cours, sauf cas d'extrême
-   urgence.
+1. Les cours donnés en présentiel dans un lieu privé à un élève de moins de 18 ans nécessitent la présence d'un responsable légal de l'enfant ou d'un tiers.
+1. Tout cours annulé moins de 2 jours à l'avance, y compris en distanciel, est dû, sauf cas d'extrême urgence. Les cours ne pourront reprendre qu'au règlement du cours dû.
+1. Un retard de plus de 10 min sans prévenir au moins une heure à l'avance vaut annulation du cours, sauf cas d'extrême urgence.
