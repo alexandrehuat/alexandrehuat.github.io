@@ -17,23 +17,27 @@ th, td {
 	border-radius: 50%;
 }
 
-/* Fontawesome Common Properties: All required to make icons render reliably */
-.contact-icon::before {
-    /* removed font-based rules */
+a.contact-icon {
     display: inline-block;
-    text-rendering: auto;
-    -webkit-font-smoothing: antialiased;
+    margin: inherit 0.5ex;
     text-decoration: none;
-    margin-left: 1ex;
-    font: var(--fa-font-solid);
     color: var(--dinky-black);
 }
 
-.contact-icon:hover:before {
+/* Fontawesome Common Properties: All required to make icons render reliably */
+a.contact-icon::before {
+    /* removed font-based rules */
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font: var(--fa-font-solid);
+}
+
+a.contact-icon:hover:before {
     color: var(--linkedin-blue);
 }
 
 a.linkedin-icon::before {
+    font: var(--fa-font-brands);
     content: "\f08c";
 }
 
