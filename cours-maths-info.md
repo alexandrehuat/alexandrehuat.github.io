@@ -97,7 +97,7 @@ Toute discipline confondue, j'ai compté comme élève ou personne encadrée :
 Vous n'avez pas confiance en vous ? Vous connaissez votre cours à la maison mais l'oubliez lors de l'examen ? Vous
 bloquez lorsqu'il faut se mettre au travail : _« pas envie »_, _« la flemme »_, _« ça ne sert à rien »_, _« de toute
 façon je ne vais pas y arriver »_, etc. ? Vous êtes en excès de confiance, du moins on vous le dit, mais vous pensez que
-_« ça va le faire »_?
+_« ça va le faire »_ ?
 Tout cela vous empêche de briller.
 
 Je suis quelqu'un de très investi et pour moi cela inclut travailler sur votre état d'esprit. Mon approche prend en compte la dimension psychologique de l'apprentissage tout en vous aidant à identifier et négocier les perturbateurs externes (mauvais rapport avec l'enseignant, stress négatif de l'entourage, fréquentations distrayantes, etc.).
