@@ -50,22 +50,13 @@ ou par
 | S46     | Série de 46 heures | 26 €          | 1 196 €    | L'année scolaire moins les vacances d'été     |
 | S52     | Série de 52 heures | 24 €          | 1 248 €    | L'année complète                              |
 
-Vous disposez de deux options de paiement pour les formules.
-
-#### Option Tout-en-un
-
-Vous réglez la totalité de la série en une fois.
-
-Si certaines séances n'ont pas été utilisées à la fin de l'année scolaire en raison d'annulations justifiées, ces dernières sont remboursées au tarif de la formule concernée.
-
-Aucun remboursement n'est réalisé en cas d'arrêt anticipé, sauf cas de force majeur.
-
-#### Option Fidélité
-
-Vous réglez les séances une par une au tarif de base puis vous êtes remboursés à chaque fin de série.
-
-Par exemples, à la fin d'une série de 8 heures, vous êtes remboursés de 8 × (34 − 30) = 16 €.
-À la fin d'une série de 36 heures, vous avez déjà réglé 4 formules S8 et 4 heures au tarif de base, donc vous êtes remboursé de 4 × (256 + 34) − 1008 = 152 €.
+Vous disposez de deux options de paiement pour les formules :
+* **Tout-en-un :** vous réglez la totalité de la série en une fois.
+  * Si certaines séances n'ont pas été utilisées à la fin de l'année scolaire en raison d'annulations justifiées, ces dernières sont remboursées au tarif de la formule concernée. 
+  * Aucun remboursement n'est réalisé en cas d'arrêt anticipé, sauf cas de force majeur.
+* **Fidélité :** vous réglez les séances une par une au tarif de base puis vous êtes remboursés à chaque fin de série. 
+  * Par exemples, à la fin d'une série de 8 heures, vous êtes remboursés de 8 × (34 − 30) = 16 €. 
+  * À la fin d'une série de 36 heures, vous avez déjà réglé 4 formules S8 et 4 heures au tarif de base, donc vous êtes remboursé de 4 × (256 + 34) − 1008 = 152 €.
 
 ## Pourquoi moi plutôt qu'un autre professeur ?
 
