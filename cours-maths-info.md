@@ -5,7 +5,7 @@ title: Cours Maths Infos
 
 # Cours particuliers de mathématiques et d'informatique
 
-<img alt="Humour — Je ne suis pas sûre de savoir combien de problèmes j'ai car les maths en font partie." src="assets/images/humour-pas-sure-nb-prb-maths.png" style="height: 55mm; margin-left: auto; margin-right: auto; margin-top: 1em;">
+<img alt="Humour — Je ne suis pas sûre de savoir combien de problèmes j'ai car les maths en font partie." class="center" src="assets/images/humour-pas-sure-nb-prb-maths.png" style="height: 240px; margin-top: 26px;">
 
 ## Présentation
 
