@@ -1,0 +1,41 @@
+a.contact-icon {
+    display: inline-block;
+    margin-left: 2ch;
+    text-decoration: none;
+    color: var(--dinky-black);
+}
+
+a.contact-icon::before {
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font: var(--fa-font-solid);
+}
+
+a.contact-icon:hover:before {
+    color: var(--dinky-red);
+}
+
+a.email-icon::before {
+    content: "\f0e0";
+}
+
+a.email-icon:hover:before {
+    content: "\f658";
+}
+
+a.phone-icon::before {
+    content: "\f095";
+}
+
+a.phone-icon:hover:before {
+    content: "\f2a0";
+}
+
+a.linkedin-icon::before {
+    font: var(--fa-font-brands);
+    content: "\f08c";
+}
+
+a.linkedin-icon:hover:before {
+    color: var(--linkedin-blue);
+}
