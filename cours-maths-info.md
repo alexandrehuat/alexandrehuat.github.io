@@ -35,7 +35,7 @@ ou par
 
 | Aspect              | Mathématiques                                             | Informatique                                          |
 |---------------------|-----------------------------------------------------------|-------------------------------------------------------|
-| Niveau accepté      | De 6<sup>ème</sup> à Terminale (Maths Expertes comprises) | De 2<sup>nde</sup> à bac+2                            |
+| Niveau accepté      | De 6<sup>e</sup> à Terminale (Maths Expertes comprises) | De 2<sup>nde</sup> à bac+2                            |
 | Matériel requis     | Livre du programme annuel                                 | Ordinateur et connexion internet stables et efficaces |
 | Cours en distanciel | À discuter                                                | Oui                                                   |
 
