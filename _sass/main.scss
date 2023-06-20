@@ -19,14 +19,12 @@ th, td {
 
 a.contact-icon {
     display: inline-block;
-    margin: inherit 0.5ex;
+    margin-left: 1em;
     text-decoration: none;
     color: var(--dinky-black);
 }
 
-/* Fontawesome Common Properties: All required to make icons render reliably */
 a.contact-icon::before {
-    /* removed font-based rules */
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     font: var(--fa-font-solid);
@@ -42,21 +40,17 @@ a.linkedin-icon::before {
 }
 
 a.email-icon::before {
-//  content: "📧";
     content: "\f0e0";
 }
 
 a.email-icon:hover:before {
-//  content: "📤";
     content: "\f658";
 }
 
 a.phone-icon::before {
-//  content: "📱";
     content: "\f095";
 }
 
 a.phone-icon:hover:before {
-//  content: "📲";
     content: "\f2a0";
 }
