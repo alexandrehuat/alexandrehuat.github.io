@@ -65,18 +65,18 @@ Vous disposez de deux options de paiement pour les formules :
 _« Monsieur, j'ai compris le cours, mais tout ça, à quoi ça sert ? »_ Telle est la question redoutée à laquelle de
 nombreux professeurs ne savent répondre de façon satisfaisante, surtout concernant les mathématiques.
 
-Mais lorsque j'ai démarré mon cursus d'ingénieur post-bac, je me suis rapidement rendu compte que les mathématiques
-étaient bien plus riches et intéressantes que ce qu'on apprenait au lycée. En constante évolution, elles sont faites
-pour répondre à des problèmes quotidiens concrets dont mon usage dans mon métier en témoigne. La fameuse question _« à
-quoi ça sert ? »_ n'est pour moi que l'opportunité de transmettre l'émerveillement de la matière.
+Mais lorsque j'ai démarré mon cursus d'ingénieur post-bac, je me suis rapidement rendu compte que les mathématiques étaient bien plus riches et intéressantes que ce qu'on apprenait au lycée.
+En constante évolution, elles sont faites pour répondre à des problèmes quotidiens concrets comme en témoigne mon usage professionnel.
+La fameuse question _« à
+quoi ça sert ? »_ n'est pour moi que l'opportunité de transmettre l'intérêt de la matière.
 
 À titre d'illustration, comme sujet
 au [grand oral](https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-comment-se-passe-le-grand-oral-100028) de
 mathématiques du baccalauréat, j'ai aidé un ancien élève, Hamza, dans le choix et la préparation de son sujet : l'étude
-de [l'épidémie de _sang vicié_](https://fr.wikipedia.org/wiki/Incident_du_sang_vicié) du jeu en ligne World of Warcraft.
-Ainsi, nous avons plongé dans des équations différentielles décrivant l'évolution du taux d'infectés dans un modèle
-épidémiologique SIR pour déterminer comment les comportements des joueurs influençaient l'épidémie. Ce fut un sujet très
-concret et instructif impliquant mathématiques et informatique.
+de [l'épidémie de _sang vicié_](https://fr.wikipedia.org/wiki/Incident_du_sang_vicié) du jeu multi-joueur en ligne World of Warcraft.
+Ainsi, nous avons plongé dans les équations différentielles d'un modèle
+épidémiologique susceptible-infectieux-rétablis (SIR) pour déterminer comment les comportements des joueurs influençaient l'épidémie. Ce sujet très
+concret impliquant mathématiques et informatique était aussi très instructif pour moi-même.
 
 ### Naturellement pédagogue
 
