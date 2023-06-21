@@ -28,17 +28,17 @@ Je propose des cours particuliers de mathématiques et d'informatique selon les 
 Concernant l'informatique, je peux enseigner en particulier l'algorithmique théorique, le langage Python, l'apprentissage statistique et les bases du web.
 
 Pour demander cours ou obtenir davantage de détails, veuillez me contacter par
-<a href="{{ 'mailto:' ~ site.author.email ~ '?subject=Cours particuliers - Prénom NOM - Matière(s)&body=(1) Modifiez l\'objet du mail en précisant le nom complet de l\'élève potentiel et la(les) matière(s) qui vous intéresse(nt). (2) Renseignez directement vos disponibilités si possible. (3) Renseignez votre numéro de téléphone pour être recontactés plus rapidement.' }}">e-mail</a>
+<a href="mailto:alexandre.huat@gmail.com?subject=Cours particuliers - Prénom NOM - Matière(s)&body=<Modifiez l'objet du mail en précisant le nom de l'élève potentiel et les matières qui vous intéressent.>%0A%0A<Si possible, renseignez vos disponibilités, les lieux de cours souhaités, la fréquence et la quantité d'heure envisagées.>%0A%0A<Renseignez votre numéro de téléphone pour être recontactés plus rapidement.>">e-mail</a>
 ou par
-<a href="{{ 'tel:' ~ site.author.phone }}">téléphone</a>.
+[téléphone](tel:+33749365848).
 
 ### Modalités
 
-| Aspect              | Mathématiques                                           | Informatique                                          |
-|---------------------|---------------------------------------------------------|-------------------------------------------------------|
-| Niveau accepté      | De 6<sup>e</sup> à Terminale (Maths Expertes comprises) | De 2<sup>nde</sup> à bac+2                            |
-| Matériel requis     | Livre du programme annuel                               | Ordinateur et connexion internet stables et efficaces |
-| Cours en distanciel | À discuter                                              | Oui                                                   |
+| Aspect              | Mathématiques                                            | Informatique                                          |
+|---------------------|----------------------------------------------------------|-------------------------------------------------------|
+| Niveau accepté      | De 6<sup>e</sup> à Terminale (Maths Expertes comprises)  | De 2<sup>nde</sup> à bac+2                            |
+| Matériel requis     | Livre du programme annuel                                | Ordinateur et connexion internet stables et efficaces |
+| Cours en distanciel | ¨                                               | Oui                                                   |
 
 ### Tarifs
 
@@ -55,7 +55,7 @@ ou par
 
 Vous pouvez régler les formules [progressivement](#option-fidélité) selon un principe de fidélité ou bien [par lot](#option-tout-en-un).
 
-## Pourquoi moi plutôt qu'un autre professeur ?
+## Pourquoi moi ?
 
 ### Un apprentissage concret et imagé grâce à ma pratique professionnelle
 
@@ -123,8 +123,6 @@ Vous réglez les séances une par une au tarif de base puis vous obtenez une com
 Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heures au tarif de base, donc vous ne réglez que 240 − 7 × 34 = 2 €.
 À la fin d'une série de 36 heures, vous avez déjà réglé 4 formules S8 et 3 heures au tarif de base, donc vous devez 1008 − (4 × 240 + 3 × 34) = −54 €, autrement dit, 54 € vous sont remboursés.
 
-Une pause des cours de plus de 3 semaines annule la série, sauf cas de force majeure.
-
 <div class="calc">
 <h5>Calculatrice</h5>
 <p>
@@ -138,6 +136,8 @@ Prix :
 <input class="calc" name="price" type=number readonly> €
 </p>
 </div>
+
+Une pause des cours de plus de 3 semaines annule la série, sauf cas de force majeure.
 
 #### Option Tout-en-un
 
