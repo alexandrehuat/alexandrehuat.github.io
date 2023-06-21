@@ -4,6 +4,14 @@ div.calc {
     padding: 1em;
 }
 
+.calc > h5 {
+    margin-top: 0px;
+}
+
+.calc > p:last-child {
+    margin-bottom: 0px;
+}
+
 input.calc[type=number] {
     width: 6ch;
 }

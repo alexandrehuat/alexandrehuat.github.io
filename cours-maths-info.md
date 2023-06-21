@@ -45,7 +45,7 @@ ou par
 
 **Base tarifaire horaire :** 34 €
 
-_Une [réduction](#premières-heures) de 50 % vous est offerte aux deux premières heures !_
+🈹 _Une [réduction](#premières-heures) de 50 % vous est offerte pour les deux premières heures !_
 
 | Formule | Description        | Tarif horaire | Prix total                                | Équivalence au rythme d'une heure par semaine |
 |---------|--------------------|---------------|-------------------------------------------|-----------------------------------------------|
