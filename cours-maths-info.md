@@ -54,7 +54,7 @@ ou par
 | S46     | Série de 46 heures | 26 €          | 1 196 €                                   | L'année scolaire moins les vacances d'été     |
 | S52     | Série de 52 heures | 24 €          | 1 248 €                                   | L'année complète                              |
 
-Vous pouvez réglez les formules soit [progressivement](#option-fidélité) selon un principe de fidélité, soit [par lot](#option-tout-en-un).
+Vous pouvez régler les formules [progressivement](#option-fidélité) selon un principe de fidélité ou bien [par lot](#option-tout-en-un).
 
 ## Pourquoi moi plutôt qu'un autre professeur ?
 
@@ -109,9 +109,9 @@ Afin de bénéficier d'un cadre de travail mutuellement respectueux :
 
 ### Premières heures
 
-Si vous souhaitez tester ma prestation avant de vous engager sur l'année, vous pouvez demander deux heures de test facturées chacune à 50 % du tarif de base.
+Afin que vous puissiez évaluer ma prestation avant de vous engager pour plusieurs semaines, les deux premières heures sont facturées à 50 % du tarif de base chacune.
 
-Ces heures ne peuvent être comptabilisées dans une formule, sauf si vous complétez la différence.
+À moins de compléter la différence, ces heures ne peuvent être comptabilisées dans une formule.
 
 ### Règlement des formules
 
