@@ -28,7 +28,7 @@ Je propose des cours particuliers de mathématiques et d'informatique selon les 
 Concernant l'informatique, je peux enseigner en particulier l'algorithmique théorique, le langage Python, l'apprentissage statistique et les bases du web.
 
 Pour demander cours ou obtenir davantage de détails, veuillez me contacter par
-<a href="mailto:alexandre.huat@gmail.com?subject=Cours particuliers - Prénom NOM - Matière(s)&body=<Modifiez l'objet du mail en précisant le nom de l'élève potentiel et les matières qui vous intéressent.>%0A%0A<Si possible, renseignez vos disponibilités, les lieux de cours souhaités, la fréquence et la quantité d'heure envisagées.>%0A%0A<Renseignez votre numéro de téléphone pour être recontactés plus rapidement.>">e-mail</a>
+<a href="mailto:alexandre.huat@gmail.com?subject=Cours particuliers - Prénom NOM - Matière(s)&body=<Modifiez l'objet du mail en précisant le nom de l'élève potentiel et les matières qui vous intéressent.>%0A%0A<Si possible, renseignez vos disponibilités, les lieux de cours souhaités, la fréquence et la quantité d'heures envisagées.>%0A%0A<Renseignez votre numéro de téléphone pour être recontactés plus rapidement.>">e-mail</a>
 ou par
 [téléphone](tel:+33749365848).
 
