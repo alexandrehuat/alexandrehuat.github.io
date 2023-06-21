@@ -25,21 +25,20 @@ Pour plus de détails sur mon parcours et moi-même, consultez mon [CV](index.md
 ## Prestation
 
 Je propose des cours particuliers de mathématiques et d'informatique selon les modalités et les tarifs décrits ci-après.
-Concernant l'informatique, je peux enseigner en particulier l'algorithmique théorique, le langage Python et l'apprentissage statistique.
+Concernant l'informatique, je peux enseigner en particulier l'algorithmique théorique, le langage Python, l'apprentissage statistique et les bases du web.
 
-Pour demander cours ou obtenir davantage de [détails](#annexes), veuillez me contacter par
-<a href="{{ 'mailto:' ~ site.author.email ~ '?subject=Cours particuliers - Prénom NOM - Matières&body=(1) Modifiez l'objet du mail en précisant le nom complet de l'élève potentiel et les matières qui vous intéressent. (2) Renseignez directement vos disponibilités si vous les connaissez. (3) Renseignez votre numéro de téléphone pour être recontacté.' }}">
-e-mail</a>
+Pour demander cours ou obtenir davantage de détails, veuillez me contacter par
+<a href="{{ 'mailto:' ~ site.author.email ~ '?subject=Cours particuliers - Prénom NOM - Matière(s)&body=(1) Modifiez l\'objet du mail en précisant le nom complet de l\'élève potentiel et la(les) matière(s) qui vous intéresse(nt). (2) Renseignez directement vos disponibilités si possible. (3) Renseignez votre numéro de téléphone pour être recontactés plus rapidement.' }}">e-mail</a>
 ou par
 <a href="{{ 'tel:' ~ site.author.phone }}">téléphone</a>.
 
 ### Modalités
 
-| Aspect              | Mathématiques                                       | Informatique                                          |
-|---------------------|-----------------------------------------------------|-------------------------------------------------------|
+| Aspect              | Mathématiques                                           | Informatique                                          |
+|---------------------|---------------------------------------------------------|-------------------------------------------------------|
 | Niveau accepté      | De 6<sup>e</sup> à Terminale (Maths Expertes comprises) | De 2<sup>nde</sup> à bac+2                            |
-| Matériel requis     | Livre du programme annuel                           | Ordinateur et connexion internet stables et efficaces |
-| Cours en distanciel | À discuter                                          | Oui                                                   |
+| Matériel requis     | Livre du programme annuel                               | Ordinateur et connexion internet stables et efficaces |
+| Cours en distanciel | À discuter                                              | Oui                                                   |
 
 ### Tarifs
 
