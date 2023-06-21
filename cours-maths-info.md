@@ -1,6 +1,7 @@
 ---
 title: Cours Maths Info
-layout: page-fr
+layout: page
+lang: fr-FR
 ---
 
 # Cours particuliers de mathématiques et d'informatique
