@@ -1,6 +1,6 @@
 ---
-title: Cours Maths Infos
-layout: default
+title: Cours Maths Info
+layout: page-fr
 ---
 
 # Cours particuliers de mathématiques et d'informatique
@@ -34,11 +34,11 @@ ou par
 
 ### Modalités
 
-| Aspect              | Mathématiques                                            | Informatique                                          |
-|---------------------|----------------------------------------------------------|-------------------------------------------------------|
-| Niveau accepté      | De 6<sup>e</sup> à Terminale (Maths Expertes comprises)  | De 2<sup>nde</sup> à bac+2                            |
-| Matériel requis     | Livre du programme annuel                                | Ordinateur et connexion internet stables et efficaces |
-| Cours en distanciel | ¨                                               | Oui                                                   |
+| Aspect              | Mathématiques                                           | Informatique                                          |
+|---------------------|---------------------------------------------------------|-------------------------------------------------------|
+| Niveau accepté      | De 6<sup>e</sup> à Terminale (Maths Expertes comprises) | De 2<sup>nde</sup> à bac+2                            |
+| Matériel requis     | Livre du programme annuel                               | Ordinateur et connexion internet stables et efficaces |
+| Cours en distanciel | À discuter                                              | Oui                                                   |
 
 ### Tarifs
 
