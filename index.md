@@ -85,9 +85,10 @@ style="vertical-align: top">
 
 ### Sports
 
-* From Mar. 2020. 🤸 **Handstand walk.** Preparing a world record.
+* From Mar. 2020. 🤸 **Handstand walk.**
 * From 2010. 💪 **Strength training.** Pull-ups, push-ups, jumps, etc.
 * From 2010. 🏃‍♂️ **Running.** Speed training.
+* 2010—2012. 🤾‍♂️ **Handball.** High school contests.
 * 2002—2008. 🎾 **Tennis.** Competitive practice.
 
 ### Music

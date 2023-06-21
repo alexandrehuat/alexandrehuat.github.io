@@ -130,7 +130,8 @@ Une pause des cours de plus de 3 semaines annule la série, sauf cas de force ma
 <h5>Calculatrice</h5>
 <p>
 <input class="calc" name="first-hours-discount" type=checkbox checked>
-<a href="#premières-heures">Réduction</a> les premières heures<br>
+<a href="#premières-heures">Réduction</a> les premières heures
+<br>
 Nombre d'heures :
 <input class="calc" name="hours" type=number min=1>
 <br>
