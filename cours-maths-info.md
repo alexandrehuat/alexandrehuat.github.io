@@ -127,17 +127,16 @@ Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heur
 Une pause des cours de plus de 3 semaines annule la série, sauf cas de force majeure.
 
 <div class="calc">
-##### Calculatrice
-
-<small>_Ce programme peut ne pas fonctionner sous certains navigateurs._</small>
-
+<h5>Calculatrice</h5>
+<p>
 <input class="calc" name="first-hours-discount" type=checkbox checked>
-[Réduction](#premières-heures) les premières heures<br>
+<a href="#premières-heures">Réduction</a> les premières heures<br>
 Nombre d'heures :
 <input class="calc" name="hours" type=number min=1>
 <br>
 Prix :
 <input class="calc" name="price" type=number readonly> €
+</p>
 </div>
 
 #### Option Tout-en-un

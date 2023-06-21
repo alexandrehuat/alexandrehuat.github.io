@@ -1,8 +1,7 @@
 div.calc {
-    border: 1px solid var(--dinky-red);
     border-radius: var(--dinky-border-radius);
     background-color: var(--dinky-gray);
-    padding: 1ch;
+    padding: 1em;
 }
 
 input.calc[type=number] {
