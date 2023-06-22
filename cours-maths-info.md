@@ -65,9 +65,12 @@ Mais lorsque j'ai démarré mon cursus d'ingénieur post-bac, je me suis rapidem
 En constante évolution, elles sont faites pour répondre à des problèmes quotidiens concrets comme en témoigne mon usage professionnel.
 La fameuse question _« à quoi ça sert ? »_ n'est pour moi que l'opportunité de transmettre l'intérêt de la matière.
 
-À titre d'illustration, comme sujet au [grand oral](https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-comment-se-passe-le-grand-oral-100028) de mathématiques du baccalauréat, j'ai aidé un ancien élève, Hamza, dans le choix et la préparation de son sujet : l'étude de [l'épidémie de _sang vicié_](https://fr.wikipedia.org/wiki/Incident_du_sang_vicié) du jeu multi-joueur en ligne World of Warcraft.
-Ainsi, nous avons plongé dans les équations différentielles d'un modèle épidémiologique susceptible-infectieux-rétablis (SIR) pour déterminer comment les comportements des joueurs influençaient l'épidémie.
-Ce sujet très concret impliquant mathématiques et informatique m'a aussi instruit.
+<img alt="Logo World of Warcraft" class="center" src="assets/images/wow-logo.png" style="height: 3em;">
+
+À titre d'illustration, pour le [grand oral](https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-comment-se-passe-le-grand-oral-100028) du baccalauréat en mathématiques, j'ai aidé un ancien élève, Hamza, à choisir et préparer son sujet sur la thématique de [l'épidémie de _sang vicié_](https://fr.wikipedia.org/wiki/Incident_du_sang_vicié) du jeu World of Warcraft.
+_« Comment les comportements des joueurs influencent l'épidémie ? »_
+Pour répondre à cette problématique, nous avons plongé dans les équations différentielles d'un modèle épidémiologique susceptible-infectieux-rétablis.
+Usant de mathématiques et d'informatique, ce sujet très concret nous a aussi beaucoup instructif.
 
 ## Naturellement pédagogue
 
