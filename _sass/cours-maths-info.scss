@@ -1,10 +1,11 @@
-p.calc {
+div.calc {
     border-radius: var(--dinky-border-radius);
     background-color: var(--dinky-gray);
     padding: 1em;
+    margin-bottom: 22px; // same as <p> in Dinky theme
 }
 
-.calc > h5 {
+.calc > h4 {
     margin-top: 0;
 }
 

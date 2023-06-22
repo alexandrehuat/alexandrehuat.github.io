@@ -138,8 +138,8 @@ Vous réglez les séances une par une au tarif de base puis vous obtenez une com
 Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heures au tarif de base, donc vous ne réglez que 240 − 7 × 34 = 2 €.
 À la fin d'une série de 36 heures, vous avez déjà réglé 4 formules S8 et 3 heures au tarif de base, donc vous devez 1008 − (4 × 240 + 3 × 34) = −54 €, autrement dit, 54 € vous sont remboursés.
 
-<p class="calc">
-    <h5>Calculatrice</h5>
+<div class="calc">
+    <h4>Calculatrice</h4>
     <p>
         <input class="calc" name="first-hours-discount" type=checkbox checked>
         <a href="#premières-heures">Réduction</a> les premières heures
@@ -150,7 +150,7 @@ Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heur
         Prix :
         <input class="calc" name="price" type=number readonly> €
     </p>
-</p>
+</div>
 
 Une pause des cours de plus de 3 semaines annule la série, sauf cas de force majeure.
 
