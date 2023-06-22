@@ -1,8 +1,8 @@
-document.addEventListener("DOMContentLoaded", () => createNavList())
+document.addEventListener("DOMContentLoaded", createNavList)
 
-function createNavList(level = "h2") {
+function createNavList() {
     const navList = document.getElementById("nav-list");
-    document.querySelectorAll(level).forEach(function (item) {
+    document.querySelectorAll("h1").forEach(function (item) {
         const a = document.createElement("a");
         a.classList.add("buttons");
         a.href = "#" + item.id;

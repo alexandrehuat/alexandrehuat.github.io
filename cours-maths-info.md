@@ -1,14 +1,13 @@
 ---
 title: Cours Maths Info
+fulltitle: Cours particuliers de mathématiques et d'informatique 
 layout: page
 lang: fr-FR
 ---
 
-# Cours particuliers de mathématiques et d'informatique
+<img alt="Humour — Je ne suis pas sûre de savoir combien de problèmes j'ai car les maths en font partie." class="center" src="assets/images/humour-pas-sure-nb-prb-maths.png" style="height: 240px;">
 
-<img alt="Humour — Je ne suis pas sûre de savoir combien de problèmes j'ai car les maths en font partie." class="center" src="assets/images/humour-pas-sure-nb-prb-maths.png" style="height: 240px; margin-top: 26px;">
-
-## Présentation
+# Présentation
 
 Bonjour cher élève, étudiant ou parent, je suis titulaire d'un double diplôme d'Ingénieur en Informatique et de Master
 de Recherche en Science des Données (une branche de l'Intelligence Artificielle) accrédité par
@@ -23,7 +22,7 @@ Mon rôle principal est d'y développer des modules d'analyse de données médic
 
 Pour plus de détails sur mon parcours et moi-même, consultez mon [CV](index.md).
 
-## Prestation
+# Prestation
 
 Je propose des cours particuliers de mathématiques et d'informatique selon les modalités et les tarifs décrits ci-après.
 Concernant l'informatique, je peux enseigner en particulier l'algorithmique théorique, le langage Python, l'apprentissage statistique et les bases du web.
@@ -33,7 +32,7 @@ Pour demander cours ou obtenir davantage de détails, veuillez me contacter par
 ou par
 [téléphone](tel:+33749365848).
 
-### Modalités
+## Modalités
 
 | Aspect              | Mathématiques                                           | Informatique                                          |
 |---------------------|---------------------------------------------------------|-------------------------------------------------------|
@@ -41,7 +40,7 @@ ou par
 | Matériel requis     | Livre du programme annuel                               | Ordinateur et connexion internet stables et efficaces |
 | Cours en distanciel | À discuter                                              | Oui                                                   |
 
-### Tarifs
+## Tarifs
 
 **Base tarifaire horaire :** 34 €
 
@@ -56,9 +55,9 @@ ou par
 
 Vous pouvez régler les formules [progressivement](#option-fidélité) selon un principe de fidélité ou bien [par lot](#option-tout-en-un).
 
-## Pourquoi moi ?
+# Pourquoi moi ?
 
-### Un apprentissage concret et imagé grâce à ma pratique professionnelle
+## Un apprentissage concret et imagé grâce à ma pratique professionnelle
 
 _« Monsieur, j'ai compris le cours, mais tout ça, à quoi ça sert ? »_ Telle est la question redoutée à laquelle bien des professeurs ne savent répondre, surtout concernant les mathématiques.
 
@@ -70,7 +69,7 @@ La fameuse question _« à quoi ça sert ? »_ n'est pour moi que l'opportuni
 Ainsi, nous avons plongé dans les équations différentielles d'un modèle épidémiologique susceptible-infectieux-rétablis (SIR) pour déterminer comment les comportements des joueurs influençaient l'épidémie.
 Ce sujet très concret impliquant mathématiques et informatique m'a aussi instruit.
 
-### Naturellement pédagogue
+## Naturellement pédagogue
 
 Petit, finissant souvent mes exercices en avance, mon maître d'école me faisait sillonner la classe pour aider les autres élèves.
 Ce bon souvenir d'aider et d'aimer aider m'anime encore aujourd'hui.
@@ -84,7 +83,7 @@ Toute discipline confondue, j'ai compté comme élèves et personnes encadrées�
 * Oumar, Morgane, Herna et Noémie, stagiaires et alternante encadrés durant mon doctorat et en tant qu'ingénieur ;
 * Raoul, Ilyes, Kardine, Fadel et Hamza, à qui j'ai donné des cours de boxe thaïlandaise.
 
-### Plus qu'un professeur, un mentor
+## Plus qu'un professeur, un mentor
 
 Vous n'avez pas confiance en vous ?
 Vous connaissez votre cours à la maison mais l'oubliez lors de l'examen ?
@@ -98,26 +97,26 @@ Mon approche prend en compte la dimension psychologique de l'apprentissage tout 
 Quel que soit votre objectif, le mien sera toujours votre 20/20 !
 Donnez-vous l'occasion de briller, acceptez l'importance du travail et vous verrez que vous êtes capable de bien meilleurs résultats !
 
-## Annexes
+# Annexes
 
-### Règles générales
+## Règles générales
 
 Afin de bénéficier d'un cadre de travail mutuellement respectueux :
 1. Les cours donnés en présentiel dans un lieu privé à un élève de moins de 18 ans nécessitent la présence d'un responsable légal de l'élève ou d'un tiers.
 1. Tout cours annulé moins de 2 jours à l'avance, y compris en distanciel, est dû, sauf cas de force majeure. Les cours ne peuvent reprendre qu'au règlement du cours dû.
 1. Un retard de plus de 10 min sans prévenir au moins une heure à l'avance vaut annulation, sauf cas de force majeure.
 
-### Premières heures
+## Premières heures
 
 Afin que vous puissiez évaluer ma prestation avant de vous engager pour plusieurs semaines, les deux premières heures sont facturées à 50 % du tarif de base chacune.
 
 À moins de compléter la différence, ces heures ne peuvent être comptabilisées dans une formule.
 
-### Règlement des formules
+## Règlement des formules
 
 Vous disposez de plusieurs options de règlement pour les formules.
 
-#### Option Fidélité
+### Option Fidélité
 
 Vous réglez les séances une par une au tarif de base puis vous obtenez une compensation à chaque fin de série.
 
@@ -140,7 +139,7 @@ Prix :
 
 Une pause des cours de plus de 3 semaines annule la série, sauf cas de force majeure.
 
-#### Option Tout-en-un
+### Option Tout-en-un
 
 Vous réglez la totalité de la série en une fois.
 
