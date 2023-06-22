@@ -57,7 +57,7 @@ Vous pouvez régler les formules [progressivement](#option-fidélité) selon un 
 
 # Pourquoi moi ?
 
-Pourquoi me choisir plutôt qu'un autre en trois mots : [concret](#un-apprentissage-concret-et-imagé-grâce-à-ma-pratique-professionnelle), [pédagogue](#naturellement-pédagogue), [mentor](#plus-quun-professeur-un-mentor).
+Pourquoi me choisir plutôt qu'un autre professeur en trois mots : [concret](#un-apprentissage-concret-et-imagé-grâce-à-ma-pratique-professionnelle), [pédagogue](#naturellement-pédagogue), [mentor](#plus-quun-professeur-un-mentor).
 
 [//]: # (TODO: Et, en un témoignage : témoignage d'Hamza)
 
