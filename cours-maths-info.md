@@ -81,7 +81,9 @@ Ce bon souvenir d'aider et d'aimer aider m'anime encore aujourd'hui.
 Expliquer, transmettre la connaissance et le pouvoir qu'elle offre est dans ma nature.
 De plus, j'apprécie autant les retours négatifs que positifs, ce qui me permet de m'améliorer continuellement.
 
-<i class="fa-solid fa-people-arrows fa-3x center" style="color: MediumBlue"></i>
+<div class="center">
+    <i class="fa-solid fa-people-arrows fa-3x" style="color: steelblue"></i>
+</div>
 
 Mes expériences personnelles me confirment régulièrement mon approche pédagogique.
 Toute discipline confondue, j'ai compté comme élèves et personnes encadrées :
@@ -98,7 +100,9 @@ Vous bloquez lorsqu'il faut se mettre au travail : _« pas envie »_, _« la
 Vous êtes en excès de confiance, du moins on vous le dit, mais vous pensez que _« ça va le faire »_ ?
 Tout cela vous empêche de briller !
 
-<i class="fa-solid fa-handshake-angle fa-3x center" style="color: GoldenRod;"></i>
+<div class="center">
+    <i class="fa-solid fa-handshake-angle fa-3x center" style="color: goldenrod;"></i>
+</div>
 
 Je suis quelqu'un de très investi et pour moi cela inclut travailler sur votre état d'esprit.
 Mon approche prend en compte la dimension psychologique de l'apprentissage tout en vous aidant à identifier et négocier les perturbateurs externes (mauvais rapport avec l'enseignant, stress négatif de l'entourage, fréquentations distrayantes, etc.).
