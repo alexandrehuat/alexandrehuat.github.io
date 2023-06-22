@@ -69,8 +69,8 @@ La fameuse question _« à quoi ça sert ? »_ n'est pour moi que l'opportuni
 
 À titre d'illustration, pour le [grand oral](https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-comment-se-passe-le-grand-oral-100028) du baccalauréat en mathématiques, j'ai aidé un ancien élève, Hamza, à choisir et préparer son sujet sur la thématique de [l'épidémie de _sang vicié_](https://fr.wikipedia.org/wiki/Incident_du_sang_vicié) du jeu World of Warcraft.
 _« Comment les comportements des joueurs influencent l'épidémie ? »_
-Pour répondre à cette problématique, nous avons plongé dans les équations différentielles d'un modèle épidémiologique susceptible-infectieux-rétablis.
-Usant de mathématiques et d'informatique, ce sujet très concret nous a aussi beaucoup instructif.
+Pour répondre à cette problématique, nous avons plongé dans les équations différentielles d'un modèle épidémiologique susceptible-infecté-rétabli.
+Usant de mathématiques et d'informatique, ce sujet très concret nous a aussi beaucoup instruit.
 
 ## Naturellement pédagogue
 
