@@ -59,6 +59,8 @@ Vous pouvez régler les formules [progressivement](#option-fidélité) selon un 
 
 Pourquoi me choisir plutôt qu'un autre en trois mots : [concret](#un-apprentissage-concret-et-imagé-grâce-à-ma-pratique-professionnelle), [pédagogue](#naturellement-pédagogue), [mentor](#plus-quun-professeur-un-mentor).
 
+[//]: # (TODO: Et, en un témoignage : témoignage d'Hamza)
+
 ## Un apprentissage concret et imagé grâce à ma pratique professionnelle
 
 _« Monsieur, j'ai compris le cours, mais tout ça, à quoi ça sert ? »_ Telle est la question redoutée à laquelle bien des professeurs ne savent répondre, surtout concernant les mathématiques.
@@ -100,12 +102,12 @@ Vous bloquez lorsqu'il faut se mettre au travail : _« pas envie »_, _« la
 Vous êtes en excès de confiance, du moins on vous le dit, mais vous pensez que _« ça va le faire »_ ?
 Tout cela vous empêche de briller !
 
+Je suis quelqu'un de très investi et pour moi cela inclut travailler sur votre état d'esprit.
+Mon approche prend en compte la dimension psychologique de l'apprentissage tout en vous aidant à identifier et négocier les perturbateurs externes (mauvais rapport avec l'enseignant, stress négatif de l'entourage, fréquentations distrayantes, etc.).
+
 <p style="text-align: center;">
     <i class="fa-solid fa-handshake-angle fa-3x center" style="color: goldenrod;"></i>
 </p>
-
-Je suis quelqu'un de très investi et pour moi cela inclut travailler sur votre état d'esprit.
-Mon approche prend en compte la dimension psychologique de l'apprentissage tout en vous aidant à identifier et négocier les perturbateurs externes (mauvais rapport avec l'enseignant, stress négatif de l'entourage, fréquentations distrayantes, etc.).
 
 Quel que soit votre objectif, le mien sera toujours votre 20/20 ! 🥇
 Donnez-vous l'occasion de briller, acceptez l'importance du travail et vous verrez que vous êtes capable de bien meilleurs résultats !
@@ -136,19 +138,19 @@ Vous réglez les séances une par une au tarif de base puis vous obtenez une com
 Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heures au tarif de base, donc vous ne réglez que 240 − 7 × 34 = 2 €.
 À la fin d'une série de 36 heures, vous avez déjà réglé 4 formules S8 et 3 heures au tarif de base, donc vous devez 1008 − (4 × 240 + 3 × 34) = −54 €, autrement dit, 54 € vous sont remboursés.
 
-<div class="calc">
-<h5>Calculatrice</h5>
-<p>
-<input class="calc" name="first-hours-discount" type=checkbox checked>
-<a href="#premières-heures">Réduction</a> les premières heures
-<br>
-Nombre d'heures :
-<input class="calc" name="hours" type=number min=1>
-<br>
-Prix :
-<input class="calc" name="price" type=number readonly> €
+<p class="calc">
+    <h5>Calculatrice</h5>
+    <p>
+        <input class="calc" name="first-hours-discount" type=checkbox checked>
+        <a href="#premières-heures">Réduction</a> les premières heures
+        <br>
+        Nombre d'heures :
+        <input class="calc" name="hours" type=number min=1>
+        <br>
+        Prix :
+        <input class="calc" name="price" type=number readonly> €
+    </p>
 </p>
-</div>
 
 Une pause des cours de plus de 3 semaines annule la série, sauf cas de force majeure.
 
