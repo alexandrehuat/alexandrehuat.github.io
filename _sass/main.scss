@@ -8,6 +8,14 @@
     --linkedin-blue: #0B66C2;
 }
 
+p.page-date {
+    color: var("--dinky-gray");
+}
+
+p.page-date > i.fa-feather {
+    margin-right: 1ch;
+}
+
 a {
     font-weight: inherit;
 }

@@ -1,11 +1,12 @@
 ---
-title: Cours Maths Info
-fulltitle: Cours particuliers de mathématiques et d'informatique 
+title: Cours particuliers de mathématiques et d'informatique
+shorttitle: Cours Maths Info
+date: 23 Juin 2023
 layout: page
 lang: fr-FR
 ---
 
-<img alt="Humour — Je ne suis pas sûre de savoir combien de problèmes j'ai car les maths en font partie." class="center" src="assets/images/humour-pas-sure-nb-prb-maths.png" style="height: 240px;">
+<img alt="Humour — Je ne suis pas sûre de savoir combien de problèmes j'ai car les maths en font partie." class="center" src="assets/images/humour-pas-sure-nb-prb-maths.png" style="height: 55mm;">
 
 # Présentation
 
@@ -53,7 +54,7 @@ ou par
 | S46     | Série de 46 heures | 26 €          | 1 196 €                                   | L'année scolaire moins les vacances d'été     |
 | S52     | Série de 52 heures | 24 €          | 1 248 €                                   | L'année complète                              |
 
-Vous pouvez régler les formules [progressivement](#option-fidélité) selon un principe de fidélité ou bien [par lot](#option-tout-en-un).
+Vous pouvez régler les formules [progressivement](#option-fidélité) selon un principe de fidélité ou bien [par lot](#option-tout-en-un). Utilisez la <a href="#calculatrice"><i class="fa-solid fa-calculator"></i> calculatrice</a> pour vos simulations.
 
 # Pourquoi moi ?
 
@@ -139,7 +140,7 @@ Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heur
 À la fin d'une série de 36 heures, vous avez déjà réglé 4 formules S8 et 3 heures au tarif de base, donc vous devez 1008 − (4 × 240 + 3 × 34) = −54 €, autrement dit, 54 € vous sont remboursés.
 
 <div class="calc">
-    <h4>Calculatrice</h4>
+    <h4 id="calculatrice">Calculatrice</h4>
     <p>
         <input class="calc" name="first-hours-discount" type=checkbox checked>
         <a href="#premières-heures">Réduction</a> les premières heures
