@@ -1,6 +1,6 @@
 ---
-title: Cours particuliers de mathématiques et d'informatique
-shorttitle: Cours Maths Info
+title: Cours Maths Info
+longtitle: Cours particuliers de mathématiques et d'informatique
 date: 23 Juin 2023
 layout: page
 lang: fr-FR
