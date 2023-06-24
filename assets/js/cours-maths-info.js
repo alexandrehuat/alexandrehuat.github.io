@@ -25,12 +25,12 @@ document.addEventListener("DOMContentLoaded", function () {
 })
 
 function updatePrices(hours, firstHoursDiscount, null_price = "—") {
-    const totalPrice = document.querySelector("input[name=total-price]");
-    const hourlyPrice = document.querySelector("input[name=hourly-price]");
+    const totalPrice = document.querySelector("output[name=total-price]");
+    const hourlyPrice = document.querySelector("output[name=hourly-price]");
 
     tp = computeTotalPrice(hours, firstHoursDiscount);
     if (tp === null)
-        totalPrice.value = hourlyPrice.value = null_price
+        totalPrice.value = hourlyPrice.value = null_price;
     else {
         totalPrice.value = tp;
         hourlyPrice.value = (tp / hours).toFixed(2);
