@@ -15,11 +15,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
     hours.addEventListener("input", function (event) {
         event.target.value = parseInt(event.target.value);
-        updatePrices(event.target.values, firstHoursDiscount.checked);
+        updatePrices(event.target.value, firstHoursDiscount.checked);
     });
 
     firstHoursDiscount.addEventListener("input", function (event) {
-        updatePrices(hours.values, event.target.checked);
+        updatePrices(hours.value, event.target.checked);
     });
 
 })

@@ -1,5 +1,9 @@
-.why-me-icon {
+img.why-me-icon {
     height: 4em;
+}
+
+i.why-me-icon {
+    font-size: 4em;
 }
 
 div.calc {
@@ -13,13 +17,10 @@ div.calc {
     margin-top: 0;
 }
 
-.calc > p:last-child {
-    margin-bottom: 0;
-}
-
-ul.calc li {
+.calc > ul {
     list-style-type: none;
-    padding: 0;
+    padding-left: 0;
+    margin-bottom: 0;
 }
 
 .calc input[type=number] {
