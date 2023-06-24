@@ -8,18 +8,16 @@ const PLANS = [ // must be in decreasing order of hours
 const N_FHD = 2; // number of first hours with discount
 
 document.addEventListener("DOMContentLoaded", function () {
-    updatePrices(null); // init
-
     const hours = document.querySelector("input[name=hours]");
     const firstHoursDiscount = document.querySelector("input[name=first-hours-discount]");
 
-    hours.addEventListener("input", function (event) {
-        event.target.value = parseInt(event.target.value);
-        updatePrices(event.target.value, firstHoursDiscount.checked);
+    hours.addEventListener("input", function () {
+        hours.value = parseInt(hours.value);
+        updatePrices(hours.value, firstHoursDiscount.checked);
     });
 
-    firstHoursDiscount.addEventListener("input", function (event) {
-        updatePrices(hours.value, event.target.checked);
+    firstHoursDiscount.addEventListener("input", function () {
+        updatePrices(hours.value, firstHoursDiscount.checked);
     });
 
 })
