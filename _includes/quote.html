@@ -1,9 +1,9 @@
 <p class="quote">
     <i class="fa-solid fa-quote-left"></i>
-    <i>{{ content }}</i>
+    <i>{{ include.content }}</i>
     <i class="fa-solid fa-quote-right"></i>
-    {{ author }}{% if date is defined %} ; {{ date }}{% endif %}
-    {% if link is defined %}
-    <a href="{{ link }}"><i class="fa-solid fa-stamp"></i></a>
+    {{ include.author }}{% if include.date is defined %} ; {{ include.date }}{% endif %}
+    {% if include.link is defined %}
+    <a href="{{ include.link }}"><i class="fa-solid fa-stamp"></i></a>
     {% endif %}
 </p>
