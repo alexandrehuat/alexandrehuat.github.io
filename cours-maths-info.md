@@ -70,7 +70,7 @@ Mais lorsque j'ai démarré mon cursus d'ingénieur post-bac, je me suis rapidem
 En constante évolution, elles sont faites pour répondre à des problèmes quotidiens concrets comme en témoigne mon usage professionnel.
 La fameuse question _« à quoi ça sert ? »_ n'est pour moi que l'opportunité de transmettre l'intérêt de la matière.
 
-<img alt="Logo World of Warcraft" class="why-me-icon center" src="assets/images/wow-logo.png">
+<img alt="Logo World of Warcraft" class="center" src="assets/images/wow-logo.png" style="height: 4em;">
 
 À titre d'illustration, pour le [grand oral](https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-comment-se-passe-le-grand-oral-100028) du baccalauréat en mathématiques, j'ai aidé un ancien élève, Hamza, à choisir et préparer son sujet sur la thématique de [l'épidémie de _sang vicié_](https://fr.wikipedia.org/wiki/Incident_du_sang_vicié) du jeu World of Warcraft.
 _« Comment les comportements des joueurs influencent l'épidémie ? »_
@@ -85,7 +85,7 @@ Expliquer, transmettre la connaissance et le pouvoir qu'elle offre est dans ma n
 De plus, j'apprécie autant les retours négatifs que positifs, ce qui me permet de m'améliorer continuellement.
 
 <p style="text-align: center;">
-    <i class="fa-solid fa-people-arrows why-me-icon" style="color: steelblue;"></i>
+    <i class="fa-solid fa-people-arrows fa-4x" style="color: steelblue;"></i>
 </p>
 
 Mes expériences personnelles me confirment régulièrement mon approche pédagogique.
@@ -107,7 +107,7 @@ Je suis quelqu'un de très investi et pour moi cela inclut travailler sur votre 
 Mon approche prend en compte la dimension psychologique de l'apprentissage tout en vous aidant à identifier et négocier les perturbateurs externes (mauvais rapport avec l'enseignant, stress négatif de l'entourage, fréquentations distrayantes, etc.).
 
 <p style="text-align: center;">
-    <i class="fa-solid fa-handshake-angle why-me-icon" style="color: goldenrod;"></i>
+    <i class="fa-solid fa-handshake-angle fa-4x" style="color: goldenrod;"></i>
 </p>
 
 Quel que soit votre objectif, le mien sera toujours votre 20/20 ! 🥇
@@ -141,9 +141,7 @@ Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heur
 
 <div class="calc">
     <h4 id="calculatrice">Calculatrice</h4>
-    <p>
-        <form class="calc">
-        <ul class="calc">
+    <ul class="calc">
         <li>
             <input class="calc" name="first-hours-discount" type=checkbox checked>
             <a href="#premières-heures">Réduction</a> les premières heures
@@ -151,6 +149,7 @@ Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heur
         <li>
             Nombre d'heures :
             <input name="hours" type=number min=1>
+        </li>
         <li>
             Prix total :
             <output name="total-price" for="hours">—</output> €
@@ -159,9 +158,7 @@ Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heur
             Prix horaire moyen :
             <output name="hourly-price" for="hours total-price">—</output> €
         </li>
-        </ul>
-        </form>
-    </p>
+    </ul>
 </div>
 
 Une pause des cours de plus de 3 semaines annule la série, sauf cas de force majeure.

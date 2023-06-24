@@ -10,8 +10,8 @@ const N_FHD = 2; // number of first hours with discount
 document.addEventListener("DOMContentLoaded", function () {
     updatePrices(null); // init
 
-    const hours = document.querySelector("input.calc[name=hours]");
-    const firstHoursDiscount = document.querySelector("input.calc[name=first-hours-discount]");
+    const hours = document.querySelector("input[name=hours]");
+    const firstHoursDiscount = document.querySelector("input[name=first-hours-discount]");
 
     hours.addEventListener("input", function (event) {
         event.target.value = parseInt(event.target.value);
@@ -25,8 +25,8 @@ document.addEventListener("DOMContentLoaded", function () {
 })
 
 function updatePrices(hours, firstHoursDiscount, null_price = "—") {
-    const totalPrice = document.querySelector("input.calc[name=total-price]");
-    const hourlyPrice = document.querySelector("input.calc[name=hourly-price]");
+    const totalPrice = document.querySelector("input[name=total-price]");
+    const hourlyPrice = document.querySelector("input[name=hourly-price]");
 
     tp = computeTotalPrice(hours, firstHoursDiscount);
     if (tp === null)
