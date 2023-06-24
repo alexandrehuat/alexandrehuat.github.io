@@ -11,12 +11,12 @@ document.addEventListener("DOMContentLoaded", function () {
     const hours = document.querySelector("input[name=hours]");
     const firstHoursDiscount = document.querySelector("input[name=first-hours-discount]");
 
-    hours.addEventListener("input", function () {
+    hours.addEventListener("input", function (event) {
         hours.value = parseInt(hours.value);
         updatePrices(hours.value, firstHoursDiscount.checked);
     });
 
-    firstHoursDiscount.addEventListener("input", function () {
+    firstHoursDiscount.addEventListener("input", function (event) {
         updatePrices(hours.value, firstHoursDiscount.checked);
     });
 
