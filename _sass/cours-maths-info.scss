@@ -1,3 +1,7 @@
+.why-me-icon {
+    height: 4em;
+}
+
 div.calc {
     border-radius: var(--dinky-border-radius);
     background-color: var(--dinky-gray);
@@ -13,6 +17,11 @@ div.calc {
     margin-bottom: 0;
 }
 
-input.calc[type=number] {
+ul.calc li {
+    list-style-type: none;
+    padding: 0;
+}
+
+.calc input[type=number] {
     width: 6ch;
 }
