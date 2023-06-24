@@ -11,7 +11,7 @@ lang: fr-FR
 # Présentation
 
 Bonjour cher élève, étudiant ou parent, je suis titulaire d'un double diplôme d'Ingénieur en Informatique et de Master
-de Recherche en Science des Données (une branche de l'Intelligence Artificielle) accrédité par
+de Recherche en Science des Données accrédité par
 l'[INSA Rouen](https://www.insa-rouen.fr/formation/specialites-ingenieurses/informatique-et-technologie-de-linformation),
 études que j'ai poursuivi par un Doctorat [Cifre](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844) à
 l'[Université de Rouen](https://ed-miis.normandie-univ.fr/) en partenariat avec
@@ -19,9 +19,9 @@ le [Centre Unicancer Henri Becquerel](https://www.becquerel.fr/le-centre/la-rech
 et [AQUILAB by Coexya](https://www.aquilab.com).
 
 Actuellement, je suis en poste à Lille en tant qu'Ingénieur de Recherche et Développement à AQUILAB by Coexya.
-Mon rôle principal est d'y développer des modules d'analyse de données médicales dans une plateform web de gestion d'essais cliniques dans le domaine de la radiothérapie.
+Mon rôle principal est d'y développer des modules d'analyse de données médicales pour une plateforme web de gestion d'essais cliniques de radiothérapie.
 
-Pour plus de détails sur mon parcours et moi-même, consultez mon [CV](index.md).
+Pour plus de détails sur mon parcours et moi-même, consultez mon [CV](index.md). <a href="index.md"><i class="fa-solid fa-id-card"></i></a>
 
 # Prestation
 
@@ -30,7 +30,7 @@ Concernant l'informatique, je peux enseigner en particulier l'algorithmique thé
 
 Pour demander cours ou obtenir davantage de détails, veuillez me contacter par
 <a href="mailto:alexandre.huat@gmail.com?subject=Cours particuliers - Prénom NOM - Matière(s)&body=<Modifiez l'objet du mail en précisant le nom de l'élève potentiel et les matières qui vous intéressent.>%0A%0A<Si possible, renseignez vos disponibilités, les lieux de cours souhaités, la fréquence et la quantité d'heures envisagées.>%0A%0A<Renseignez votre numéro de téléphone pour être recontactés plus rapidement.>">e-mail</a>
-ou par
+ou
 [téléphone](tel:+33749365848).
 
 ## Modalités
@@ -112,6 +112,17 @@ Mon approche prend en compte la dimension psychologique de l'apprentissage tout 
 
 Quel que soit votre objectif, le mien sera toujours votre 20/20 ! 🥇
 Donnez-vous l'occasion de briller, acceptez l'importance du travail et vous verrez que vous êtes capable de bien meilleurs résultats !
+
+# Témoignages
+
+94 % ⭐ C'est la note moyenne que m'a attribué Hamza concernant ma pédagogie, mes qualités humaines et mon aide pour son orientation professionnelle.
+
+{% include quote.html with {
+    "content": "Alexandre aborde et explique les mathématiques de façon très ouverte et facile à comprendre. Il m'a appris à voir les mathématiques comme une matière moins difficile et compliqué que je ne le pensais. Grâce à cela, je peux dire que les mathématiques ne sont pas réservées qu'aux plus doués.",
+    "author": "Hamza, Terminale Spé Maths",
+    "date": "2023",
+    "link": "assets/pdf/MentoratESASatisfactionHamza.pdf"
+} %}
 
 # Annexes
 

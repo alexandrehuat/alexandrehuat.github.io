@@ -2,5 +2,8 @@
     <i class="fa-solid fa-quote-left"></i>
     <i>{{ content }}</i>
     <i class="fa-solid fa-quote-right"></i>
-    {{ author }}
+    {{ author }}{% if date is defined %} ; {{ date }}{% endif %}
+    {% if link is defined %}
+    <a href="{{ link }}"><i class="fa-solid fa-stamp"></i></a>
+    {% endif %}
 </p>
