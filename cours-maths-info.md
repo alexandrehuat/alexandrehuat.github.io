@@ -161,11 +161,11 @@ Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heur
         </li>
         <li>
             Prix total :
-            <output name="total-price" for="hours">—</output> €
+            <output name="total-price" for="hours"></output>
         </li>
         <li>
             Prix horaire moyen :
-            <output name="hourly-price" for="hours total-price">—</output> €
+            <output name="hourly-price" for="hours total-price"></output>
         </li>
     </ul>
 </div>

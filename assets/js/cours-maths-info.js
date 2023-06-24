@@ -6,6 +6,10 @@ const PLANS = [ // must be in decreasing order of hours
     {hours: 8, rate: 30},
 ];
 const N_FHD = 2; // number of first hours with discount
+const EUR_FMTER = new Intl.NumberFormat(document.querySelector("html").lang, {
+    style: "currency",
+    currency: "EUR"
+});
 
 document.addEventListener("DOMContentLoaded", function () {
     updatePrices(null);
@@ -23,16 +27,16 @@ document.addEventListener("DOMContentLoaded", function () {
 
 })
 
-function updatePrices(hours, firstHoursDiscount, null_price = "—") {
+function updatePrices(hours, firstHoursDiscount) {
     const totalPrice = document.querySelector("output[name=total-price]");
     const hourlyPrice = document.querySelector("output[name=hourly-price]");
 
     tp = computeTotalPrice(hours, firstHoursDiscount);
     if (tp === null)
-        totalPrice.value = hourlyPrice.value = null_price;
+        totalPrice.value = hourlyPrice.value = "N/A";
     else {
-        totalPrice.value = tp;
-        hourlyPrice.value = (tp / hours).toFixed(2);
+        totalPrice.value = EUR_FMTER.format(tp);
+        hourlyPrice.value = EUR_FMTER.format(tp / hours);
     }
 }
 
@@ -46,7 +50,7 @@ function computeTotalPrice(hours, firstHoursDiscount = true) {
 
     if (firstHoursDiscount) {
         const firstHoursPrice = Math.min(N_FHD, hours) * BASE_RATE * (N_FHD - 1) / N_FHD;
-        return firstHoursPrice + computeTotalPrice(hours - 2);
+        return firstHoursPrice + computeTotalPrice(hours - 2, false);
     }
 
     for (const plan of PLANS)
@@ -54,7 +58,7 @@ function computeTotalPrice(hours, firstHoursDiscount = true) {
             const nPlans = Math.floor(hours / plan.hours);
             const remainingHours = hours % plan.hours;
             const plansPrice = nPlans * plan.hours * plan.rate;
-            return plansPrice + computeTotalPrice(remainingHours);
+            return plansPrice + computeTotalPrice(remainingHours, false);
         }
 
     return hours * BASE_RATE;
