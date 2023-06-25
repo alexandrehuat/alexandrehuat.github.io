@@ -27,7 +27,6 @@ Pour plus de détails sur mon parcours et moi-même, consultez mon [CV](index.md
 # Prestation
 
 Je propose des cours particuliers de mathématiques et d'informatique selon les modalités et les tarifs décrits ci-après.
-Concernant l'informatique, je peux enseigner en particulier l'algorithmique théorique, le langage Python, l'apprentissage statistique et les bases du web.
 
 Pour demander cours ou obtenir davantage de détails, veuillez me contacter par
 <a href="mailto:alexandre.huat@gmail.com?subject=Cours particuliers - Prénom NOM - Matières&body=<Modifiez l'objet du mail en précisant le nom de l'élève potentiel et les matières qui vous intéressent.>%0A%0A<Si possible, renseignez vos disponibilités, les lieux de cours souhaités, la fréquence et la quantité d'heures envisagées.>%0A%0A<Renseignez votre numéro de téléphone pour être recontactés plus rapidement.>">e-mail</a>
@@ -36,11 +35,12 @@ ou
 
 ## Modalités
 
-| Aspect              | Mathématiques                                           | Informatique                                          |
-|---------------------|---------------------------------------------------------|-------------------------------------------------------|
-| Niveau accepté      | De 6<sup>e</sup> à Terminale (Maths Expertes comprises) | De 2<sup>nde</sup> à bac+2                            |
-| Matériel requis     | Livre du programme annuel                               | Ordinateur et connexion internet stables et efficaces |
-| Cours en distanciel | À discuter                                              | Oui                                                   |
+|                     | Mathématiques                                           | Informatique                                                                                                                                                                                                                                                                                                            |
+|---------------------|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Niveau accepté      | De 6<sup>e</sup> à Terminale (Maths Expertes comprises) | De 2<sup>nde</sup> à bac+2                                                                                                                                                                                                                                                                                              |
+| Sujets enseignés    | Tout le programme scolaire                              | <ul style="list-style: none; padding: 0;"><li><i class="fa-solid fa-bars-staggered"></i> Algorithmique théorique </li><li><i class="fa-brands fa-python"></i> Langage Python</li><li><i class="fa-solid fa-chart-simple"></i> Apprentissage statistique</li><li><i class="fa-solid fa-code"></i> Bases du web</li></ul> |
+| Matériel requis     | Livre du programme annuel                               | Ordinateur et connexion internet stables et efficaces                                                                                                                                                                                                                                                                   |
+| Cours en distanciel | _À discuter_                                              | Oui                                                                                                                                                                                                                                                                                                                     |
 
 ## Tarifs
 
