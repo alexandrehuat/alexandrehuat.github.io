@@ -13,7 +13,7 @@
     font-size: small;
 }
 
-nav a {
+nav a:hover {
     text-decoration: none;
 }
 
@@ -40,11 +40,11 @@ th, td {
     margin-right: auto;
 }
 
-p.quote {
-    padding-left: 4ch;
+.quote {
+    list-style: none;
 }
 
-p.quote .icon {
+.quote .icon {
     color: var(--dinky-red);
 }
 

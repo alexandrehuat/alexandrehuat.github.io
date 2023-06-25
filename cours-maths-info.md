@@ -1,7 +1,7 @@
 ---
 title: Cours Maths Info
 longtitle: Cours particuliers de mathématiques et d'informatique
-date: 23 Juin 2023
+date: 2023-06-24
 layout: page
 lang: fr-FR
 ---
@@ -21,7 +21,7 @@ et [AQUILAB by Coexya](https://www.aquilab.com).
 Actuellement, je suis en poste à Lille en tant qu'Ingénieur de Recherche et Développement à AQUILAB by Coexya.
 Mon rôle principal est d'y développer des modules d'analyse de données médicales pour une plateforme web de gestion d'essais cliniques de radiothérapie.
 
-Pour plus de détails sur mon parcours et moi-même, consultez mon [CV](index.md). <a href="index.md"><i class="fa-solid fa-id-card"></i></a>
+[<i class="fa-solid fa-id-card"></i>](index.md") Pour plus de détails sur mon parcours et moi-même, consultez mon [CV](index.md).
 
 # Prestation
 
@@ -146,7 +146,7 @@ Vous disposez de plusieurs options de règlement pour les formules.
 Vous réglez les séances une par une au tarif de base puis vous obtenez une compensation à chaque fin de série.
 
 Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heures au tarif de base, donc vous ne réglez que 240 − 7 × 34 = 2 €.
-À la fin d'une série de 36 heures, vous avez déjà réglé 4 formules S8 et 3 heures au tarif de base, donc vous devez 1008 − (4 × 240 + 3 × 34) = −54 €, autrement dit, 54 € vous sont remboursés.
+À la fin d'une série de 36 heures, vous avez déjà réglé 4 formules S8 et 3 heures au tarif de base, donc vous devez 1 008 − (4 × 240 + 3 × 34) = −54 €, autrement dit, vous êtes remboursés de 54 €.
 
 <div class="calc">
     <h4 id="calculatrice">Calculatrice</h4>
@@ -157,7 +157,7 @@ Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heur
         </li>
         <li>
             Nombre d'heures :
-            <input name="hours" type=number min=1>
+            <input name="hours" type=number min=0>
         </li>
         <li>
             Prix total :

@@ -8,7 +8,8 @@ const PLANS = [ // must be in decreasing order of hours
 const N_FHD = 2; // number of first hours with discount
 const EUR_FMTER = new Intl.NumberFormat(document.querySelector("html").lang, {
     style: "currency",
-    currency: "EUR"
+    currency: "EUR",
+    trailingZeroDisplay: "stripIfInteger",
 });
 
 document.addEventListener("DOMContentLoaded", function () {
@@ -18,6 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const firstHoursDiscount = document.querySelector("input[name=first-hours-discount]");
 
     hours.addEventListener("input", function (event) {
+        event.target.value = Math.max(0, parseFloat(event.target.value));
         updatePrices(event.target.value, firstHoursDiscount.checked);
     });
 
@@ -41,11 +43,10 @@ function updatePrices(hours, firstHoursDiscount) {
 }
 
 function computeTotalPrice(hours, firstHoursDiscount = true) {
-    hours = parseFloat(hours);
-    if (Number.isNaN(hours))
+    if (Number.isNaN(hours = parseFloat(hours)))
         return null;
 
-    if (hours < 1)
+    if (hours < 0)
         return 0;
 
     if (firstHoursDiscount) {
