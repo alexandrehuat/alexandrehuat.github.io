@@ -118,7 +118,7 @@ Donnez-vous l'occasion de briller, acceptez l'importance du travail et vous verr
 94 % ⭐ C'est la note moyenne que m'a attribué Hamza concernant ma pédagogie, mes qualités humaines et mon aide pour son orientation professionnelle.
 
 {% include quote.html
-content="Alexandre aborde et explique les mathématiques de façon très ouverte et facile à comprendre. Il m'a appris à les voir comme une matière moins difficile et compliqué que je ne le pensais. Grâce à cela, je peux dire que les mathématiques ne sont pas réservées qu'aux plus doués."
+content="Alexandre aborde et explique les mathématiques de façon très ouverte et facile à comprendre. Il m'a appris à les voir comme une matière moins difficile et compliquée que je ne le pensais. Grâce à cela, je peux dire que les mathématiques ne sont pas réservées qu'aux plus doués."
 author="Hamza, Terminale Spé Maths"
 date="2023" link="assets/pdf/MentoratESASatisfactionHamza.pdf" %}
 
