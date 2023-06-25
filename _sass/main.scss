@@ -17,10 +17,6 @@ header a:hover {
     text-decoration: none;
 }
 
-.page-date .icon, nav .icon {
-    margin-right: 1ch;
-}
-
 header .icon::before, .contact-icon::before {
     display: inline-block;
     text-rendering: auto;
@@ -64,12 +60,24 @@ th, td {
     margin-right: auto;
 }
 
-.quote {
-    margin-left: 1em;
+ul.quote {
+    list-style: none;
+}
+
+p.quote {
+    margin-left: 4ch;
 }
 
 .quote .content  {
     font-style: italic;
+}
+
+.certif-proof.icon::before {
+    content: "\f5bf";
+}
+
+.certif-proof.icon:hover:before {
+    content: "\f0a3";
 }
 
 .fa-border {

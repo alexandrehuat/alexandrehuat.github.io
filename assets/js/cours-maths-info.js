@@ -18,8 +18,8 @@ document.addEventListener("DOMContentLoaded", function () {
     const hoursInput = document.querySelector("input[name=hours]");
     const firstHoursDiscountInput = document.querySelector("input[name=first-hours-discount]");
 
-    hoursInput.addEventListener("change", function (event) {
-        event.target.value = Math.max(0, parseFloat(event.target.value));
+    hoursInput.addEventListener("input", function (event) {
+        event.target.value = Math.max(0, parseInt(event.target.value));
         updatePrices(event.target.value, firstHoursDiscountInput.checked);
     });
 
@@ -43,7 +43,7 @@ function updatePrices(hours, firstHoursDiscount) {
 }
 
 function computeTotalPrice(hours, firstHoursDiscount = true) {
-    if (Number.isNaN(hours = parseFloat(hours)))
+    if (Number.isNaN(hours))
         return null;
 
     if (hours < 0)

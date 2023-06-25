@@ -3,9 +3,12 @@
         <i class="fa-solid fa-quote-left"></i>
         <span class="content">{{ include.content }}</span>
         <i class="fa-solid fa-quote-right"></i>
+    </li>
+    <li>
+        <i class="fa-solid fa-angle-right"></i>
         {{ include.author }}{% if include.date %} ({{ include.date }}){% endif %}
         {% if include.link %}
-        <a href="{{ include.link }}"><i class="fa-solid fa-signature"></i></a>
+        <a href="{{ include.link }}"><i class="certif-proof icon"></i></a>
         {% endif %}
     </li>
 </ul>
