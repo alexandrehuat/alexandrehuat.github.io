@@ -37,6 +37,10 @@ header a:hover {
     text-decoration: none;
 }
 
+.fa-flip {
+    --fa-animation-duration: 2s;
+}
+
 .icon::before {
     display: inline-block;
     text-rendering: auto;
