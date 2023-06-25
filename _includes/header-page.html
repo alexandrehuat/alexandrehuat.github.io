@@ -1,5 +1,8 @@
 <p class="header">{{ page.longtitle ?? page.title }}</p>
 {% if page.date %}
-<p class="page-date"><i class="fa-solid fa-feather-pointed icon"></i>{{ page.date | date: "%d/%m/%Y" }}</p>
+<p class="page-date">
+    <i class="fa-solid fa-feather-pointed icon"></i>
+    {{ page.date | date: "%e %b %Y" }}
+</p>
 {% endif %}
 <nav></nav>

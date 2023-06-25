@@ -25,7 +25,7 @@ header .icon::before, .contact-icon::before {
     display: inline-block;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
-    font: var(--fa-solid);
+    font: var(--fa-font-solid);
 }
 
 header .icon::before {
@@ -64,8 +64,8 @@ th, td {
     margin-right: auto;
 }
 
-.quote .icon {
-    color: var(--dinky-red);
+.quote {
+    margin-left: 1em;
 }
 
 .quote .content  {
