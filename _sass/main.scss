@@ -8,8 +8,12 @@
     --linkedin-blue: #0B66C2;
 }
 
-body {
+section {
     text-align: justify;
+}
+
+footer {
+    font-size: small;
 }
 
 .page-date {
@@ -21,11 +25,15 @@ header a:hover {
     text-decoration: none;
 }
 
-header .icon::before, .contact-icon::before {
+.icon::before {
     display: inline-block;
     text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     font: var(--fa-font-solid);
+}
+
+.icon:hover:before {
+    text-decoration: none;
 }
 
 header .icon::before {
@@ -82,7 +90,6 @@ a.certificate-proof.icon::before {
 
 a.certificate-proof.icon:hover:before {
     content: "\f0a3";
-    text-decoration: none;
 }
 
 .fa-border {
