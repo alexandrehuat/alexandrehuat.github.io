@@ -3,19 +3,20 @@
 
 <ul>
     {% if site.show_downloads %}
-    <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
-    <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
+    <a href="{{ site.github.zip_url }}"><li class="download icon">ZIP</li></a>
+    <a href="{{ site.github.tar_url }}"><li class="download icon">TAR</li></a>
     {% endif %}
-    <li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li>
+    <a href="{{ site.github.repository_url }}"><li class="github icon">View On GitHub</li></a>
 </ul>
 
 {% if site.github.is_project_page %}
-<p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{
-    site.github.owner_name }}</a></p>
+<p class="header">This project is maintained by
+    <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
+</p>
 {% endif %}
 
 {% if site.github.is_user_page %}
 <ul>
-    <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
+    <a href="{{ site.github.owner_url }}"><li class="github icon">GitHub Profile</li></a>
 </ul>
 {% endif %}

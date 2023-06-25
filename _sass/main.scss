@@ -21,6 +21,30 @@ nav a:hover {
     margin-right: 1ch;
 }
 
+header .icon::before, .contact-icon::before {
+    display: inline-block;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font: var(--fa-solid);
+}
+
+header .icon::before {
+    margin-right: 1ch;
+}
+
+.download.icon::before {
+    content: "\f019"
+}
+
+.github.icon::before {
+    font: val(--fa-brands);
+    content: "\f09b";
+}
+
+header nav .icon::before {
+    content: "\f0da";
+}
+
 a {
     font-weight: inherit;
 }

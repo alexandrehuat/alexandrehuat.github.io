@@ -162,7 +162,7 @@ Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heur
         </li>
         <li>
             Nombre d'heures :
-            <input name="hours" type=number min=0>
+            <input name="hours" type=number min=0> 
         </li>
         <li>
             Prix total :

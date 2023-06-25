@@ -1,18 +1,23 @@
-document.addEventListener("DOMContentLoaded", createNavList)
+document.addEventListener("DOMContentLoaded", createHeaderNavList)
 
-function createNavList() {
-    const navList = document.getElementById("nav-list");
-    document.querySelectorAll("h1").forEach(function (item) {
-        const li = document.createElement("li");
-        const faIcon = document.createElement("i")
+function createHeaderNavList() {
+    const ul = document.createElement("ul");
+    document.querySelectorAll("h1").forEach(function (header) {
         const a = document.createElement("a");
-        for (const cls of ["fa-solid", "fa-caret-right", "icon"])
-            faIcon.classList.add(cls);
-        li.appendChild(faIcon)
-        a.href = "#" + item.id;
-        const text = document.createTextNode(item.textContent);
-        a.appendChild(text);
-        li.appendChild(a);
-        navList.appendChild(li);
+        const li = document.createElement("li");
+        const faIcon = document.createElement("i");
+
+        a.href = "#" + header.id;
+        ["fa-solid", "fa-caret-right", "icon"]
+        faIcon.classList.add(icon);
+        const text = document.createTextNode(header.textContent);
+
+        const [inner, outer] = [li, a];
+        inner.appendChild(faIcon)
+        inner.appendChild(text);
+        outer.appendChild(inner);
+
+        ul.appendChild(outer);
     });
+    document.querySelector("header nav").appendChild(ul);
 }
