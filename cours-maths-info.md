@@ -34,12 +34,12 @@ ou
 
 ## Modalités
 
-|                     | Mathématiques                                          | Informatique                                                                                           |
-|---------------------|--------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Niveau accepté      | De 6<sup>e</sup> à Terminale (Maths Expertes comprises) | De 2<sup>nde</sup> à bac+2                                                                             |
-| Sujets enseignés    | Tout le programme scolaire                             | Algorithmique théorique, langage Python, apprentissage statistique, bases du web ; _autres à discuter_ |
-| Matériel requis     | Livre du programme annuel                              | Ordinateur et connexion internet stables et efficaces                                                  |
-| Cours en distanciel | _À discuter_                                           | Oui                                                                                                    |
+|                     | Mathématiques                                                 | Informatique                                                                                           |
+|---------------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Niveau accepté      | De la 6<sup>e</sup> à la Terminale (Maths Expertes comprises) | De la 2<sup>nde</sup> au bac+2                                                                         |
+| Sujets enseignés    | Tout le programme scolaire                                    | Algorithmique théorique, langage Python, apprentissage statistique, bases du web ; _autres à discuter_ |
+| Matériel requis     | Livre du programme annuel                                     | Ordinateur et connexion internet stables et efficaces                                                  |
+| Cours en distanciel | _À discuter_                                                  | Oui                                                                                                    |
 
 ## Tarifs
 

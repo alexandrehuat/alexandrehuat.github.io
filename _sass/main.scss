@@ -108,6 +108,23 @@ a.certificate-proof.icon:hover:before {
     content: "\f0a3";
 }
 
+a.certificate-proof.icon.fa-bounce::before {
+    --fa-bounce-rebound: 0;
+    --fa-bounce-height: 0;
+    --fa-bounce-start-scale-x: 1;
+    --fa-bounce-start-scale-y: 1;
+    --fa-bounce-jump-scale-x: 1;
+    --fa-bounce-jump-scale-y: 1;
+    --fa-bounce-land-scale-x: 1;
+    --fa-bounce-land-scale-y: 1;
+}
+
+a.certificate-proof.icon.fa-bounce.hover:before {
+    content: "\f5bf";
+    --fa-bounce-rebound: 0;
+    --fa-bounce-height: 1;
+}
+
 .fa-border {
     border: 1px solid var(--dinky-gray);
 }
