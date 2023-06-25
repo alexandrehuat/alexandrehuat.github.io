@@ -18,7 +18,7 @@ I also enjoy human interaction, especially through teaching and learning.
 ## Work experience
 
 * From Nov 2021. **R&D Engineer in Data Science.** *[AQUILAB](https://www.aquilab.com/).* Loos, France. *__Topic__—Development of data analytics modules for a web platform managing clinical trials. Back-end and front-end work. Research projects guidance.*
-  * Dec 2022. 🏆 Winner of the **video competition** ['The story behind our personalised medicine research project'](https://erapermed.isciii.es/the-story-behind-our-personalised-medicine-research-project-video-competition/). *[ERA PerMed](https://erapermed.isciii.es/).* Europe. *__Topic__– Presentation of the [RADprecise](https://youtu.be/yR9LXra8Wz8) project.*
+  * Dec 2022. 🏆 Winner of the **video competition** ['The story behind our personalised medicine research project'](https://erapermed.isciii.es/the-story-behind-our-personalised-medicine-research-project-video-competition/) by presenting the [RADprecise](https://youtu.be/yR9LXra8Wz8) project. *[ERA PerMed](https://erapermed.isciii.es/).* Europe.
 * Nov 2018 – Nov 2021 (3 years). **Medical Data Science Ph.D. Student (Cifre).** *[AQUILAB](https://www.aquilab.com/).* Loos, France. *__Topic__—Research of radiomics signatures in head-and-neck and pulmonary cancers treated with radiotherapy based on machine learning approches.*
 * Mar – Aug 2018 (6 months).  **Computer Science Research Intern.** *[National Institute for Research in Digital Science and Technology (INRIA) of Lille](https://www.inria.fr/centre/lille), [Project-team MAchine learninG in information NETworks (MAGNET)](https://team.inria.fr/magnet).* Lille, France. *__Topic__—Improvement of GOPA, a privacy-preserving algorithm for distributed averaging over P2P networks. Robustness was provided against users disconnections and malicious adversaries.*
 * Jan 2017 – Jan 2018 (1 year). **Lead Junior Python Developer in ISO9001:2015 Certified INSA Project,** 🏅 **_[Unicancer Innovation Award 2017: Management and Research Award](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)._** *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr), [Department of Information Systems Architectures (ASI)](http://asi.insa-rouen.fr) and [Henri Becquerel Center](http://www.becquerel.fr).* Saint-Étienne-du-Rouvray, France. *__Topic__—Conception and development of a Python GUI for the segmentation of cancer patients's CT scans. Automation of the process thanks to Keras-implemented deep and fully convolutional networks.*
@@ -69,7 +69,7 @@ style="vertical-align: top">
 
 ## Certifications
 
-* Mar 2023. ⛑️ **[Occupational first-aid worker (SST)](https://www.fdmformation.fr/formation-sst).** *Formation Dupuis Management.*
+* Mar 2023. ⛑️ **Occupational first-aid worker ([SST](https://www.fdmformation.fr/formation-sst)).** *Formation Dupuis Management.*
 * Feb 2023. 🦺 **[Fire Evacuation](https://www.fdmformation.fr/formation-securite-incendie).** *Formation Dupuis Management.*
 * Aug 2020. **[Influencing People](https://coursera.org/verify/22ZUNZ33BPU4).**
   *[University of Michigan](https://umich.edu).*
