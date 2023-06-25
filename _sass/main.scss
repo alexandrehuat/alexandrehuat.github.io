@@ -8,6 +8,18 @@
     --linkedin-blue: #0B66C2;
 }
 
+sub {
+    vertical-align: sub;
+}
+
+sup {
+    vertical-align: super;
+}
+
+sub, sup {
+    font-size: smaller;
+}
+
 section {
     text-align: justify;
 }
@@ -59,7 +71,7 @@ a {
 
 th, td {
     text-align: center;
-    vertical-align: center;
+    vertical-align: middle;
 }
 
 .circle {
