@@ -18,12 +18,12 @@ document.addEventListener("DOMContentLoaded", function () {
     const hours = document.querySelector("input[name=hours]");
     const firstHoursDiscount = document.querySelector("input[name=first-hours-discount]");
 
-    hours.addEventListener("input", function (event) {
+    hours.addEventListener("change", function (event) {
         event.target.value = Math.max(0, parseFloat(event.target.value));
         updatePrices(event.target.value, firstHoursDiscount.checked);
     });
 
-    firstHoursDiscount.addEventListener("input", function (event) {
+    firstHoursDiscount.addEventListener("change", function (event) {
         updatePrices(hours.value, event.target.checked);
     });
 
