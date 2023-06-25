@@ -33,7 +33,7 @@ header .icon::before {
 }
 
 .github.icon::before {
-    font: val(--fa-brands);
+    font: val(--fa-font-brands);
     content: "\f09b";
 }
 
@@ -72,12 +72,13 @@ p.quote {
     font-style: italic;
 }
 
-.certif-proof.icon::before {
+a.certificate-proof.icon::before {
     content: "\f5bf";
 }
 
-.certif-proof.icon:hover:before {
+a.certificate-proof.icon:hover:before {
     content: "\f0a3";
+    text-decoration: none;
 }
 
 .fa-border {
