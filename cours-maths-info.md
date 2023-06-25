@@ -97,6 +97,7 @@ Toute discipline confondue, j'ai compté comme élèves et personnes encadrées�
 
 * Arthur et Hamza, en mathématiques de niveau 3<sup>e</sup> à Terminale ;
 * Oumar, Morgane, Herna et Noémie, stagiaires et alternante encadrés durant mon doctorat et en tant qu'ingénieur ;
+* une classe de CE2–CM2 pour une introduction à la mécanique et la robotique au cours d'un semestre d'[Accompagnement en Sciences et Technologie à l'École Primaire](https://www.enseignementsup-recherche.gouv.fr/fr/bo/2010/24/mene1000474c.htm) ;
 * Raoul, Ilyes, Kardine, Fadel et Hamza, à qui j'ai donné des cours de boxe thaïlandaise.
 
 ## Plus qu'un professeur, un mentor
