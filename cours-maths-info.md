@@ -45,7 +45,8 @@ ou
 
 **Base tarifaire horaire :** 34 €
 
-🈹 _Une [réduction](#premières-heures) de 50 % vous est offerte pour les deux premières heures !_
+<i class="fa-solid fa-tags" style="color: var(--dinky-red);"></i>
+_Une [réduction](#premières-heures) de 50 % vous est offerte pour les deux premières heures !_
 
 | Formule | Description        | Tarif horaire | Prix total                                | Équivalence au rythme d'une heure par semaine |
 |---------|--------------------|---------------|-------------------------------------------|-----------------------------------------------|
@@ -110,12 +111,15 @@ Mon approche prend en compte la dimension psychologique de l'apprentissage tout 
     <i class="fa-solid fa-handshake-angle why-me-icon" style="color: goldenrod;"></i>
 </p>
 
-Quel que soit votre objectif, le mien sera toujours votre 20/20 ! 🥇
+Quel que soit votre objectif, le mien sera toujours votre 20/20 !
+<i class="fa-solid fa-trophy" style="color: goldenrod;"></i>
 Donnez-vous l'occasion de briller, acceptez l'importance du travail et vous verrez que vous êtes capable de bien meilleurs résultats !
 
 # Témoignages
 
-94 % ⭐ C'est la note moyenne que m'a attribué Hamza concernant ma pédagogie, mes qualités humaines et mon aide pour son orientation professionnelle.
+94 %
+<i class="fa-solid fa-star" style="color: goldenrod;"></i>
+C'est la note moyenne que m'a attribué Hamza concernant ma pédagogie, mes qualités humaines et mon aide pour son orientation professionnelle.
 
 {% include quote.html
 content="Alexandre aborde et explique les mathématiques de façon très ouverte et facile à comprendre. Il m'a appris à les voir comme une matière moins difficile et compliquée que je ne le pensais. Grâce à cela, je peux dire que les mathématiques ne sont pas réservées qu'aux plus doués."

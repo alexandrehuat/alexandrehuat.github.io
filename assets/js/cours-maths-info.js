@@ -26,7 +26,6 @@ document.addEventListener("DOMContentLoaded", function () {
     firstHoursDiscount.addEventListener("change", function (event) {
         updatePrices(hours.value, event.target.checked);
     });
-
 })
 
 function updatePrices(hours, firstHoursDiscount) {
