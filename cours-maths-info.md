@@ -21,8 +21,7 @@ et [AQUILAB by Coexya](https://www.aquilab.com).
 Actuellement, je suis en poste à Lille en tant qu'Ingénieur de Recherche et Développement à AQUILAB by Coexya.
 Mon rôle principal est d'y développer des modules d'analyse de données médicales pour une plateforme web de gestion d'essais cliniques de radiothérapie.
 
-Pour plus de détails sur mon parcours et moi-même, consultez mon [CV](index.md). [<i class="fa-solid fa-id-card"></i>](index.md)
-
+Pour plus de détails sur mon parcours et moi-même, consultez mon [CV](index.md). [<i class="fa-solid fa-id-card fa-4x fa-pull-right fa-border"></i>](index.md)
 
 # Prestation
 
@@ -56,9 +55,7 @@ _Une [réduction](#premières-heures) de 50 % vous est offerte les deux premiè
 | S52     | Série de 52 heures | 24 €          | 1 248 €                                   | L'année complète                              |
 
 Vous pouvez régler les formules [progressivement](#option-fidélité) selon un principe de fidélité ou bien [par lot](#option-tout-en-un).
-
-[<i class="fa-solid fa-calculator"></i>](#calculatrice)
-Utilisez la [calculatrice](#calculatrice) pour vos simulations.
+Utilisez la [calculatrice](#calculatrice) en annexes pour vos simulations.
 
 # Pourquoi moi ?
 
