@@ -8,6 +8,10 @@
     --linkedin-blue: #0B66C2;
 }
 
+body {
+    text-align: justify;
+}
+
 .page-date {
     color: var(--dinky-gray);
     font-size: small;
@@ -33,7 +37,7 @@ header .icon::before {
 }
 
 .github.icon::before {
-    font: val(--fa-font-brands);
+    font: var(--fa-font-brands);
     content: "\f09b";
 }
 
