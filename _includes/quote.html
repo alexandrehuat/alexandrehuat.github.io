@@ -1,13 +1,9 @@
-<ul class="quote">
-    <li>
-        <i class="fa-solid fa-quote-left icon"></i>
-        <span class="content">{{ include.content }}</span>
-        <i class="fa-solid fa-quote-right icon"></i>
-    </li>
-    <li>
-        {{ include.author }}{% if include.date %} ({{ include.date }}){% endif %}
-        {% if include.link %}
-        <a href="{{ include.link }}"><i class="fa-solid fa-stamp"></i></a>
-        {% endif %}
-    </li>
-</ul>
+<p class="quote">
+    <i class="fa-solid fa-quote-left icon"></i>
+    <span class="content">{{ include.content }}</span>
+    <i class="fa-solid fa-quote-right icon"></i>
+    {{ include.author }}{% if include.date %} ({{ include.date }}){% endif %}
+    {% if include.link %}
+    <a href="{{ include.link }}"><i class="fa-solid fa-signature"></i></a>
+    {% endif %}
+</p>

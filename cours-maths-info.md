@@ -21,7 +21,7 @@ et [AQUILAB by Coexya](https://www.aquilab.com).
 Actuellement, je suis en poste à Lille en tant qu'Ingénieur de Recherche et Développement à AQUILAB by Coexya.
 Mon rôle principal est d'y développer des modules d'analyse de données médicales pour une plateforme web de gestion d'essais cliniques de radiothérapie.
 
-Pour plus de détails sur mon parcours et moi-même, consultez mon [<i class="fa-solid fa-id-card"></i> CV](index.md).
+Pour plus de détails sur mon parcours et moi-même, consultez mon [CV](index.md). [<i class="fa-solid fa-id-card"></i>](index.md)
 
 
 # Prestation
@@ -47,7 +47,7 @@ ou
 **Base tarifaire horaire :** 34 €
 
 <i class="fa-solid fa-tags" style="color: var(--dinky-red);"></i>
-_Une [réduction](#premières-heures) de 50 % vous est offerte pour les deux premières heures !_
+_Une [réduction](#premières-heures) de 50 % vous est offerte sur les deux premières heures !_
 
 | Formule | Description        | Tarif horaire | Prix total                                | Équivalence au rythme d'une heure par semaine |
 |---------|--------------------|---------------|-------------------------------------------|-----------------------------------------------|
@@ -56,7 +56,10 @@ _Une [réduction](#premières-heures) de 50 % vous est offerte pour les deux pr
 | S46     | Série de 46 heures | 26 €          | 1 196 €                                   | L'année scolaire moins les vacances d'été     |
 | S52     | Série de 52 heures | 24 €          | 1 248 €                                   | L'année complète                              |
 
-Vous pouvez régler les formules [progressivement](#option-fidélité) selon un principe de fidélité ou bien [par lot](#option-tout-en-un). Utilisez la <a href="#calculatrice"><i class="fa-solid fa-calculator"></i> calculatrice</a> pour vos simulations.
+Vous pouvez régler les formules [progressivement](#option-fidélité) selon un principe de fidélité ou bien [par lot](#option-tout-en-un).
+
+[<i class="fa-solid fa-calculator"></i>](#calculatrice)
+Utilisez la [calculatrice](#calculatrice) pour vos simulations.
 
 # Pourquoi moi ?
 

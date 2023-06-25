@@ -8,8 +8,7 @@ function createHeaderNavList() {
         const faIcon = document.createElement("i");
 
         a.href = "#" + header.id;
-        ["fa-solid", "fa-caret-right", "icon"]
-        faIcon.classList.add(icon);
+        faIcon.classList.add("icon");
         const text = document.createTextNode(header.textContent);
 
         const [inner, outer] = [li, a];

@@ -15,29 +15,30 @@ const EUR_FMTER = new Intl.NumberFormat(document.querySelector("html").lang, {
 document.addEventListener("DOMContentLoaded", function () {
     updatePrices(null);
 
-    const hours = document.querySelector("input[name=hours]");
-    const firstHoursDiscount = document.querySelector("input[name=first-hours-discount]");
+    const hoursInput = document.querySelector("input[name=hours]");
+    const firstHoursDiscountInput = document.querySelector("input[name=first-hours-discount]");
 
-    hours.addEventListener("change", function (event) {
+    hoursInput.addEventListener("change", function (event) {
         event.target.value = Math.max(0, parseFloat(event.target.value));
-        updatePrices(event.target.value, firstHoursDiscount.checked);
+        updatePrices(event.target.value, firstHoursDiscountInput.checked);
     });
 
-    firstHoursDiscount.addEventListener("change", function (event) {
-        updatePrices(hours.value, event.target.checked);
+    firstHoursDiscountInput.addEventListener("change", function (event) {
+        updatePrices(hoursInput.value, event.target.checked);
     });
 })
 
 function updatePrices(hours, firstHoursDiscount) {
-    const totalPrice = document.querySelector("output[name=total-price]");
-    const hourlyPrice = document.querySelector("output[name=hourly-price]");
+    const totalPriceOutput = document.querySelector("output[name=total-price]");
+    const hourlyPriceOutput = document.querySelector("output[name=hourly-price]");
 
-    tp = computeTotalPrice(hours, firstHoursDiscount);
-    if (tp === null)
-        totalPrice.value = hourlyPrice.value = "N/A";
+    totalPrice = computeTotalPrice(hours, firstHoursDiscount);
+    if (totalPrice === null)
+        totalPriceOutput.value = hourlyPriceOutput.value = "N/A";
     else {
-        totalPrice.value = EUR_FMTER.format(tp);
-        hourlyPrice.value = EUR_FMTER.format(tp / hours);
+        totalPriceOutput.value = EUR_FMTER.format(totalPrice);
+        const hourlyPrice = hours > 0 ? totalPrice / hours : 0;
+        hourlyPriceOutput.value = EUR_FMTER.format(hourlyPrice);
     }
 }
 
