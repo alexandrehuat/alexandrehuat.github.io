@@ -1,6 +1,6 @@
 ---
 title: Cours Maths Info
-longtitle: Cours particuliers de mathématiques et d'informatique
+longtitle: Cours de mathématiques et d'informatique
 date: 2023-06-24
 layout: page
 lang: fr-FR
@@ -25,9 +25,9 @@ Pour plus de détails sur mon parcours et moi-même, consultez mon [CV](index.md
 
 # Prestation
 
-Je propose des cours particuliers de mathématiques et d'informatique selon les modalités et les tarifs décrits ci-après.
+Je propose des cours de mathématiques et d'informatique selon les modalités et les tarifs décrits ci-après.
 Pour demander cours ou obtenir davantage de détails, veuillez me contacter par
-<a href="mailto:alexandre.huat@gmail.com?subject=Cours particuliers - Prénom NOM - Matières&body=<Modifiez l'objet du mail en précisant le nom de l'élève potentiel et les matières qui vous intéressent.>%0A%0A<Si possible, renseignez vos disponibilités, les lieux de cours souhaités, la fréquence et la quantité d'heures envisagées.>%0A%0A<Renseignez votre numéro de téléphone pour être recontactés plus rapidement.>">e-mail</a>
+<a href="mailto:alexandre.huat@gmail.com?subject=Cours Matières - Prénom NOM&body=<Modifiez l'objet du mail en précisant le nom de l'élève potentiel et les matières qui vous intéressent.>%0A%0A<Si possible, renseignez vos disponibilités, les lieux de cours souhaités, la fréquence et la quantité d'heures envisagées.>%0A%0A<Renseignez votre numéro de téléphone pour être recontactés plus rapidement.>">e-mail</a>
 ou
 [téléphone](tel:+33749365848).
 
