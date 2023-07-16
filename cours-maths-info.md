@@ -1,6 +1,6 @@
 ---
-title: Cours Maths Info
-longtitle: Cours de mathématiques et d'informatique
+title: Cours de maths & d'info
+fulltitle: Cours de mathématiques et d'informatique
 date: 2023-06-24
 layout: page
 lang: fr-FR
@@ -25,9 +25,9 @@ Pour plus de détails sur mon parcours et moi-même, consultez mon [CV](index.md
 
 # Prestation
 
-Je propose des cours de mathématiques et d'informatique selon les modalités et les tarifs décrits ci-après.
+Je propose des cours particuliers de mathématiques et d'informatique selon les modalités et les tarifs décrits ci-après.
 Pour demander cours ou obtenir davantage de détails, veuillez me contacter par
-<a href="mailto:alexandre.huat@gmail.com?subject=Cours Matières - Prénom NOM&body=<Modifiez l'objet du mail en précisant le nom de l'élève potentiel et les matières qui vous intéressent.>%0A%0A<Si possible, renseignez vos disponibilités, les lieux de cours souhaités, la fréquence et la quantité d'heures envisagées.>%0A%0A<Renseignez votre numéro de téléphone pour être recontactés plus rapidement.>">e-mail</a>
+<a href="mailto:alexandre.huat@gmail.com?subject=Cours particuliers - Prénom NOM - Matières&body=<Modifiez l'objet du mail en précisant le nom de l'élève potentiel et les matières qui vous intéressent.>%0A%0A<Si possible, renseignez vos disponibilités, les lieux de cours souhaités, la fréquence et la quantité d'heures envisagées.>%0A%0A<Renseignez votre numéro de téléphone pour être recontactés plus rapidement.>">e-mail</a>
 ou
 [téléphone](tel:+33749365848).
 
@@ -54,12 +54,38 @@ _Une [réduction](#premières-heures) de 50 % vous est offerte les deux premiè
 | S46     | Série de 46 heures | 26 €          | 1 196 €                                   | L'année scolaire moins les vacances d'été     |
 | S52     | Série de 52 heures | 24 €          | 1 248 €                                   | L'année complète                              |
 
-Vous pouvez régler les formules [progressivement](#option-fidélité) selon un principe de fidélité ou bien [par lot](#option-tout-en-un).
-Utilisez la [calculatrice](#calculatrice) en annexes pour vos simulations.
+Vous pouvez régler les formules [progressivement](#option-fidélité) selon un principe de fidélité ou alors [par lot](#option-tout-en-un) (conditions et calculatrice en [annexes](#règlement-des-formules)).
+
+## Tarifs de groupe
+
+Je peux donner cours aux petits groupes d'élèves de même niveau et vous offre alors une réduction (cumulable avec les formules).
+
+<table class="group-discount">
+    <thead>
+        <tr>
+            <th>Taille du groupe</th>
+            <th>Taux de réduction</th>
+            <th>Base tarifaire horaire après réduction</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+## Déroulement d'un cours type
+
+Chaque cours est différent et des sujets annexes peuvent nécessiter d'être abordés (orientation professionnelle, gestion du stress, etc.), mais j'applique le schéma général suivant.
+
+**Mathématiques.** Supposant un cadre scolaire :
+1. Nous commençons le cours en relisant vos derniers examens ou exercices afin d'identifier et corriger vos difficultés.
+2. Nous clarifions ensuite les points bloquants du dernier cours scolaire afin de ne pas accumuler de retard de compréhension.
+3. Enfin, nous réalisons des exercices pour consolider l'apprentissage : ceux donnés à l'école, d'autres du manuel scolaire, des annales de bac, etc. Les exercices sont extrêmement importants, c'est grâce à eux que vous progressez !
+
+**Informatique.** L'informatique s'apprend particulièrement bien par projet. Nous pouvons donc avancer pas à pas sur un projet de votre choix. Mais vous pouvez aussi parfois préférer une approche plus abstraite où nous étudions différentes thématiques et technologies l'une après l'autre. Vous aurez alors l'avantage de développer rapidement votre culture informatique. 
 
 # Pourquoi moi ?
 
-Pourquoi me choisir plutôt qu'un autre professeur en trois mots : [concret](#un-apprentissage-concret-et-imagé-grâce-à-ma-pratique-professionnelle), [pédagogue](#naturellement-pédagogue), [mentor](#plus-quun-professeur-un-mentor).
+Pourquoi me choisir plutôt qu'un autre professeur ? En trois mots : [pragmatique](#un-apprentissage-concret-et-imagé-grâce-à-ma-pratique-professionnelle), [pédagogue](#naturellement-pédagogue), [mentor](#plus-quun-professeur-un-mentor).
 
 [//]: # (TODO: Et, en un témoignage : témoignage d'Hamza)
 
@@ -80,9 +106,9 @@ Usant de mathématiques et d'informatique, ce sujet très concret nous a aussi b
 
 ## Naturellement pédagogue
 
-Petit, finissant souvent mes exercices en avance, mon maître d'école me faisait sillonner la classe pour aider les autres élèves.
+En primaire, finissant souvent mes exercices en avance, mon maître d'école me faisait sillonner la classe pour aider les autres élèves.
 Ce bon souvenir d'aider et d'aimer aider m'anime encore aujourd'hui.
-Expliquer, transmettre la connaissance et le pouvoir qu'elle offre est dans ma nature.
+Expliquer, transmettre la connaissance et le pouvoir qu'elle offre est devenu une seconde nature.
 De plus, j'apprécie autant les retours négatifs que positifs, ce qui me permet de m'améliorer continuellement.
 
 <p style="text-align: center;">
@@ -101,7 +127,7 @@ Toute discipline confondue, j'ai compté comme élèves et personnes encadrées�
 
 Vous n'avez pas confiance en vous ?
 Vous connaissez votre cours à la maison mais l'oubliez lors de l'examen ?
-Vous bloquez lorsqu'il faut se mettre au travail : _« pas envie »_, _« la flemme »_, _« ça ne sert à rien »_, _« de toute façon je ne vais pas y arriver »_, etc. ?
+Vous bloquez lorsqu'il faut se mettre au travail : _« pas envie »_, _« la flemme »_, _« ça ne sert à rien »_, _« de toute façon je ne vais pas y arriver »_ ?
 Vous êtes en excès de confiance, du moins on vous le dit, mais vous pensez que _« ça va le faire »_ ?
 Tout cela vous empêche de briller !
 
@@ -114,7 +140,7 @@ Mon approche prend en compte la dimension psychologique de l'apprentissage tout 
 
 Quel que soit votre objectif, le mien sera toujours votre 20/20 !
 <i class="fa-solid fa-trophy" style="color: goldenrod;"></i>
-Donnez-vous l'occasion de briller, acceptez l'importance du travail et vous verrez que vous êtes capable de bien meilleurs résultats !
+Donnez-vous l'occasion de briller, ayez conscience de l'importance du travail et vous vous surprendrez par vos résultats !
 
 # Témoignages
 
@@ -126,6 +152,14 @@ C'est la note moyenne que m'a attribué Hamza concernant ma pédagogie, mes qual
 content="Alexandre aborde et explique les mathématiques de façon très ouverte et facile à comprendre. Il m'a appris à les voir comme une matière moins difficile et compliquée que je ne le pensais. Grâce à cela, je peux dire que les mathématiques ne sont pas réservées qu'aux plus doués."
 author="Hamza, Terminale Spé Maths"
 date="2023" link="assets/pdf/MentoratESASatisfactionHamza.pdf" %}
+
+Secouriste en mathématiques, c'est une de mes casquettes auprès d'un collègue développant une application web de visualisation d'imagerie médicale.
+
+{% include quote.html content="À ceux qui se demandent qui va vraiment utiliser la trigonométrie ou l'étude des fonctions après ses études, la réponse est : Alexandre évidemment. Régulièrement sollicité pour apporter des solutions concrètes à des problèmes mathématiques de tous les niveaux, il fait toujours preuve de passion pour les maths et de patience envers ses collègues." author="Guénaël Dequeker, Ingénieur en Informatique" date="2023" link="https://www.linkedin.com/in/gu%25C3%25A9na%25C3%25ABl-dequeker-1956a5100" %}
+
+Mon frère, que j'ai aidé à reprendre en mains ses études et à qui j'ai donné auparavant des cours de soutien en mathématiques.
+
+{% include quote.html content="Alexandre sait écouter, comprendre et s'adapter aux problématiques de son interlocuteur. Son expérience du monde et dans la psychologie lui permet d'être compétent dans un grand nombre de situations. Il m'a aidé à opérer à des changements majeurs dans ma vie, que je n'aurai probablement pas réussi seul." author="Arthur Huat, Étudiant à NEOMA Business School" date="2022" link="https://fr.linkedin.com/in/arthur-huat-196991174" %}
 
 # Annexes
 
@@ -157,12 +191,18 @@ Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heur
     <h4 id="calculatrice">Calculatrice</h4>
     <ul>
         <li>
-            <input class="calc" name="first-hours-discount" type=checkbox checked>
+            <input class="calc" name="first-hours-discount" type="checkbox" checked>
+            <label for="first-hours-discount">
             <a href="#premières-heures">Réduction</a> les premières heures
+            </label>
         </li>
         <li>
-            Nombre d'heures :
-            <input name="hours" type=number min=0> 
+            <label for="hours">Nombre d'heures :</label>
+            <input name="hours" type="number" min="0"> 
+        </li>
+        <li>
+            <label for="group-size">Nombre d'élèves (optionnel) :</label>
+            <input name="group-size" type="number" min="1">
         </li>
         <li>
             Prix total :

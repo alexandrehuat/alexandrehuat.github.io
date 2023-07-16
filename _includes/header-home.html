@@ -1,0 +1,23 @@
+<h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
+<p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+
+<ul>
+    <a href="{{ site.github.repository_url }}">
+        <li class="github icon">View on GitHub</li>
+    </a>
+    <a href="{{ site.github.owner_url }}">
+        <li class="github-alt icon">GitHub Profile</li>
+    </a>
+</ul>
+
+<!--
+<nav>
+    <ul class="page-nav">
+        {% for item in site.data.page-nav %}
+        <a href="{{ site.baseurl }}{{ item.url }}">
+            <li>{{ item.title }}</li>
+        </a>
+        {% endfor %}
+    </ul>
+</nav>
+-->

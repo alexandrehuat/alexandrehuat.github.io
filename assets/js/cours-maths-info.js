@@ -1,4 +1,5 @@
-const BASE_RATE = 34;
+const DOC_LANG = document.querySelector("html").lang;
+const BASE_HOURLY_RATE = 34;
 const PLANS = [ // must be in decreasing order of hours
     {hours: 52, rate: 24},
     {hours: 46, rate: 26},
@@ -6,61 +7,118 @@ const PLANS = [ // must be in decreasing order of hours
     {hours: 8, rate: 30},
 ];
 const N_FHD = 2; // number of first hours with discount
-const EUR_FMTER = new Intl.NumberFormat(document.querySelector("html").lang, {
+const MAX_GROUP_SIZE = 4;
+const EUR_FMTER = new Intl.NumberFormat(DOC_LANG, {
     style: "currency",
     currency: "EUR",
     trailingZeroDisplay: "stripIfInteger",
 });
 
-document.addEventListener("DOMContentLoaded", function () {
-    updatePrices(null);
+document.addEventListener("DOMContentLoaded", () => {
+    fillGroupDiscountTable();
+    updatePrices(null, null, null);
 
-    const hoursInput = document.querySelector("input[name=hours]");
-    const firstHoursDiscountInput = document.querySelector("input[name=first-hours-discount]");
+    let hoursInput = document.querySelector("input[name=hours]");
+    let firstHoursDiscountInput = document.querySelector("input[name=first-hours-discount]");
+    let groupSizeInput = document.querySelector("input[name=group-size]");
+    groupSizeInput.max = MAX_GROUP_SIZE
 
-    hoursInput.addEventListener("input", function (event) {
-        event.target.value = Math.max(0, parseInt(event.target.value));
-        updatePrices(event.target.value, firstHoursDiscountInput.checked);
-    });
-
-    firstHoursDiscountInput.addEventListener("change", function (event) {
-        updatePrices(hoursInput.value, event.target.checked);
-    });
+    for (let [input, min, max] of [[hoursInput, 0, Infinity], [groupSizeInput, 1, MAX_GROUP_SIZE]]) {
+        input.addEventListener("input", event => clipEventTargetValue(event, min, max));
+    }
+    for (let input of [hoursInput, firstHoursDiscountInput, groupSizeInput]) {
+        input.addEventListener("input", event => {
+            updatePrices(hoursInput.value, firstHoursDiscount.checked, groupSize.value);
+        });
+    }
 })
 
-function updatePrices(hours, firstHoursDiscount) {
-    const totalPriceOutput = document.querySelector("output[name=total-price]");
-    const hourlyPriceOutput = document.querySelector("output[name=hourly-price]");
+function updatePrices(hours, firstHoursDiscount, groupSize) {
+    let totalPriceOutput = document.querySelector("output[name=total-price]");
+    let hourlyPriceOutput = document.querySelector("output[name=hourly-price]");
 
-    totalPrice = computeTotalPrice(hours, firstHoursDiscount);
+    totalPrice = computeTotalPrice(hours, firstHoursDiscount, groupSize);
     if (totalPrice === null)
         totalPriceOutput.value = hourlyPriceOutput.value = "N/A";
     else {
         totalPriceOutput.value = EUR_FMTER.format(totalPrice);
-        const hourlyPrice = hours > 0 ? totalPrice / hours : 0;
+        let hourlyPrice = hours > 0 ? totalPrice / hours : 0;
         hourlyPriceOutput.value = EUR_FMTER.format(hourlyPrice);
     }
 }
 
-function computeTotalPrice(hours, firstHoursDiscount = true) {
-    if (Number.isNaN(hours))
-        return null;
-
-    if (hours < 0)
-        return 0;
+/**
+* @param {number} hours - Le nombre d'heures de cours. Un réel positif.
+*/
+function computeTotalPrice(hours, firstHoursDiscount = true, groupSize = 1) {
+    if (groupSize > 1):
+        return groupDiscount(groupSize) * computeTotalPrice(hours, firstHoursDiscount, 1)
 
     if (firstHoursDiscount) {
-        const firstHoursPrice = Math.min(N_FHD, hours) * BASE_RATE * (N_FHD - 1) / N_FHD;
-        return firstHoursPrice + computeTotalPrice(hours - 2, false);
+        let firstHoursPrice = Math.min(N_FHD, hours) * BASE_HOURLY_RATE * (N_FHD - 1) / N_FHD;
+        return firstHoursPrice + computeTotalPrice(hours - 2, false, groupSize);
     }
 
-    for (const plan of PLANS)
+    for (let plan of PLANS)
         if (hours >= plan.hours) {
-            const nPlans = Math.floor(hours / plan.hours);
-            const remainingHours = hours % plan.hours;
-            const plansPrice = nPlans * plan.hours * plan.rate;
-            return plansPrice + computeTotalPrice(remainingHours, false);
+            let nPlans = Math.floor(hours / plan.hours);
+            let remainingHours = hours % plan.hours;
+            let plansPrice = nPlans * plan.hours * plan.rate;
+            return plansPrice + computeTotalPrice(remainingHours, false, groupSize);
         }
 
-    return hours * BASE_RATE;
+    return hours * BASE_HOURLY_RATE;
+}
+
+/**
+* Calcule le taux de réduction dont bénéficie chaque élève dans un cours de groupe.
+* Le taux correspond à la proportion de liens entre un élève et moi parmi le nombre total de liens possibles
+* dans un graphe complet symbolisant les élèves et moi.
+* Autrement dit, en quelques sortes, il s'agit à mon influence sur le groupe.
+* L'idée est que les liens entre les élèves perturbe la prestation.
+* Je ne peux alors être rémunéré à 100% pour chaque élève.
+*
+* @param {number} size - La taille du groupe. Un entier supérieur à 1.
+* @returns {number} Le taux à multiplier par le tarif initial
+*/
+function groupDiscount(size) {
+    /* Simplification de :
+        n / (n + (n-1) + (n-2) + ...)
+      = n / ((n + 1) n / 2)
+      = 2 / (n + 1) */
+    return 2 / (size + 1)
+}
+
+/**
+* Suppose les colonnes : taille du groupe, taux de réduction, base tarifaire après réduction.
+*/
+function fillGroupDiscountTable() {
+    let tbody = document.querySelector("table.group-discount > tbody");
+    let perc_fmter = new Intl.NumberFormat(DOC_LANG, {style: "percent"});
+
+    for (let size = 2; size <= MAX_GROUP_SIZE; i++) {
+        let discount = groupDiscount(size);
+        let texts = [
+            size,
+            perc_fmter.format(1 - discount),
+            EUR_FMTER.format(discount * BASE_HOURLY_RATE),
+        ];
+
+        let tr = document.createElement("tr");
+        texts.forEach(text => tr.appendChild(createElementWithText("td", text)));
+        tbody.appendChild(tr);
+    }
+}
+
+function createElementWithText(tagName, text) {
+    let element = document.createElement(tagName);
+    let textNode = document.createTextNode(text);
+    element.appendChild(textNode);
+    return element;
+}
+
+function clipEventTargetValue(event, min = -Infinity, max = Infinity) {
+    let target = event.target;
+    let value = parseInt(target.value);
+    target.value = Math.min(max, Math.max(min, value));
 }

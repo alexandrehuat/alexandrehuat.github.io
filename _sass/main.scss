@@ -33,10 +33,6 @@ footer {
     font-size: small;
 }
 
-header a:hover {
-    text-decoration: none;
-}
-
 .fa-flip {
     --fa-animation-duration: 2s;
 }
@@ -49,6 +45,10 @@ header a:hover {
 }
 
 .icon:hover:before {
+    text-decoration: none;
+}
+
+header a:hover {
     text-decoration: none;
 }
 
@@ -65,8 +65,18 @@ header .icon::before {
     content: "\f09b";
 }
 
-header nav .icon::before {
-    content: "\f0da";
+.github-alt.icon::before {
+    font: var(--fa-font-brands);
+    content: "\f113";
+}
+
+.page-nav li::before {
+    font: var(--fa-font-regular);
+    content: "\f1ea"; // newspaper
+}
+
+.h1-nav li::before {
+    content: "\f0da"; // caret-right
 }
 
 a {
