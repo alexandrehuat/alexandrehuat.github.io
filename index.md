@@ -6,10 +6,10 @@ layout: default
 <button onclick="window.location.href='https://alexandrehuat-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp';">Traduire avec Google 🇫🇷</button>
 <small>*Certains mots et icônes peuvent être altérés.*</small>
 
-<img src="https://www.pokepedia.fr/images/4/47/Pyrax-NB.png" alt="Sun Moth" width="240">
+<img src="https://www.pokepedia.fr/images/4/47/Pyrax-NB.png" alt="Sun Moth" width="144" style="float: right; margin-left: 2em;">
 
 I am a French computer science engineer working in medical data science in [Lille](https://goo.gl/maps/Hhj2u9o7F45jnyJi8).
-My favorite languages are mathematics and Python but I can get by with other languages.
+My favorite languages are mathematics and [Python](https://www.python.org/) but I can get by with other languages.
 I also enjoy human interaction, especially through teaching and learning.
 
 # Curriculum Vitae
