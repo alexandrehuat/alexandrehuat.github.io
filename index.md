@@ -34,17 +34,8 @@ I also enjoy human interaction, especially through teaching and learning.
 
 ## Skills
 
-### Technical
-
-* Statistics & Machine Learning
-* Medical Imaging
-* Software Development
-
-### Personal
-
-* Sharp-minded
-* Leader
-* Empathic
+* **Technical:** statistics and machine learning, medical imaging, software engineering.
+* **Personal:** sharp-minded, leader, empathic.
 
 ## Publications
 
