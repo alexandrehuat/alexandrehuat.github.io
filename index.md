@@ -4,17 +4,17 @@ layout: default
 ---
 
 <button onclick="window.location.href='https://alexandrehuat-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp';">Traduire avec Google 🇫🇷</button>
-<small>*Certaines phrases et icônes peuvent être légèrement altérées.*</small>
+<small>*Certains mots et icônes peuvent être altérés.*</small>
 
-<img src="http://gravatar.com/avatar/f6fa57646c85a6e933afac27d012ffb5?s=144&d=404" alt="Gravatar" class="circle">
+<img src="https://www.pokepedia.fr/images/4/47/Pyrax-NB.png" alt="Sun Moth" width="240">
 
 I am a French computer science engineer working in medical data science in [Lille](https://goo.gl/maps/Hhj2u9o7F45jnyJi8).
-My favorite languages are mathematics and Python but I can get by with other languages such as PHP, JavaScript, Twig, Java and SQL.
+My favorite languages are mathematics and Python but I can get by with other languages.
 I also enjoy human interaction, especially through teaching and learning.
 
-# Curriculum vitae
+# Curriculum Vitae
 
-## Work experience
+## Work Experience
 
 * From Nov 2021. **R&D Engineer in Data Science.** *[AQUILAB](https://www.aquilab.com/).* Loos, France. *__Topic__—Development of data analytics modules for a web platform managing clinical trials. Back-end and front-end work. Research projects guidance.*
 * Nov 2018 – Nov 2021 (3 years). **Medical Data Science Ph.D. Student ([Cifre](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844)).** *[AQUILAB](https://www.aquilab.com/).* Loos, France. *__Topic__—Research of radiomics signatures in head-and-neck and pulmonary cancers treated with radiotherapy based on machine learning approches.*
@@ -23,7 +23,7 @@ I also enjoy human interaction, especially through teaching and learning.
 * Jun – Aug 2017 (3 months). **Data Scientist Intern.** *[Vekia](http://www.vekia.fr).* Lille, France. *__Topic__—Development of a Python module for detecting suspicious stocks—phantom inventories—with machine learning techniques.*
 * Jul 2013 (4 weeks). **Production Workman Intern.** *[Ressorts Masselin](http://www.masselin.com).* Le Petit-Quevilly, France. _**Topic**—Manufacturing of cold springs (rolling, grinding, shot peening), quality controlling and packaging._
 
-## Diplomas and formation
+## Diplomas and Formation
 
 * _I aborted my Ph.D. studies due to health issues at the end of my 3rd year._
 * Nov 2018 – Nov 2021. **Medical Data Science Ph.D. Student ([Cifre](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844)).** *[University of Rouen, Laboratory of Computer Science, Information Processing and Systems (LITIS), Team Quantification in Functional Imaging (QuantIF)](http://www.litislab.fr/equipe/quantif) and [Henri Becquerel Center](https://www.becquerel.fr/la-recherche/recherche-fondamentale).* Rouen, France. *See 'Work experience'.*
@@ -31,6 +31,20 @@ I also enjoy human interaction, especially through teaching and learning.
 * Sep 2014 – Sep 2018 (4 years). **Engineer's degree in Computer Science,** Specialization in Data Engineering. *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr), [Department of Information Systems Architectures (ASI)](http://asi.insa-rouen.fr).* Saint-Étienne-du-Rouvray, France.
 * Sep 2012 – Jun. 2014 (2 years). **Higher Schools Preparatory Classes,** Specialization in Computer Science and Mathematics. *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr), Department of Sciences and Skills for Engineering.* Saint-Étienne-du-Rouvray, France.
 * Jul 2012. **French Baccalaureate of Sciences,** **_Magna Cum Laude,_** Specialization in Earth and Life Sciences. *French School Abroad Montaigne.* Cotonou, Benin.
+
+## Skills
+
+### Technical
+
+* Statistics & Machine Learning
+* Medical Imaging
+* Software Development
+
+### Personal
+
+* Sharp-minded
+* Leader
+* Empathic
 
 ## Publications
 
@@ -51,49 +65,55 @@ style="vertical-align: top">
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Falexandrehuat%2Falexandrehuat.github.io%2Fmaster%2Fmy_publications.bib&jsonp=1&folding=1&commas=1"></script>
 </div>
 
-## Other experiences
-
-* Oct 2022 – Juin 2023. 🤝 **Volunteer School Mentoring.** *[Entraide Scolaire Amicale (ESA)](https://www.entraidescolaireamicale.org/)*. Lille, France. *__Topic__—Mentoring and support classes in mathematics to a last year high school student.*
-* Feb – May 2017. 📉 **[Speed Data Scientist 2017: Failures Detection Challenge](http://speed-data-scientist.bemyapp.com), 🏅 4<sup>th</sup> Place and Best Presentation Award.** *[Société Générale](https://www.societegenerale.fr).* Paris, France.
-* Jan – Jun 2016. 👨🏻‍🏫 **[Scientific and technological support in primary school: An introduction to robotic programming for children](https://github.com/alexandrehuat/alexandrehuat.github.io/blob/master/assets/pdf/ASTEP2016_AlexandreHuat_Rapport.pdf).** *Primary School Gérard Philipe and [National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr).* Amfreville-la-Mi-Voie, France.
-
 ## Languages
 
-* 🇫🇷 <strong>French.</strong> Native.
-* 🇬🇧 <strong>English.</strong> B2–C1.
-* 🇪🇸 <strong>Spanish.</strong> Notions.
-* 🇩🇪 <strong>German.</strong> Notions.
-* 🇲🇦 <strong>Arabic.</strong> Notions.
+### Natural
+
+* 🇫🇷 **French.** Native.
+* 🇬🇧 **English.** C1.
+* 🇪🇸 **Spanish, 🇩🇪 German, 🇲🇦 Arabic (Darija).** Notions.
+
+### Programming
+
+* **Python.** Advanced.
+* **HTML/CSS, JavaScript, PHP, Shell.** Intermediate.
+* **SQL, Java, C, Pascal.** Fundamental.
 
 ## Certifications
 
-* Mar 2023. ⛑️ **Occupational first-aid worker ([SST](https://www.fdmformation.fr/formation-sst)).** *Formation Dupuis Management.*
+* Mar 2023. ⛑️ **Occupational First-Aid Worker ([Sauveteur Secouriste du Travail (SST)](https://www.fdmformation.fr/formation-sst)).** *Formation Dupuis Management.*
 * Feb 2023. 🦺 **[Fire Evacuation](https://www.fdmformation.fr/formation-securite-incendie).** *Formation Dupuis Management.*
-* Aug 2020. **[Influencing People](https://coursera.org/verify/22ZUNZ33BPU4).**
-  *[University of Michigan](https://umich.edu).*
 * Jun 2015. 🚗 **Driving Licence**, Category B. *France.*
 * May 2017. 🇬🇧 **[TOEIC® Listening and Reading](https://www.etsglobal.org/fr/en/test-type-family/toeic-listening-and-reading-test)**, Score 905. *ETS Global.*
 
+## Other Experiences
+
+* From Oct 2023. 👨🏻‍🏫 **Private Tutor in Mathematics & Statistics**. Lille, France.
+* From Apr 2023. 🥊 **Muay Thai Instructor for Beginners**. *[Faubourg de Béthune Judo Club Lillois](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
+* Oct 2022 – Jun 2023. 🤝 **Volunteer School Mentoring.** *[Entraide Scolaire Amicale (ESA)](https://www.entraidescolaireamicale.org/)*. Lille, France. *__Topic__—Mentoring and support classes in mathematics to a last year high school student.*
+* Feb – May 2017. 📉 **[Speed Data Scientist 2017: Failures Detection Challenge](http://speed-data-scientist.bemyapp.com), 🏅 4<sup>th</sup> Place and Best Presentation Award.** *[Société Générale](https://www.societegenerale.fr).* Paris, France.
+* Jan – Jun 2016. 👨🏻‍🏫 **[Scientific and technological support in primary school: An introduction to robotic programming for children](https://github.com/alexandrehuat/alexandrehuat.github.io/blob/master/assets/pdf/ASTEP2016_AlexandreHuat_Rapport.pdf).** *Primary School Gérard Philipe and [National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr).* Amfreville-la-Mi-Voie, France.
+
 ## Hobbies
 
-### Martial arts
+### Martial Arts
 
-* From Sep 2012. 🥊 **Muay thai.** *Kru Rufin Didier and [Team Naja](https://team-naja.fr).* Also, volunteer coaching for beginners.
-* From Oct 2022. 🥋 **Judo-jujūtsu,** 5<sup>th</sup> kyu (yellow belt). *[Faubourg de Béthune Judo Club Lillois](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).*
+* From Sep 2012. 🥊 **Muay Thai.** *Rufin Didier and [Team Naja](https://team-naja.fr).*
+* From Oct 2022. 🥋 **Judo-Jujūtsu,** 🟡 yellow belt. *[Faubourg de Béthune Judo Club Lillois](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).*
 
 ### Sports
 
 * From Mar 2020. 🤸 **Handstand walk.**
-* From 2010. 💪 **Strength training.** Pull-ups, push-ups, jumps, etc.
-* From 2010. 🏃‍♂️ **Running.** Speed training.
-* 2010—2012. 🤾‍♂️ **Handball.** High school contests.
-* 2002—2008. 🎾 **Tennis.** Competitive practice.
+* From 2010. 💪 **Strength Training.** Pull-ups, push-ups, jumps, etc.
+* 2010–2022. 🏃‍♂️ **Running.**
+* 2010–2012. 🤾‍♂️ **Handball.** High school contests.
+* 2002–2008. 🎾 **Tennis.** Competitive practice.
 
 ### Music
 
-* 2002—2019. 🎸 **Guitar.** Classic, electric, folk.
+* 2002–2019. 🎸 **Guitar.** Classic, electric, folk.
 
-# Public projects
+# Public Projects
 
 * Mar 2020. **[Breaking down misconceptions on screening tests in the era of COVID-19](https://gist.github.com/alexandrehuat/f0c7854e911847ef74e79b60cbd9747c).** A Python Jupyter notebook on how to interpret your COVID-19 test's results and how to estimate the spread of the epidemic using the theory behind screening tests.
 * Nov 2017 – Feb 2018. **[gflsegpy: A Python 3 implementation of the group fused Lasso for multiple change-point detection](https://github.com/alexandrehuat/gflsegpy).** This project implements the group fused Lasso (GFL) of [Bleakley and Vert, 2011](https://arxiv.org/abs/1106.4199): A method to detect breakpoints in multidimensional signals. The gflsegpy package provides an implementation of two GFL algorithms plus a demo script and a data visualization module.
