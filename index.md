@@ -104,7 +104,7 @@ style="vertical-align: top">
 
 * 2002–2019. 🎸 **Guitar.** Classic, electric, folk.
 
-# Public Projects
+# Miscellaneous Works
 
-* Mar 2020. **[Breaking down misconceptions on screening tests in the era of COVID-19](https://gist.github.com/alexandrehuat/f0c7854e911847ef74e79b60cbd9747c).** A Python Jupyter notebook on how to interpret your COVID-19 test's results and how to estimate the spread of the epidemic using the theory behind screening tests.
+* Mar 2020. **[Breaking down misconceptions on screening tests in the era of COVID-19](https://gist.github.com/alexandrehuat/f0c7854e911847ef74e79b60cbd9747c).** A Jupyter notebook explaining the interpretation of diagnostic test results and the estimation of epidemic spread based on Bayesian statistical theory.
 * Nov 2017 – Feb 2018. **[gflsegpy: A Python 3 implementation of the group fused Lasso for multiple change-point detection](https://github.com/alexandrehuat/gflsegpy).** This project implements the group fused Lasso (GFL) of [Bleakley and Vert, 2011](https://arxiv.org/abs/1106.4199): A method to detect breakpoints in multidimensional signals. The gflsegpy package provides an implementation of two GFL algorithms plus a demo script and a data visualization module.
