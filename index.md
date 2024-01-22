@@ -60,9 +60,9 @@ style="vertical-align: top">
 
 ### Natural
 
-* 🇫🇷 **French.** Native.
-* 🇬🇧 **English.** C1.
-* 🇪🇸 **Spanish, 🇩🇪 German, 🇲🇦 Arabic (Darija).** Notions.
+* **🇫🇷 French.** Native.
+* **🇬🇧 English.** C1.
+* **🇪🇸 Spanish, 🇩🇪 German, 🇲🇦 Arabic (Darija).** Notions.
 
 ### Programming
 
@@ -79,18 +79,18 @@ style="vertical-align: top">
 
 ## Other Experiences
 
-* From Oct 2023. 👨🏻‍🏫 **Private Tutor in Mathematics & Statistics**. Lille, France.
 * From Apr 2023. 🥊 **Muay Thai Instructor for Beginners**. *[Faubourg de Béthune Judo Club Lillois](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
+* Oct 2023 – Jan 2024. 👨🏻‍🏫 **Private Tutor in Advanced Statistics**. Based on [*Stochastic Modeling and Mathematical Statistics: A Text for Statisticians and Quantitative Scientists* (Samaniego, 2014)](https://doi.org/10.1201/b16414). Lille, France.
 * Oct 2022 – Jun 2023. 🤝 **Volunteer School Mentoring.** *[Entraide Scolaire Amicale (ESA)](https://www.entraidescolaireamicale.org/)*. Lille, France. *__Topic__—Mentoring and support classes in mathematics to a last year high school student.*
-* Feb – May 2017. 📉 **[Speed Data Scientist 2017: Failures Detection Challenge](http://speed-data-scientist.bemyapp.com), 🏅 4<sup>th</sup> Place and Best Presentation Award.** *[Société Générale](https://www.societegenerale.fr).* Paris, France.
+* Feb – May 2017. 📉 **[Speed Data Scientist 2017: Failures Detection Challenge](http://speed-data-scientist.bemyapp.com), 🏅 4th Place and Best Presentation Award.** *[Société Générale](https://www.societegenerale.fr).* Paris, France.
 * Jan – Jun 2016. 👨🏻‍🏫 **[Scientific and technological support in primary school: An introduction to robotic programming for children](https://github.com/alexandrehuat/alexandrehuat.github.io/blob/master/assets/pdf/ASTEP2016_AlexandreHuat_Rapport.pdf).** *Primary School Gérard Philipe and [National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr).* Amfreville-la-Mi-Voie, France.
 
 ## Hobbies
 
 ### Martial Arts
 
-* From Sep 2012. 🥊 **Muay Thai.** *Rufin Didier and [Team Naja](https://team-naja.fr).*
-* From Oct 2022. 🥋 **Judo-Jujūtsu,** 🟡 yellow belt. *[Faubourg de Béthune Judo Club Lillois](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).*
+* From Sep 2012. 🥊 **Muay Thai.** *Rufin Didier and [Team Naja](https://team-naja.fr).* Rouen and Lille, France.
+* From Oct 2022. 🥋 **Judo-Jujūtsu**, 🟡 Yellow Belt. *[Faubourg de Béthune Judo Club Lillois](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
 
 ### Sports
 
