@@ -79,7 +79,6 @@ style="vertical-align: top">
 
 ## Other Experiences
 
-* From Apr 2023. 🥊 **Muay Thai Instructor for Beginners**. *[Faubourg de Béthune Judo Club Lillois](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
 * Oct 2023 – Jan 2024. 👨🏻‍🏫 **Private Tutor in Advanced Statistics**. Based on [*Stochastic Modeling and Mathematical Statistics: A Text for Statisticians and Quantitative Scientists* (Samaniego, 2014)](https://doi.org/10.1201/b16414). Lille, France.
 * Oct 2022 – Jun 2023. 🤝 **Volunteer School Mentoring.** *[Entraide Scolaire Amicale (ESA)](https://www.entraidescolaireamicale.org/)*. Lille, France. *__Topic__—Mentoring and support classes in mathematics to a last year high school student.*
 * Feb – May 2017. 📉 **[Speed Data Scientist 2017: Failures Detection Challenge](http://speed-data-scientist.bemyapp.com), 🏅 4th Place and Best Presentation Award.** *[Société Générale](https://www.societegenerale.fr).* Paris, France.
@@ -89,9 +88,9 @@ style="vertical-align: top">
 
 ### Martial Arts
 
-* From March 2024. 🤼 **Mixed Martial Arts (MMA)** 🟩 Green Grade. *[FMMAF](https://www.fmmaf.fr/).* Lille, France. *Training for the [2nd Federal Instructor's Degree](https://www.fmmaf.fr/se-former/).*
-* From Oct 2022. 🥋 **Judo-Jujūtsu** 🟨 Yellow Belt. *[Faubourg de Béthune Judo Club Lillois](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
-* From Sep 2012. 🥊 **Muay Thai.** *Rufin Didier and [Team Naja](https://team-naja.fr).* Rouen and Lille, France.
+* From Mar 2024. 🤼 **MMA** 🟩 Green Grade. *[FMMAF](https://www.fmmaf.fr/).* Lille, France. *Training for the [2nd Federal Instructor's Degree](https://www.fmmaf.fr/se-former/).*
+* From Oct 2022. 🥋 **Judo-Jujūtsu** 🟨 Yellow Belt. *[FBJCL](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
+* From Sep 2012. 🥊 **Muay Thai.** *Rufin Didier and [Team Naja](https://team-naja.fr).* Rouen and Lille, France. *Instructor for beginners at [FBJCL](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).*
 
 ### Sports
 
