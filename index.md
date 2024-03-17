@@ -28,7 +28,7 @@ I also enjoy human interaction, especially through teaching and learning.
 * _I aborted my Ph.D. studies due to health issues at the end of my 3rd year._
 * Nov 2018 – Nov 2021. **Medical Data Science Ph.D. Student ([Cifre](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844)).** *[University of Rouen, Laboratory of Computer Science, Information Processing and Systems (LITIS), Team Quantification in Functional Imaging (QuantIF)](http://www.litislab.fr/equipe/quantif) and [Henri Becquerel Center](https://www.becquerel.fr/la-recherche/recherche-fondamentale).* Rouen, France. *See 'Work experience'.*
 * 2017 – Sep 2018 (1 year). **[Master 2 Data Science](http://mastersid.univ-rouen.fr/en/sd.php).** *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr) and [University of Rouen](http://www.univ-rouen.fr).* Saint-Étienne-du-Rouvray, France.
-* Sep 2014 – Sep 2018 (4 years). **Engineer's degree in Computer Science,** Specialization in Data Engineering. *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr), [Department of Information Systems Architectures (ASI)](http://asi.insa-rouen.fr).* Saint-Étienne-du-Rouvray, France.
+* Sep 2014 – Sep 2018 (4 years). **Engineer's Degree in Computer Science,** Specialization in Data Engineering. *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr), [Department of Information Systems Architectures (ASI)](http://asi.insa-rouen.fr).* Saint-Étienne-du-Rouvray, France.
 * Sep 2012 – Jun. 2014 (2 years). **Higher Schools Preparatory Classes,** Specialization in Computer Science and Mathematics. *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr), Department of Sciences and Skills for Engineering.* Saint-Étienne-du-Rouvray, France.
 * Jul 2012. **French Baccalaureate of Sciences,** **_Magna Cum Laude,_** Specialization in Earth and Life Sciences. *French School Abroad Montaigne.* Cotonou, Benin.
 
@@ -89,8 +89,9 @@ style="vertical-align: top">
 
 ### Martial Arts
 
+* From March 2024. 🤼 **Mixed Martial Arts (MMA)** 🟩 Green Grade. *[FMMAF](https://www.fmmaf.fr/).* Lille, France. *Training for the [2nd Federal Instructor's Degree](https://www.fmmaf.fr/se-former/).*
+* From Oct 2022. 🥋 **Judo-Jujūtsu** 🟨 Yellow Belt. *[Faubourg de Béthune Judo Club Lillois](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
 * From Sep 2012. 🥊 **Muay Thai.** *Rufin Didier and [Team Naja](https://team-naja.fr).* Rouen and Lille, France.
-* From Oct 2022. 🥋 **Judo-Jujūtsu**, 🟡 Yellow Belt. *[Faubourg de Béthune Judo Club Lillois](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
 
 ### Sports
 
