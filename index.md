@@ -88,8 +88,8 @@ style="vertical-align: top">
 
 ### Martial Arts
 
-* From Mar 2024. 🤼 **MMA** 🟩 Green Grade. *[FMMAF](https://www.fmmaf.fr/).* Lille, France. *Training for the [2nd Federal Instructor's Degree](https://www.fmmaf.fr/se-former/).*
-* From Oct 2022. 🥋 **Judo-Jujūtsu** 🟨 Yellow Belt. *[FBJCL](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
+* From Mar 2024. 🤼 **Mixed Martial Arts** 🟢 Green Grade. *[French MMA Federation](https://www.fmmaf.fr/).* Lille, France. *Under training for the Level 2 [Federal Instructor](https://www.fmmaf.fr/se-former/) (BF2).*
+* From Oct 2022. 🥋 **Judo-Jujūtsu** 🟡 Yellow Belt. *[Faubourg de Béthune Judo Club de Lille](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
 * From Sep 2012. 🥊 **Muay Thai.** *Rufin Didier and [Team Naja](https://team-naja.fr).* Rouen and Lille, France. *Instructor for beginners at [FBJCL](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).*
 
 ### Sports
