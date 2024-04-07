@@ -22,6 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
     document.querySelector("input[name=base-rate]").value = BASE_RATE;
     updatePrices(null, null, null);
 
+    let baseRate = document.querySelector("input[name=base-rate]");
     let hoursInput = document.querySelector("input[name=hours]");
     let firstHoursDiscountInput = document.querySelector("input[name=first-hours-discount]");
     let groupSizeInput = document.querySelector("input[name=group-size]");
@@ -29,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     for (let [input, min, max] of [[hoursInput, 0, Infinity], [groupSizeInput, 1, MAX_GROUP_SIZE]])
         input.addEventListener("input", event => clipEventTargetValue(event, min, max));
-    for (let input of [hoursInput, firstHoursDiscountInput, groupSizeInput])
+    for (let input of [baseRate, hoursInput, firstHoursDiscountInput, groupSizeInput])
         input.addEventListener("input", () => {
             let hours = Number(hoursInput.value);
             let groupSize = Number(groupSizeInput.value);

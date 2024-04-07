@@ -6,12 +6,12 @@ layout: page
 lang: fr-FR
 ---
  
-<div style="color: red; font-weight: bold;">
-<i class="fa-solid fa-person-digging"></i>
-MISE À JOUR EN COURS
-</div>
-
 <img alt="Humour — Je ne suis pas sûre de savoir combien de problèmes j'ai car les maths en font partie." class="center" src="assets/img/humour-pas-sure-nb-prb-maths.png" style="height: 55mm;">
+
+<h2 style="color: red; font-weight: bold;">
+<i class="fa-solid fa-person-digging"></i>
+SITE EN CONSTRUCTION
+</h2>
 
 # Présentation
 
