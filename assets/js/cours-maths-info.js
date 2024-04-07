@@ -23,20 +23,21 @@ document.addEventListener("DOMContentLoaded", () => {
     let hoursInput = document.querySelector("input[name=hours]");
     let firstHoursDiscountInput = document.querySelector("input[name=first-hours-discount]");
     let groupSizeInput = document.querySelector("input[name=group-size]");
-    groupSizeInput.max = MAX_GROUP_SIZE
+    groupSizeInput.max = MAX_GROUP_SIZE;
 
     for (let [input, min, max] of [[hoursInput, 0, Infinity], [groupSizeInput, 1, MAX_GROUP_SIZE]]) {
         input.addEventListener("input", event => clipEventTargetValue(event, min, max));
     }
     for (let input of [hoursInput, firstHoursDiscountInput, groupSizeInput]) {
-        input.addEventListener("input", event => {
+        input.addEventListener("input", () => {
             updatePrices(hoursInput.value, firstHoursDiscount.checked, groupSize.value);
         });
     }
 })
 
-function parseBaseRate():
-    return parseFloat(document.querySelector("input[name=base-rate]"))
+function parseBaseRate() {
+    return parseFloat(document.querySelector("input[name=base-rate]"));
+}
 
 function updatePrices(hours, firstHoursDiscount, groupSize) {
     let totalPriceOutput = document.querySelector("output[name=total-price]");
@@ -57,7 +58,7 @@ function updatePrices(hours, firstHoursDiscount, groupSize) {
 */
 function computeTotalPrice(hours, firstHoursDiscount = true, groupSize = 1) {
     let baseRate = parseBaseRate()
-    if (groupSize > 1):
+    if (groupSize > 1)
         return groupDiscount(groupSize) * computeTotalPrice(hours, firstHoursDiscount, 1)
 
     if (firstHoursDiscount) {
@@ -104,7 +105,7 @@ function groupDiscount(size) {
         n / (n + (n-1) + (n-2) + ...)
       = n / ((n + 1) n / 2)
       = 2 / (n + 1) */
-    return 2 / (size + 1)
+    return 2 / (size + 1);
 }
 
 /**
