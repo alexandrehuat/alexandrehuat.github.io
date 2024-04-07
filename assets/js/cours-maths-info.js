@@ -84,7 +84,7 @@ function fillPlanRatesTable() {
     tbody.querySelector("tr.base > td.rate").textContent = EUR_FMTER.format(baseRate);
     tbody.querySelectorAll("tr.pack").forEach(tr => {
         hours = parseInt(tr.id);
-        tr.querySelector("td.name") = `Série de ${hours} heures`;
+        tr.querySelector("td.name").textContent = `Série de ${hours} heures`;
         let rate = baseRate - PLAN_DISCOUNTS[hours].discount
         tr.querySelector("td.rate").textContent = EUR_FMTER.format(rate);
         tr.querySelector("td.total-price").textContent = EUR_FMTER.format(hours * rate);

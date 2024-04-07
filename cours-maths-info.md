@@ -198,12 +198,16 @@ C'est pourquoi je vous aide à développer la maturité et l'état d'esprit adé
 Donnez-vous l'occasion de briller et vous vous surprendrez !
 
 # Témoignages
-Toute discipline confondue, j'ai accompagné :
-* Arthur, Hamza et Arthur, en mathématiques de niveau 3<sup>ème</sup> à bac+2 ;
-* Oumar, Morgane, Herna, Noémie et Mayel, stagiaires et alternante encadrés en tant que doctorant et ingénieur ;
-* une classe de CE2–CM2 pour une introduction à la mécanique et la robotique pendant un semestre (dispositif [ASTEP](https://www.enseignementsup-recherche.gouv.fr/fr/bo/2010/24/mene1000474c.htm)) ;
-* Axelle, en tant que mentor [JobIRL](https://www.jobirl.com/e-mentorat/e-mentorat-jeunes-stage-alternance) ;
-* Raoul, Jeong Yeon, Mohammed, Ilyes, Yacine, Kardine, Fadel, Hamza, Romain, Hely, Alex, etc., à qui j'enseigne la boxe thaïlandaise.
+
+**99 %**
+<i class="fa-solid fa-star" style="color: goldenrod;"></i>
+C'est la note moyenne que m'a attribué Arthur pour des cours de statistiques de niveau bac+2.
+
+{% include quote.html
+content="Un grand merci, j’avais un gros blocage sur cette matière depuis longtemps et je ne me voyais pas pouvoir réussir [mon examen], chose faite grâce à ces cours ! J’ai été suivi très personnellement, je voyais que ma réussite te tenais à cœur et cela m’a permis de me motiver moi-même."
+author="Arthur Dujardin, Bachelor en Économie @ Université Bocconi"
+date="2024"
+link="assets/pdf/CoursStatsSatisfactionArthurDujardin.pdf" %}
 
 **94 %**
 <i class="fa-solid fa-star" style="color: goldenrod;"></i>
@@ -214,15 +218,6 @@ content="Alexandre aborde et explique les mathématiques de façon très ouverte
 author="Hamza Yaiche, Terminale Spé Maths"
 date="2023"
 link="assets/pdf/MentoratESASatisfactionHamza.pdf" %}
-
-**99 %**
-<i class="fa-solid fa-star" style="color: goldenrod;"></i>
-C'est la note moyenne que m'a attribué Arthur pour des cours de statistiques de niveau bac+2.
-
-{% include quote.html
-content="Un grand merci, j’avais un gros blocage sur cette matière depuis longtemps et je ne me voyais pas pouvoir réussir [mon examen], chose faite grâce à ces cours ! J’ai été suivi très personnellement, je voyais que ma réussite te tenais à cœur et cela m’a permis de me motiver moi-même."
-author="Arthur Dujardin, Bachelor en Économie @ Université Bocconi" 
-link="assets/pdf/CoursStatsSatisfactionArthurDujardin.pdf" %}
 
 « Secouriste en mathématiques » est une de mes casquettes auprès d'un collègue en développement web et imagerie médicale.
 
@@ -235,6 +230,13 @@ Après lui avoir donné des cours de soutien en mathématiques, j'ai mentoré mo
 content="Alexandre sait écouter, comprendre et s'adapter aux problématiques de son interlocuteur. Son expérience du monde et dans la psychologie lui permet d'être compétent dans un grand nombre de situations. Il m'a aidé à opérer à des changements majeurs dans ma vie, que je n'aurai probablement pas réussi seul."
 author="Arthur Huat, Bachelor @ NEOMA Business School" date="2022"
 link="https://fr.linkedin.com/in/arthur-huat-196991174" %}
+
+En somme, toutes disciplines confondues, j'ai accompagné :
+* Arthur, Hamza et Arthur, en mathématiques de niveau 3<sup>ème</sup> à bac+2 ;
+* Oumar, Morgane, Herna, Noémie et Mayel, stagiaires et alternante encadrés en tant que doctorant et ingénieur ;
+* une classe de CE2–CM2 pour une introduction à la mécanique et la robotique pendant un semestre (dispositif [ASTEP](https://www.enseignementsup-recherche.gouv.fr/fr/bo/2010/24/mene1000474c.htm)) ;
+* Axelle, en tant que mentor [JobIRL](https://www.jobirl.com/e-mentorat/e-mentorat-jeunes-stage-alternance) ;
+* Raoul, Jeong Yeon, Mohammed, Ilyes, Yacine, Kardine, Fadel, Hamza, Romain, Hely, Alex, etc., à qui j'enseigne la boxe thaïlandaise.
 
 ---
 
