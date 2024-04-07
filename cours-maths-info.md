@@ -6,12 +6,12 @@ layout: page
 lang: fr-FR
 ---
  
-<div style="color: red; font-weight: bold">
+<div style="color: red; font-weight: bold;">
 <i class="fa-solid fa-person-digging"></i>
 MISE À JOUR EN COURS
 </div>
 
-<img alt="Humour — Je ne suis pas sûre de savoir combien de problèmes j'ai car les maths en font partie." class="center" src="assets/images/humour-pas-sure-nb-prb-maths.png" style="height: 55mm;">
+<img alt="Humour — Je ne suis pas sûre de savoir combien de problèmes j'ai car les maths en font partie." class="center" src="assets/img/humour-pas-sure-nb-prb-maths.png" style="height: 55mm;">
 
 # Présentation
 
@@ -41,7 +41,7 @@ ou par
 <table id="modalities">
     <thead>
         <tr>
-            <th colspan="2"></th>
+            <th></th>
             <th>Mathématiques</th>
             <th>Statistiques</th>
             <th>Informatique</th>
@@ -49,29 +49,28 @@ ou par
     </thead>
     <tbody>
         <tr>
-            <td rowspan="2">Niveau accepté</td>
-            <td>Minimal</td>
+            <td>Niveau minimal</td>
             <td colspan="3">6<sup>ème</sup></td>
         </tr>
         <tr>
-            <td>Maximal</td>
+            <td>Niveau maximal</td>
             <td>Terminale</td>
             <td colspan="2">Bac+2</td>
         </tr>
         <tr>
-            <td colspan="2">Sujets enseignés</td>
+            <td>Sujets enseignés</td>
             <td>Tout le programme scolaire</td>
             <td>Statistiques descriptives, estimation fréquentiste et bayésienne, tests d'hypothèses, modèles non-paramétriques, modèles linéaires, etc.</td>
             <td>Algorithmique théorique, langage Python, apprentissage automatique</td>
         </tr>
         <tr>
-            <td colspan="2">Matériel requis</td>
+            <td>Matériel requis</td>
             <td>Livre du programme annuel</td>
             <td>Tout matériel fourni par l'enseignant</td>
             <td>Ordinateur et connexion internet efficace</td>
         </tr>
         <tr>
-            <td colspan="2">Cours en distanciel</td>
+            <td>Cours en distanciel</td>
             <td colspan="3">Oui</td>
         </tr>
     </tbody>
@@ -151,41 +150,36 @@ Pourquoi me choisir plutôt qu'un autre professeur ? En trois mots : [pragmati
 
 ## Un apprentissage concret et imagé grâce à ma pratique professionnelle
 
-_« Monsieur, j'ai compris le cours, mais tout ça, à quoi ça sert ? »_ Telle est la question redoutée à laquelle bien des professeurs échouent à répondre, n'ayant jamais quitté l'école.
+_« Monsieur, j'ai compris le cours, mais tout ça, à quoi ça sert ? »_
 
 Quand j'ai démarré mon cursus d'ingénieur post-bac, je me suis rapidement rendu compte que les mathématiques étaient bien plus riches et intéressantes que ce que nous apprenions au lycée.
 Dans cette discipline en constante évolution, toute définition et théorème répond à des problèmes concrets.
 C'est pourquoi je propose un enseignement ludique mais ouvert sur la réalité.
 
-Par exemple, pour son [grand oral](https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-comment-se-passe-le-grand-oral-100028) de mathématiques au baccalauréat, j'ai aidé Hamza à préparer un sujet d'analyse de l'[épidémie de _sang vicié_](https://fr.wikipedia.org/wiki/Incident_du_sang_vicié) du jeu World of Warcraft.
-_« Comment les comportements des joueurs influencent l'épidémie ? »_
-Pour répondre à cette problématique, nous avons plongé dans les équations différentielles d'un modèle épidémiologique utilisé pour des maladies réelles comme la COVID-19.
+Par exemple, pour son [grand oral](https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-comment-se-passe-le-grand-oral-100028) de mathématiques au baccalauréat, j'ai aidé Hamza à préparer un sujet d'analyse de l'[épidémie de _sang vicié_](https://fr.wikipedia.org/wiki/Incident_du_sang_vicié) du jeu WoW :
+comment les comportements des joueurs influencent l'épidémie ?
+Pour y répondre, nous avons utilisé un modèle épidémiologique comme pour une maladies réelle telle que la peste bubonique.
 
-<img alt="Logo World of Warcraft" class="center why-me-icon" src="assets/images/wow-logo.png">
+<img alt="Logo World of Warcraft" class="center why-me-icon" src="assets/img/wow-logo.png">
 
-Avec Arthur, élève de niveau bac+2, nous avons comparé des méthodes statistiques bayésiennes et fréquentistes pour estimer le rythme de pontes du Pokémon Togekiss, comme en biologie des populations ou en agronomie animale.
+Avec Arthur, élève de niveau bac+2, nous avons comparé des méthodes statistiques utilisées en biologie des populations ou en agronomie animale pour estimer le rythme de pontes du Pokémon Togekiss.
 
-<img alt="Le Pokémon Togekiss" class="center why-me-icon" src=https://assets.pokemon.com/assets/cms2/img/pokedex/full/468.png>
+<img alt="Togekiss, le Pokémon Célébration" class="center why-me-icon" src="assets/img/togekiss.png">
 
 ## Naturellement pédagogue
 
 En primaire, finissant souvent mes exercices en avance, mon maître d'école me faisait sillonner la classe pour aider les autres élèves.
 Ce bon souvenir m'anime encore aujourd'hui.
 Avec les années, transmettre le pouvoir de la connaissance est devenu une seconde nature.
-De plus, j'apprécie toute remarque ou suggestion afin de m'améliorer continuellement.
+De plus, j'accepte toute remarque afin de m'améliorer continuellement.
 
 <p style="text-align: center;">
     <i class="fa-solid fa-people-arrows why-me-icon" style="color: steelblue;"></i>
 </p>
 
-Mes expériences me [confirment](#témoignages) régulièrement mon approche pédagogique.
-Toute discipline confondue, j'ai accompagné :
-
-* Arthur, Hamza et Arthur, en mathématiques de niveau 3<sup>ème</sup> à bac+2 ;
-* Oumar, Morgane, Herna, Noémie et Mayel, stagiaires et alternante encadrés en tant que doctorant et ingénieur ;
-* une classe de CE2–CM2 pour une introduction à la mécanique et la robotique pendant un semestre (dispositif [ASTEP](https://www.enseignementsup-recherche.gouv.fr/fr/bo/2010/24/mene1000474c.htm)) ;
-* Axelle, en tant que mentor [JobIRL](https://www.jobirl.com/e-mentorat/e-mentorat-jeunes-stage-alternance) ;
-* Raoul, Jeong Yeon, Mohammed, Ilyes, Yacine, Kardine, Fadel, Hamza, Romain, Hely, Alex, etc., à qui j'enseigne la boxe thaïlandaise.
+Ma pratique m'a montré que développer les réflexes de réponses chez l'élève par l'exercice était le premier facteur de réussite.
+J'utilise aussi fervemment l'analogie pour simplifier les notions complexes.
+Les [témoignages](#témoignages) de mes élèves confirment régulièrement mon approche.
 
 ## Plus qu'un professeur, un mentor
 
@@ -200,12 +194,19 @@ Tout cela vous empêche de briller !
 
 Quel que soit votre objectif, le mien est toujours votre 20/20 !
 <i class="fa-solid fa-trophy" style="color: goldenrod;"></i>
-Cela implique vous aider à développer un état d'esprit et une maturité adéquats.
+C'est pourquoi je vous aide à développer la maturité et l'état d'esprit adéquats.
 Donnez-vous l'occasion de briller et vous vous surprendrez !
 
 # Témoignages
+Toute discipline confondue, j'ai accompagné :
 
-* **94 %**
+* Arthur, Hamza et Arthur, en mathématiques de niveau 3<sup>ème</sup> à bac+2 ;
+* Oumar, Morgane, Herna, Noémie et Mayel, stagiaires et alternante encadrés en tant que doctorant et ingénieur ;
+* une classe de CE2–CM2 pour une introduction à la mécanique et la robotique pendant un semestre (dispositif [ASTEP](https://www.enseignementsup-recherche.gouv.fr/fr/bo/2010/24/mene1000474c.htm)) ;
+* Axelle, en tant que mentor [JobIRL](https://www.jobirl.com/e-mentorat/e-mentorat-jeunes-stage-alternance) ;
+* Raoul, Jeong Yeon, Mohammed, Ilyes, Yacine, Kardine, Fadel, Hamza, Romain, Hely, Alex, etc., à qui j'enseigne la boxe thaïlandaise.
+
+**94 %**
 <i class="fa-solid fa-star" style="color: goldenrod;"></i>
 C'est la note moyenne que m'a attribué Hamza concernant ma pédagogie, mes qualités humaines et mon aide pour son orientation professionnelle.
 
@@ -215,26 +216,28 @@ author="Hamza Yaiche, Terminale Spé Maths"
 date="2023"
 link="assets/pdf/MentoratESASatisfactionHamza.pdf" %}
 
-* **99 %**
+**99 %**
 <i class="fa-solid fa-star" style="color: goldenrod;"></i>
 C'est la note moyenne que m'a attribué Arthur pour des cours de statistiques de niveau bac+2.
 
 {% include quote.html
 content="Un grand merci, j’avais un gros blocage sur cette matière depuis longtemps et je ne me voyais pas pouvoir réussir [mon examen], chose faite grâce à ces cours ! J’ai été suivi très personnellement, je voyais que ma réussite te tenais à cœur et cela m’a permis de me motiver moi-même."
-author="Arthur Dujardin, Bachelor en Économie à l'Université Bocconi" 
+author="Arthur Dujardin, Bachelor en Économie @ Université Bocconi" 
 link="assets/pdf/CoursStatsSatisfactionArthurDujardin.pdf" %}
 
-* « Secouriste en mathématiques » est une de mes casquettes auprès d'un collègue en développement web et imagerie médicale.
+« Secouriste en mathématiques » est une de mes casquettes auprès d'un collègue en développement web et imagerie médicale.
 
 {% include quote.html
 content="À ceux qui se demandent qui va vraiment utiliser la trigonométrie ou l'étude des fonctions après ses études, la réponse est : Alexandre évidemment. Régulièrement sollicité pour apporter des solutions concrètes à des problèmes mathématiques de tous les niveaux, il fait toujours preuve de passion pour les maths et de patience envers ses collègues." author="Guénaël Dequeker, Ingénieur en Informatique @ AQUILAB by Coexya" date="2023" link="https://www.linkedin.com/in/gu%25C3%25A9na%25C3%25ABl-dequeker-1956a5100" %}
 
-* Mentorer mon frère l'a aidé à reprendre en mains ses études après lui avoir donné des cours de soutien en mathématiques.
+Après lui avoir donné des cours de soutien en mathématiques, j'ai mentoré mon frère pour reprendre en mains ses études.
 
 {% include quote.html
 content="Alexandre sait écouter, comprendre et s'adapter aux problématiques de son interlocuteur. Son expérience du monde et dans la psychologie lui permet d'être compétent dans un grand nombre de situations. Il m'a aidé à opérer à des changements majeurs dans ma vie, que je n'aurai probablement pas réussi seul."
-author="Arthur Huat, Bachelor à NEOMA Business School" date="2022"
+author="Arthur Huat, Bachelor @ NEOMA Business School" date="2022"
 link="https://fr.linkedin.com/in/arthur-huat-196991174" %}
+
+---
 
 # Annexes
 
