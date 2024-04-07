@@ -55,7 +55,7 @@ function updatePrices(hours, firstHoursDiscount, groupSize) {
 * @param {number} hours - Le nombre d'heures de cours. Un réel positif.
 */
 function computeTotalPrice(hours, firstHoursDiscount = true, groupSize = 1) {
-    let baseRate = Number(document.querySelector("input[name=base-rate]"));
+    let baseRate = Number(document.querySelector("input[name=base-rate]").value);
     if (groupSize > 1)
         return groupDiscount(groupSize) * computeTotalPrice(hours, firstHoursDiscount, 1)
 
