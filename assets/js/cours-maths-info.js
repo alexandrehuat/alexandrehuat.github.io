@@ -19,13 +19,13 @@ const EUR_FMTER = new Intl.NumberFormat(DOC_LANG, {
 document.addEventListener("DOMContentLoaded", () => {
     fillPlanRatesTable();
     fillGroupDiscountTable();
-    document.querySelector("input[name=base-rate]").value = BASE_RATE;
+    document.querySelector("input#base-rate").value = BASE_RATE;
     updatePrices(null, null, null);
 
-    let baseRate = document.querySelector("input[name=base-rate]");
-    let hoursInput = document.querySelector("input[name=hours]");
-    let firstHoursDiscountInput = document.querySelector("input[name=first-hours-discount]");
-    let groupSizeInput = document.querySelector("input[name=group-size]");
+    let baseRate = document.querySelector("input#base-rate");
+    let hoursInput = document.querySelector("input#hours");
+    let firstHoursDiscountInput = document.querySelector("input#first-hours-discount");
+    let groupSizeInput = document.querySelector("input#group-size");
     groupSizeInput.max = MAX_GROUP_SIZE;
 
     for (let [input, min, max] of [[hoursInput, 0, Infinity], [groupSizeInput, 1, MAX_GROUP_SIZE]])
@@ -39,8 +39,8 @@ document.addEventListener("DOMContentLoaded", () => {
 })
 
 function updatePrices(hours, firstHoursDiscount, groupSize) {
-    let totalPriceOutput = document.querySelector("output[name=total-price]");
-    let hourlyPriceOutput = document.querySelector("output[name=hourly-price]");
+    let totalPriceOutput = document.querySelector("output#total-price");
+    let hourlyPriceOutput = document.querySelector("output#hourly-price");
 
     let totalPrice = computeTotalPrice(hours, firstHoursDiscount, groupSize);
     if (totalPrice === null)
@@ -56,7 +56,7 @@ function updatePrices(hours, firstHoursDiscount, groupSize) {
 * @param {number} hours - Le nombre d'heures de cours. Un réel positif.
 */
 function computeTotalPrice(hours, firstHoursDiscount = true, groupSize = 1) {
-    let baseRate = Number(document.querySelector("input[name=base-rate]").value);
+    let baseRate = Number(document.querySelector("input#base-rate").value);
     if (groupSize > 1)
         return groupDiscount(groupSize) * computeTotalPrice(hours, firstHoursDiscount, 1);
 

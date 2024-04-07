@@ -1,7 +1,7 @@
 ---
 title: Cours de maths & d'info
 fulltitle: Cours de mathématiques et d'informatique
-date: 2023-06-24
+date: 2024-04-07
 layout: page
 lang: fr-FR
 ---
@@ -238,9 +238,7 @@ En somme, toutes disciplines confondues, j'ai accompagné :
 * Axelle, en tant que mentor [JobIRL](https://www.jobirl.com/e-mentorat/e-mentorat-jeunes-stage-alternance) ;
 * Raoul, Jeong Yeon, Mohammed, Ilyes, Yacine, Kardine, Fadel, Hamza, Romain, Hely, Alex, etc., à qui j'enseigne la boxe thaïlandaise.
 
-<div style="text-align: center;">
-<i class="fa-solid fa-star-of-life"></i>
-</div>
+
 
 # Annexes
 
@@ -275,31 +273,31 @@ Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heur
     <h4>Simulateur tarifaire</h4>
     <ul>
         <li>
-        <label for="base-rate">Tarif de base</label> :
+        <label for="base-rate">Tarif horaire de base</label> :
         <input class="price-simulator"
-        name="base-rate" type="number"> €/h
+        id="base-rate" type="number"> €
         </li>
         <li>
-            <input class="price-simulator" name="first-hours-discount" type="checkbox" checked>
+            <input class="price-simulator" id="first-hours-discount" type="checkbox" checked>
             <label for="first-hours-discount">
             <a href="#premières-heures">Réduction</a> les premières heures
             </label>
         </li>
         <li>
             <label for="hours">Nombre d'heures</label> :
-            <input name="hours" type="number" min="0"> 
+            <input id="hours" type="number" min="0"> 
         </li>
         <li>
             <label for="group-size">Nombre d'élèves</label> :
-            <input name="group-size" type="number" min="1" value="1">
+            <input id="group-size" type="number" min="1" value="1">
         </li>
         <li>
             <label for="total-price">Prix total</label> :
-            <output name="total-price" for="hours"></output>
+            <output id="total-price" for="hours"></output>
         </li>
         <li>
             Prix horaire moyen :
-            <output name="hourly-price" for="hours total-price"></output>
+            <output id="hourly-price" for="hours total-price"></output>
         </li>
     </ul>
 </div>
