@@ -57,11 +57,12 @@ function updatePrices(hours, firstHoursDiscount, groupSize) {
 function computeTotalPrice(hours, firstHoursDiscount = true, groupSize = 1) {
     let baseRate = Number(document.querySelector("input[name=base-rate]").value);
     if (groupSize > 1)
-        return groupDiscount(groupSize) * computeTotalPrice(hours, firstHoursDiscount, 1)
+        return groupDiscount(groupSize) * computeTotalPrice(hours, firstHoursDiscount, 1);
 
     if (firstHoursDiscount) {
-        let firstHoursPrice = Math.min(N_FHD, hours) * baseRate * (N_FHD - 1) / N_FHD;
-        return firstHoursPrice + computeTotalPrice(hours - 2, false, groupSize);
+        let h1 = Math.min(N_FHD, hours) * baseRate * (N_FHD - 1) / N_FHD;
+        let h2 = computeTotalPrice(Math.max(0, hours - 2), false, groupSize);
+        return h1 + h2;
     }
 
     for (let [planHours, discount] of Object.entries(DISCOUNT_BY_PLAN))
