@@ -1,15 +1,15 @@
 document.addEventListener("DOMContentLoaded", () => {
     let ul = document.querySelector("ul.h1-nav");
     document.querySelectorAll("h1").forEach(header => {
+        let a = document.createElement("a");
+        a.href = "#" + header.id;
         let li = document.createElement("li");
+        let i = document.createElement("i");
+        i.classList.add("icon");
+        li.appendChild("i");
         let text = document.createTextNode(header.textContent);
         li.appendChild(text);
-
-        let a = document.createElement("a");
-        a.classList.add("icon");
-        a.href = "#" + header.id;
         a.appendChild(li);
-
         ul.appendChild(a);
     });
 });
