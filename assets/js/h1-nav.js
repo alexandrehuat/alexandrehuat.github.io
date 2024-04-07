@@ -1,6 +1,6 @@
-document.addEventListener("DOMContentLoaded",
+document.addEventListener("DOMContentLoaded", () => {
     let ul = document.querySelector("ul.h1-nav");
-    document.querySelectorAll("h1").forEach(function (header) {
+    document.querySelectorAll("h1").forEach(header => {
         let li = document.createElement("li");
         let text = document.createTextNode(header.textContent);
         li.appendChild(text);
@@ -11,4 +11,4 @@ document.addEventListener("DOMContentLoaded",
 
         ul.appendChild(a);
     });
-}
+});
