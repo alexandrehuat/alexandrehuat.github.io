@@ -1,11 +1,13 @@
 const DOC_LANG = document.querySelector("html").lang;
 const BASE_RATE = 34;
-const PLAN_DISCOUNTS = [ // must remain in decreasing order of hours
-    {hours: 52, discount: 10},
-    {hours: 46, discount: 8},
-    {hours: 36, discount: 6},
-    {hours: 8, discount: 4},
-];
+const DISCOUNT_BY_PLAN = {
+    // hours: absolute discount
+    // must stay in descending hours
+    52: 10,
+    46: 8,
+    36: 6,
+    8: 4,
+};
 const N_FHD = 2; // number of first hours with discount
 const MAX_GROUP_SIZE = 4;
 const EUR_FMTER = new Intl.NumberFormat(DOC_LANG, {
@@ -66,12 +68,12 @@ function computeTotalPrice(hours, firstHoursDiscount = true, groupSize = 1) {
         return firstHoursPrice + computeTotalPrice(hours - 2, false, groupSize);
     }
 
-    for (let plan of PLAN_DISCOUNTS)
-        if (hours >= plan.hours) {
-            let nPlans = Math.floor(hours / plan.hours);
-            let planRate = Math.max(0, baseRate - plan.discount)
-            let plansPrice = nPlans * plan.hours * planRate;
-            let remainingHours = hours % plan.hours;
+    for (let [planHours, discount] of Object.entries(DISCOUNT_BY_PLAN))
+        if (hours >= planHours) {
+            let nPlans = Math.floor(hours / planHours);
+            let planRate = Math.max(0, baseRate - discount)
+            let plansPrice = nPlans * planHours * planRate;
+            let remainingHours = hours % planHours;
             return plansPrice + computeTotalPrice(remainingHours, false, groupSize);
         }
 
@@ -85,7 +87,7 @@ function fillPlanRatesTable() {
     tbody.querySelectorAll("tr.pack").forEach(tr => {
         hours = parseInt(tr.id);
         tr.querySelector("td.name").textContent = `Série de ${hours} heures`;
-        let rate = baseRate - PLAN_DISCOUNTS[hours].discount
+        let rate = baseRate - DISCOUNT_BY_PLAN[hours];
         tr.querySelector("td.rate").textContent = EUR_FMTER.format(rate);
         tr.querySelector("td.total-price").textContent = EUR_FMTER.format(hours * rate);
     });
