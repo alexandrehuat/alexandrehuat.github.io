@@ -117,7 +117,7 @@ function fillGroupDiscountTable() {
     let tbody = document.querySelector("table#group-discount > tbody");
     let perc_fmter = new Intl.NumberFormat(DOC_LANG, {style: "percent"});
 
-    for (let size = 2; size <= MAX_GROUP_SIZE; i++) {
+    for (let size = 2; size <= MAX_GROUP_SIZE; size++) {
         let discount = groupDiscount(size);
         let texts = [
             size,
