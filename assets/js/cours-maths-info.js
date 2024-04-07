@@ -31,7 +31,9 @@ document.addEventListener("DOMContentLoaded", () => {
         input.addEventListener("input", event => clipEventTargetValue(event, min, max));
     for (let input of [hoursInput, firstHoursDiscountInput, groupSizeInput])
         input.addEventListener("input", () => {
-            updatePrices(hoursInput.value, firstHoursDiscountInput.checked, groupSizeInput.value);
+            let hours = Number(hoursInput.value);
+            let groupSize = Number(groupSizeInput.value);
+            updatePrices(hours, firstHoursDiscountInput.checked, groupSize);
         });
 })
 
