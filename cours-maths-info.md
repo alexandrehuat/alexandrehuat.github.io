@@ -199,7 +199,6 @@ Donnez-vous l'occasion de briller et vous vous surprendrez !
 
 # Témoignages
 Toute discipline confondue, j'ai accompagné :
-
 * Arthur, Hamza et Arthur, en mathématiques de niveau 3<sup>ème</sup> à bac+2 ;
 * Oumar, Morgane, Herna, Noémie et Mayel, stagiaires et alternante encadrés en tant que doctorant et ingénieur ;
 * une classe de CE2–CM2 pour une introduction à la mécanique et la robotique pendant un semestre (dispositif [ASTEP](https://www.enseignementsup-recherche.gouv.fr/fr/bo/2010/24/mene1000474c.htm)) ;
