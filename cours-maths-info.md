@@ -6,12 +6,7 @@ layout: page
 lang: fr-FR
 ---
  
-<img alt="Humour — Je ne suis pas sûre de savoir combien de problèmes j'ai car les maths en font partie." class="center" src="assets/img/humour-pas-sure-nb-prb-maths.png" style="height: 55mm;">
-
-<h2 style="color: red; font-weight: bold;">
-<i class="fa-solid fa-person-digging"></i>
-SITE EN CONSTRUCTION
-</h2>
+<img alt="Humour — Je ne suis pas sûre de savoir combien de problèmes j'ai car les maths en font partie." class="center" src="assets/images/humour-pas-sure-nb-prb-maths.png" style="height: 55mm;">
 
 # Présentation
 
@@ -163,11 +158,11 @@ Par exemple, pour son [grand oral](https://www.education.gouv.fr/reussir-au-lyce
 comment les comportements des joueurs influencent l'épidémie ?
 Pour y répondre, nous avons utilisé un modèle épidémiologique comme pour une maladies réelle telle que la peste bubonique.
 
-<img alt="Logo World of Warcraft" class="center why-me-icon" src="assets/img/wow-logo.png">
+<img alt="Logo World of Warcraft" class="center why-me-icon" src="assets/images/wow-logo.png">
 
 Avec Arthur, élève de niveau bac+2, nous avons comparé des méthodes statistiques utilisées en biologie des populations ou en agronomie animale pour estimer le rythme de pontes du Pokémon Togekiss.
 
-<img alt="Togekiss, le Pokémon Célébration" class="center why-me-icon" src="assets/img/togekiss.png">
+<img alt="Togekiss, le Pokémon Célébration" class="center why-me-icon" src="assets/images/togekiss.png">
 
 ## Naturellement pédagogue
 
