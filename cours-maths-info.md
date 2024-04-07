@@ -148,9 +148,9 @@ Pourquoi me choisir plutôt qu'un autre professeur ? En trois mots : [pragmati
 
 [//]: # (TODO: Et, en un témoignage : témoignage d'Hamza)
 
-## Un apprentissage concret et imagé grâce à ma pratique professionnelle
+## Un apprentissage concret et imagé
 
-_« Monsieur, j'ai compris le cours, mais tout ça, à quoi ça sert ? »_
+_« Mais monsieur, tout ça à quoi ça sert ? »_
 
 Quand j'ai démarré mon cursus d'ingénieur post-bac, je me suis rapidement rendu compte que les mathématiques étaient bien plus riches et intéressantes que ce que nous apprenions au lycée.
 Dans cette discipline en constante évolution, toute définition et théorème répond à des problèmes concrets.
@@ -238,7 +238,9 @@ En somme, toutes disciplines confondues, j'ai accompagné :
 * Axelle, en tant que mentor [JobIRL](https://www.jobirl.com/e-mentorat/e-mentorat-jeunes-stage-alternance) ;
 * Raoul, Jeong Yeon, Mohammed, Ilyes, Yacine, Kardine, Fadel, Hamza, Romain, Hely, Alex, etc., à qui j'enseigne la boxe thaïlandaise.
 
----
+<div style="text-align: center;">
+<i class="fa-solid fa-star-of-life"></i>
+</div>
 
 # Annexes
 

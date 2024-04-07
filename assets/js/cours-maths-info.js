@@ -77,8 +77,9 @@ function computeTotalPrice(hours, firstHoursDiscount = true, groupSize = 1) {
 function fillPlanRatesTable() {
     const baseRate = BASE_RATE;
     let tbody = document.querySelector("table#plan-rates > tbody");
-    tbody.querySelector("tr.base > td.rate").textContent = EUR_FMTER.format(baseRate);
-    tbody.querySelectorAll("td.total-price, td.equiv-period").forEach(td => td.textContent = "—");
+    let trbase = tbody.querySelector("tr.base");
+    trbase.querySelector("td.rate").textContent = EUR_FMTER.format(baseRate);
+    trbase.querySelectorAll("td.total-price, td.equiv-period").forEach(td => td.textContent = "—");
     tbody.querySelectorAll("tr.pack").forEach(tr => {
         hours = parseInt(tr.id);
         tr.querySelector("td.name").textContent = `Série de ${hours} heures`;

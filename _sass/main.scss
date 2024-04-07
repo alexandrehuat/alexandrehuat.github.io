@@ -110,12 +110,12 @@ p.quote {
     font-style: italic;
 }
 
-a.certificate-proof.icon::before {
-    content: "\f5bf";
+a.certif-proof.icon::before {
+    content: "\f56c";
 }
 
-a.certificate-proof.icon:hover:before {
-    content: "\f0a3";
+a.certif-proof.icon:hover:before {
+    content: "\f573";
 }
 
 .fa-border {
