@@ -6,6 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
         li.appendChild(text);
 
         let a = document.createElement("a");
+        a.classList.add("icon");
         a.href = "#" + header.id;
         a.appendChild(li);
 

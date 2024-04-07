@@ -78,8 +78,8 @@ ou par
 
 ## Tarifs
 
-[<i class="fa-solid fa-tags fa-flip"></i>](#premières-heures)
-_Une [réduction](#premières-heures) de 50 % vous est offerte les deux premières heures !_
+Voici mes tarifs pour les cours jusqu'au niveau lycée.
+Post-bac, le tarif de base pourra être augmenté au cas par cas.
 
 <table id="plan-rates">
     <thead>
@@ -123,6 +123,9 @@ _Une [réduction](#premières-heures) de 50 % vous est offerte les deux premiè
         </tr>
     </tbody>
 </table>
+
+[<i class="fa-solid fa-tags fa-flip"></i>](#premières-heures)
+_Une [réduction](#premières-heures) de 50 % vous est offerte les deux premières heures !_
 
 Vous pouvez régler les séries [progressivement](#option-fidélité) ou [par lot](#option-tout-en-un) (voir conditions et simulateur en [annexes](#règlement-des-séries)).
 
@@ -248,13 +251,13 @@ Afin de bénéficier d'un cadre de travail mutuellement respectueux :
 1. Les cours donnés en présentiel dans un lieu privé à un élève mineur nécessitent la présence d'un tiers.
 1. Tout cours annulé le jour même ou après 18 h la veille est dû, sauf cas de force majeure, y compris en distanciel.
 Les cours ne peuvent reprendre qu'au règlement du cours dû.
-1. Tout retard de plus de 5 min peut être décompté.
+1. Tout retard de plus de 5 min peut être facturé.
 1. Tout retard de plus de 15 min peut valoir annulation.
-1. Tout dépassement du temps de cours de plus de 5 min peut être comptabilisé.
+1. Tout dépassement du temps de cours de plus de 5 min peut être facturé.
 
 ## Premières heures
 
-Afin que vous puissiez évaluer ma prestation avant de vous engager pour plusieurs semaines, les deux premières heures sont facturées à 50 % du tarif de base chacune.
+Afin que vous puissiez évaluer ma prestation avant de vous engager pour plusieurs semaines, chacune des deux premières heures sont facturées à 50 % du tarif de base.
 À moins de compléter la différence, ces heures ne peuvent être comptabilisées dans une série.
 
 ## Règlement des séries
