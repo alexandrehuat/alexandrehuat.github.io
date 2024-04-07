@@ -288,8 +288,8 @@ Par exemple, à la fin d'une série de 8 heures, vous avez déjà réglé 7 heur
             <input name="hours" type="number" min="0"> 
         </li>
         <li>
-            <label for="group-size">Nombre d'élèves (optionnel)</label> :
-            <input name="group-size" type="number" min="1">
+            <label for="group-size">Nombre d'élèves</label> :
+            <input name="group-size" type="number" min="1" value="1">
         </li>
         <li>
             <label for="total-price">Prix total</label> :

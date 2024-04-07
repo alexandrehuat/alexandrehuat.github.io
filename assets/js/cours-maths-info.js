@@ -27,19 +27,13 @@ document.addEventListener("DOMContentLoaded", () => {
     let groupSizeInput = document.querySelector("input[name=group-size]");
     groupSizeInput.max = MAX_GROUP_SIZE;
 
-    for (let [input, min, max] of [[hoursInput, 0, Infinity], [groupSizeInput, 1, MAX_GROUP_SIZE]]) {
+    for (let [input, min, max] of [[hoursInput, 0, Infinity], [groupSizeInput, 1, MAX_GROUP_SIZE]])
         input.addEventListener("input", event => clipEventTargetValue(event, min, max));
-    }
-    for (let input of [hoursInput, firstHoursDiscountInput, groupSizeInput]) {
+    for (let input of [hoursInput, firstHoursDiscountInput, groupSizeInput])
         input.addEventListener("input", () => {
-            updatePrices(hoursInput.value, firstHoursDiscount.checked, groupSize.value);
+            updatePrices(hoursInput.value, firstHoursDiscountInput.checked, groupSizeInput.value);
         });
-    }
 })
-
-function parseBaseRate() {
-    return parseFloat(document.querySelector("input[name=base-rate]"));
-}
 
 function updatePrices(hours, firstHoursDiscount, groupSize) {
     let totalPriceOutput = document.querySelector("output[name=total-price]");
@@ -59,7 +53,7 @@ function updatePrices(hours, firstHoursDiscount, groupSize) {
 * @param {number} hours - Le nombre d'heures de cours. Un réel positif.
 */
 function computeTotalPrice(hours, firstHoursDiscount = true, groupSize = 1) {
-    let baseRate = parseBaseRate()
+    let baseRate = Number(document.querySelector("input[name=base-rate]"));
     if (groupSize > 1)
         return groupDiscount(groupSize) * computeTotalPrice(hours, firstHoursDiscount, 1)
 
@@ -84,6 +78,7 @@ function fillPlanRatesTable() {
     const baseRate = BASE_RATE;
     let tbody = document.querySelector("table#plan-rates > tbody");
     tbody.querySelector("tr.base > td.rate").textContent = EUR_FMTER.format(baseRate);
+    tbody.querySelectorAll("td.total-price, td.equiv-period").forEach(td => td.textContent = "—");
     tbody.querySelectorAll("tr.pack").forEach(tr => {
         hours = parseInt(tr.id);
         tr.querySelector("td.name").textContent = `Série de ${hours} heures`;
@@ -115,14 +110,14 @@ function groupDiscount(size) {
 */
 function fillGroupDiscountTable() {
     let tbody = document.querySelector("table#group-discount > tbody");
-    let perc_fmter = new Intl.NumberFormat(DOC_LANG, {style: "percent"});
+    let percFmter = new Intl.NumberFormat(DOC_LANG, {style: "percent"});
 
     for (let size = 2; size <= MAX_GROUP_SIZE; size++) {
         let discount = groupDiscount(size);
         let texts = [
             size,
-            perc_fmter.format(1 - discount),
-            EUR_FMTER.format(discount * parseBaseRate()),
+            percFmter.format(1 - discount),
+            EUR_FMTER.format(discount * BASE_RATE),
         ];
 
         let tr = document.createElement("tr");
@@ -140,6 +135,6 @@ function createElementWithText(tagName, text) {
 
 function clipEventTargetValue(event, min = -Infinity, max = Infinity) {
     let target = event.target;
-    let value = parseInt(target.value);
+    let value = Number(target.value);
     target.value = Math.min(max, Math.max(min, value));
 }
