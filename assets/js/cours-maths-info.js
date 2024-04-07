@@ -1,10 +1,10 @@
 const DOC_LANG = document.querySelector("html").lang;
-const BASE_HOURLY_RATE = 34;
-const PLANS = [ // must be in decreasing order of hours
-    {hours: 52, rate: 24},
-    {hours: 46, rate: 26},
-    {hours: 36, rate: 28},
-    {hours: 8, rate: 30},
+const BASE_RATE = 34;
+const PLAN_DISCOUNTS = [ // must remain in decreasing order of hours
+    {hours: 52, discount: 10},
+    {hours: 46, discount: 8},
+    {hours: 36, discount: 6},
+    {hours: 8, discount: 4},
 ];
 const N_FHD = 2; // number of first hours with discount
 const MAX_GROUP_SIZE = 4;
@@ -15,7 +15,9 @@ const EUR_FMTER = new Intl.NumberFormat(DOC_LANG, {
 });
 
 document.addEventListener("DOMContentLoaded", () => {
+    fillPlanRatesTable();
     fillGroupDiscountTable();
+    document.querySelector("input[name=base-rate]").value = BASE_RATE;
     updatePrices(null, null, null);
 
     let hoursInput = document.querySelector("input[name=hours]");
@@ -33,11 +35,14 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 })
 
+function parseBaseRate():
+    return parseFloat(document.querySelector("input[name=base-rate]"))
+
 function updatePrices(hours, firstHoursDiscount, groupSize) {
     let totalPriceOutput = document.querySelector("output[name=total-price]");
     let hourlyPriceOutput = document.querySelector("output[name=hourly-price]");
 
-    totalPrice = computeTotalPrice(hours, firstHoursDiscount, groupSize);
+    let totalPrice = computeTotalPrice(hours, firstHoursDiscount, groupSize);
     if (totalPrice === null)
         totalPriceOutput.value = hourlyPriceOutput.value = "N/A";
     else {
@@ -51,34 +56,47 @@ function updatePrices(hours, firstHoursDiscount, groupSize) {
 * @param {number} hours - Le nombre d'heures de cours. Un réel positif.
 */
 function computeTotalPrice(hours, firstHoursDiscount = true, groupSize = 1) {
+    let baseRate = parseBaseRate()
     if (groupSize > 1):
         return groupDiscount(groupSize) * computeTotalPrice(hours, firstHoursDiscount, 1)
 
     if (firstHoursDiscount) {
-        let firstHoursPrice = Math.min(N_FHD, hours) * BASE_HOURLY_RATE * (N_FHD - 1) / N_FHD;
+        let firstHoursPrice = Math.min(N_FHD, hours) * baseRate * (N_FHD - 1) / N_FHD;
         return firstHoursPrice + computeTotalPrice(hours - 2, false, groupSize);
     }
 
-    for (let plan of PLANS)
+    for (let plan of PLAN_DISCOUNTS)
         if (hours >= plan.hours) {
             let nPlans = Math.floor(hours / plan.hours);
+            let planRate = Math.max(0, baseRate - plan.discount)
+            let plansPrice = nPlans * plan.hours * planRate;
             let remainingHours = hours % plan.hours;
-            let plansPrice = nPlans * plan.hours * plan.rate;
             return plansPrice + computeTotalPrice(remainingHours, false, groupSize);
         }
 
-    return hours * BASE_HOURLY_RATE;
+    return hours * baseRate;
+}
+
+function fillPlanRatesTable() {
+    const baseRate = BASE_RATE;
+    let tbody = document.querySelector("table#plan-rates > tbody");
+    tbody.querySelector("tr.base > td.rate").textContent = EUR_FMTER.format(baseRate);
+    tbody.querySelectorAll("tr.pack").forEach(tr => {
+        hours = parseInt(tr.id);
+        tr.querySelector("td.name") = `Série de ${hours} heures`;
+        let rate = baseRate - PLAN_DISCOUNTS[hours].discount
+        tr.querySelector("td.rate").textContent = EUR_FMTER.format(rate);
+        tr.querySelector("td.total-price").textContent = EUR_FMTER.format(hours * rate);
+    });
 }
 
 /**
 * Calcule le taux de réduction dont bénéficie chaque élève dans un cours de groupe.
-* Le taux correspond à la proportion de liens entre un élève et moi parmi le nombre total de liens possibles
-* dans un graphe complet symbolisant les élèves et moi.
-* Autrement dit, en quelques sortes, il s'agit à mon influence sur le groupe.
-* L'idée est que les liens entre les élèves perturbe la prestation.
-* Je ne peux alors être rémunéré à 100% pour chaque élève.
+* Il s'agit du nombre de liens entre un élève et moi sur le nombre total de liens possibles
+* dans un graphe complet de :math:`n` élèves plus moi.
+* Autrement dit, il s'agit à mon influence sur le groupe.
 *
-* @param {number} size - La taille du groupe. Un entier supérieur à 1.
+* @param {number} size - La taille du groupe
 * @returns {number} Le taux à multiplier par le tarif initial
 */
 function groupDiscount(size) {
@@ -93,7 +111,7 @@ function groupDiscount(size) {
 * Suppose les colonnes : taille du groupe, taux de réduction, base tarifaire après réduction.
 */
 function fillGroupDiscountTable() {
-    let tbody = document.querySelector("table.group-discount > tbody");
+    let tbody = document.querySelector("table#group-discount > tbody");
     let perc_fmter = new Intl.NumberFormat(DOC_LANG, {style: "percent"});
 
     for (let size = 2; size <= MAX_GROUP_SIZE; i++) {
@@ -101,7 +119,7 @@ function fillGroupDiscountTable() {
         let texts = [
             size,
             perc_fmter.format(1 - discount),
-            EUR_FMTER.format(discount * BASE_HOURLY_RATE),
+            EUR_FMTER.format(discount * parseBaseRate()),
         ];
 
         let tr = document.createElement("tr");

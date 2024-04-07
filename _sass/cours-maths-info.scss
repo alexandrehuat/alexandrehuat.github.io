@@ -6,23 +6,23 @@ i.why-me-icon {
     font-size: 4em;
 }
 
-div.calc {
+#price-simulator {
     border-radius: var(--dinky-border-radius);
     background-color: var(--dinky-gray);
     padding: 1em;
     margin-bottom: 22px; // same as <p> in Dinky theme
 }
 
-.calc > h4 {
+#price-simulator > h4 {
     margin-top: 0;
 }
 
-.calc > ul {
+#price-simulator > ul {
     list-style-type: none;
     padding-left: 0;
     margin-bottom: 0;
 }
 
-.calc input[type=number] {
+#price-simulator input[type=number] {
     width: 6ch;
 }
