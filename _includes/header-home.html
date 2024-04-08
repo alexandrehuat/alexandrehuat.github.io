@@ -13,7 +13,7 @@
 <ul class="page-nav">
     {% for item in site.data.page-nav %}
     <a href="{{ site.baseurl }}{{ item.url }}">
-        <li><i class="fa-solid fa-{{ item.icon }} icon"></i>{{ item.title }}</li>
+        <li><i class="{{ item.icon }} icon" aria-hidden="true"></i>{{ item.title }}</li>
     </a>
     {% endfor %}
 </ul>
