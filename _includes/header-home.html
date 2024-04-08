@@ -10,14 +10,10 @@
     </a>
 </ul>
 
-<!-- TODO: rendre disponible, voir le CSS associé (regarder la classe .page-nav)
-<nav>
-    <ul class="page-nav">
-        {% for item in site.data.page-nav %}
-        <a href="{{ site.baseurl }}{{ item.url }}">
-            <li>{{ item.title }}</li>
-        </a>
-        {% endfor %}
-    </ul>
-</nav>
--->
+<ul class="page-nav">
+    {% for item in site.data.page-nav %}
+    <a href="{{ site.baseurl }}{{ item.url }}">
+        <li><i class="fa-solid fa-{{ item.icon }} icon"></i>{{ item.title }}</li>
+    </a>
+    {% endfor %}
+</ul>
