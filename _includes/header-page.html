@@ -2,17 +2,16 @@
 {% if page.date %}
 <p class="page-date">
     <i class="fa-solid fa-feather-pointed icon"></i>
-    {{ page.date | date: "%e %b %Y" }}
+    {{ page.date | date: "%d/%m/%Y" }}
 </p>
 {% endif %}
 <nav>
     <ul class="h1-nav"></ul>
     <ul class="site-nav">
-        <a href="{{ site.url }}">
-            <li>
-                <i class="fa-solid fa-house icon"></i>
-                Accueil
-            <li>
-        </a>
+<!--        <a href="{{ site.url }}">-->
+<!--            <li>-->
+<!--                <i class="home icon"></i>Accueil-->
+<!--            <li>-->
+<!--        </a>-->
     </ul>
 </nav>

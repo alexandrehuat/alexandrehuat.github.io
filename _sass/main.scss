@@ -70,6 +70,10 @@ header .icon::before {
     content: "\f113";
 }
 
+.site-nav .home.icon::before {
+    content: "\f015"; // house
+}
+
 .page-nav .icon::before {
     font: var(--fa-font-regular);
     content: "\f1ea"; // newspaper
