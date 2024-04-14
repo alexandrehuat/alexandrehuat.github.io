@@ -25,7 +25,7 @@ I also enjoy human interaction, especially through teaching and learning.
 
 ## Diplomas and Formation
 
-* _I aborted my Ph.D. studies due to health issues at the end of my 3rd year._
+* _I aborted my Ph.D. studies due to health issues at the end of my 3<sup>rd</sup> year._
 * Nov 2018 – Nov 2021. **Medical Data Science Ph.D. Student ([Cifre](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844)).** *[University of Rouen, Laboratory of Computer Science, Information Processing and Systems (LITIS), Team Quantification in Functional Imaging (QuantIF)](http://www.litislab.fr/equipe/quantif) and [Henri Becquerel Center](https://www.becquerel.fr/la-recherche/recherche-fondamentale).* Rouen, France. *See 'Work experience'.*
 * 2017 – Sep 2018 (1 year). **[Master 2 Data Science](http://mastersid.univ-rouen.fr/en/sd.php).** *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr) and [University of Rouen](http://www.univ-rouen.fr).* Saint-Étienne-du-Rouvray, France.
 * Sep 2014 – Sep 2018 (4 years). **Engineer's Degree in Computer Science,** Specialization in Data Engineering. *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr), [Department of Information Systems Architectures (ASI)](http://asi.insa-rouen.fr).* Saint-Étienne-du-Rouvray, France.
@@ -58,21 +58,21 @@ style="vertical-align: top">
 
 ## Languages
 
-### Natural
+### Human
 
 * **🇫🇷 French.** Native.
-* **🇬🇧 English.** C1.
+* **🇬🇧 English.** C1. *Weekly courses.*
 * **🇪🇸 Spanish, 🇩🇪 German, 🇲🇦 Arabic (Darija).** Notions.
 
-### Programming
+### Computer
 
-* **Python.** Advanced.
-* **HTML/CSS, JavaScript, PHP, Shell.** Intermediate.
-* **SQL, Java, C, Pascal.** Fundamental.
+* **Python, PHP, HTML/Twig, CSS, JavaScript.** Advanced.
+* **Unix Shell.** Intermediate.
+* **SQL, PowerShell, Java, C, Pascal, Prolog.** Fundamental.
 
 ## Certifications
 
-* Mar 2023. ⛑️ **Occupational First-Aid Worker ([Sauveteur Secouriste du Travail (SST)](https://www.fdmformation.fr/formation-sst)).** *Formation Dupuis Management.*
+* Feb 2023. ⛑️ **First aid: [Sauveteur Secouriste du Travail (SST)](https://www.fdmformation.fr/formation-sst).** *Formation Dupuis Management.*
 * Feb 2023. 🦺 **[Fire Evacuation](https://www.fdmformation.fr/formation-securite-incendie).** *Formation Dupuis Management.*
 * Jun 2015. 🚗 **Driving Licence**, Category B. *France.*
 * May 2017. 🇬🇧 **[TOEIC® Listening and Reading](https://www.etsglobal.org/fr/en/test-type-family/toeic-listening-and-reading-test)**, Score 905. *ETS Global.*
@@ -81,24 +81,24 @@ style="vertical-align: top">
 
 * Oct 2023 – Jan 2024. 👨🏻‍🏫 **Private Tutor in Advanced Statistics**. Based on [*Stochastic Modeling and Mathematical Statistics: A Text for Statisticians and Quantitative Scientists* (Samaniego, 2014)](https://doi.org/10.1201/b16414). Lille, France.
 * Oct 2022 – Jun 2023. 🤝 **Volunteer School Mentoring.** *[Entraide Scolaire Amicale (ESA)](https://www.entraidescolaireamicale.org/)*. Lille, France. *__Topic__—Mentoring and support classes in mathematics to a last year high school student.*
-* Feb – May 2017. 📉 **[Speed Data Scientist 2017: Failures Detection Challenge](http://speed-data-scientist.bemyapp.com), 🏅 4th Place and Best Presentation Award.** *[Société Générale](https://www.societegenerale.fr).* Paris, France.
+* Feb – May 2017. 📉 **[Speed Data Scientist 2017: Failures Detection Challenge](http://speed-data-scientist.bemyapp.com), 🏅 4<sup>th</sup> Place and Best Presentation Award.** *[Société Générale](https://www.societegenerale.fr).* Paris, France.
 * Jan – Jun 2016. 👨🏻‍🏫 **[Scientific and technological support in primary school: An introduction to robotic programming for children](https://github.com/alexandrehuat/alexandrehuat.github.io/blob/master/assets/pdf/ASTEP2016_AlexandreHuat_Rapport.pdf).** *Primary School Gérard Philipe and [National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr).* Amfreville-la-Mi-Voie, France.
 
 ## Hobbies
 
 ### Martial Arts
 
-* From Mar 2024. 🤼 **Mixed Martial Arts** 🟢 Green Grade, [Federal Instructor](https://www.fmmaf.fr/se-former/) (BF1). *[French MMA Federation](https://www.fmmaf.fr/).* Lille, France.
-* From Oct 2022. 🥋 **Judo-Jujūtsu** 🟡 Yellow Belt. *[Faubourg de Béthune Judo Club de Lille](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
-* From Sep 2012. 🥊 **Muay Thai.** *Rufin Didier and [Team Naja](https://team-naja.fr).* Rouen and Lille, France. *Instructor for beginners at [FBJCL](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).*
+* From Mar 2024. 🤼 **Mixed Martial Arts**, 2<sup>nd</sup> Degree [Federal Instructor](https://www.fmmaf.fr/se-former/), 🟢 Green Grade. *[French MMA Federation](https://www.fmmaf.fr/).*
+* From Oct 2022. 🥋 **Judo-jujūtsu**, 🟡 Yellow Belt. *[Faubourg de Béthune Judo Club de Lille](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
+* From Sep 2012. 🥊 **Muay Thai.** *Rufin Didier and [Team Naja](https://team-naja.fr).* Rouen and Lille, France.
 
 ### Sports
 
 * From Mar 2020. 🤸 **Handstand walk.**
 * From 2010. 💪 **Strength Training.** Pull-ups, push-ups, jumps, etc.
 * 2010–2022. 🏃‍♂️ **Running.**
-* 2010–2012. 🤾‍♂️ **Handball.** High school contests.
-* 2002–2008. 🎾 **Tennis.** Competitive practice.
+* 2010–2012. 🤾‍♂️ **Handball.** _High school competitions._ Bénin.
+* 2002–2008. 🎾 **Tennis.** _Competitive practice._ France.
 
 ### Music
 
