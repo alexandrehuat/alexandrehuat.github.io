@@ -74,23 +74,24 @@ style="vertical-align: top">
 
 * Feb 2023. ⛑️ **First aid: [Sauveteur Secouriste du Travail (SST)](https://www.fdmformation.fr/formation-sst).** *Formation Dupuis Management.*
 * Feb 2023. 🦺 **[Fire Evacuation](https://www.fdmformation.fr/formation-securite-incendie).** *Formation Dupuis Management.*
-* Jun 2015. 🚗 **Driving Licence**, Category B. *France.*
-* May 2017. 🇬🇧 **[TOEIC® Listening and Reading](https://www.etsglobal.org/fr/en/test-type-family/toeic-listening-and-reading-test)**, Score 905. *ETS Global.*
+* Jun 2015. 🚗 **Driving Licence,** Category B. *France.*
+* May 2017. 🇬🇧 **[TOEIC® Listening and Reading](https://www.etsglobal.org/fr/en/test-type-family/toeic-listening-and-reading-test),** Score 905. *ETS Global.*
 
 ## Other Experiences
+ 
+### Teaching
 
-* Oct 2023 – Jan 2024. 👨🏻‍🏫 **Private Tutor in Advanced Statistics**. Based on [*Stochastic Modeling and Mathematical Statistics: A Text for Statisticians and Quantitative Scientists* (Samaniego, 2014)](https://doi.org/10.1201/b16414). Lille, France.
+* Oct 2023 – Jan 2024. 👨🏻‍🏫 **Private Tutor in Advanced Statistics.** Based on [*Stochastic Modeling and Mathematical Statistics: A Text for Statisticians and Quantitative Scientists* (Samaniego, 2014)](https://doi.org/10.1201/b16414). Lille, France.
 * Oct 2022 – Jun 2023. 🤝 **Volunteer School Mentoring.** *[Entraide Scolaire Amicale (ESA)](https://www.entraidescolaireamicale.org/)*. Lille, France. *__Topic__—Mentoring and support classes in mathematics to a last year high school student.*
-* Feb – May 2017. 📉 **[Speed Data Scientist 2017: Failures Detection Challenge](http://speed-data-scientist.bemyapp.com), 🏅 4<sup>th</sup> Place and Best Presentation Award.** *[Société Générale](https://www.societegenerale.fr).* Paris, France.
 * Jan – Jun 2016. 👨🏻‍🏫 **[Scientific and technological support in primary school: An introduction to robotic programming for children](https://github.com/alexandrehuat/alexandrehuat.github.io/blob/master/assets/pdf/ASTEP2016_AlexandreHuat_Rapport.pdf).** *Primary School Gérard Philipe and [National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr).* Amfreville-la-Mi-Voie, France.
-
-## Hobbies
 
 ### Martial Arts
 
-* From Mar 2024. 🤼 **Mixed Martial Arts**, 2<sup>nd</sup> Degree [Federal Instructor](https://www.fmmaf.fr/se-former/), 🟢 Green Grade. *[French MMA Federation](https://www.fmmaf.fr/).*
-* From Oct 2022. 🥋 **Judo-jujūtsu**, 🟡 Yellow Belt. *[Faubourg de Béthune Judo Club de Lille](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
+* From Mar 2024. 🤼 **Mixed Martial Arts.** 2<sup>nd</sup> Degree [Federal Instructor](https://www.fmmaf.fr/se-former/), 🟢 Green Grade. *[French MMA Federation](https://www.fmmaf.fr/).* Lille, France. *Teaching at [Faubourg de Béthune Judo Club de Lille (FBJCL)](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).*
+* From Oct 2022. 🥋 **Judo-jujūtsu.** 🟠 Orange Belt. *[FBJCL](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
 * From Sep 2012. 🥊 **Muay Thai.** *Rufin Didier and [Team Naja](https://team-naja.fr).* Rouen and Lille, France.
+
+## Hobbies
 
 ### Sports
 
@@ -104,7 +105,6 @@ style="vertical-align: top">
 
 * 2002–2019. 🎸 **Guitar.** Classic, electric, folk.
 
-# Miscellaneous Works
+# Miscellaneous Articles
 
 * Mar 2020. **[Breaking down misconceptions on screening tests in the era of COVID-19](https://gist.github.com/alexandrehuat/f0c7854e911847ef74e79b60cbd9747c).** A Jupyter notebook explaining the interpretation of diagnostic test results and the estimation of epidemic spread based on Bayesian statistical theory.
-* Nov 2017 – Feb 2018. **[gflsegpy: A Python 3 implementation of the group fused Lasso for multiple change-point detection](https://github.com/alexandrehuat/gflsegpy).** This project implements the group fused Lasso (GFL) of [Bleakley and Vert, 2011](https://arxiv.org/abs/1106.4199): A method to detect breakpoints in multidimensional signals. The gflsegpy package provides an implementation of two GFL algorithms plus a demo script and a data visualization module.
