@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    let ul = document.querySelector("ul.h1-nav");
+    let ul = document.querySelector(".h1-nav");
     document.querySelectorAll("h1").forEach(header => {
         let a = document.createElement("a");
         a.href = "#" + header.id;

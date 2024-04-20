@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="{{ include.lang | default: 'en-US' }}" xmlns="http://www.w3.org/1999/html">
+<head>
+    {% include head-dinky.html %}
+    {% include head-custom.html %}
+    <script src="../assets/js/h1-nav.js"></script>
+</head>
+<body>
+<div class="wrapper">
+    <header>
+        {% include include.headerFile %}
+    </header>
+    {% include section-footer.html %}
+</div>
+<script>fixScale(document);</script> <!--[if !IE]-->
+</body>
+</html>

@@ -12,9 +12,9 @@ I am a French computer science engineer working in medical data science in [Lill
 My favorite languages are mathematics and [Python](https://www.python.org/) but I can get by with other languages.
 I also enjoy human interaction, especially through teaching and learning.
 
-# Curriculum Vitae
+See my curriculum vitae below and access my various articles from the left panel.
 
-## Work Experience
+# Work Experience
 
 * From Nov 2021. **R&D Engineer in Data Science.** *[AQUILAB](https://www.aquilab.com/).* Loos, France. *__Topic__—Development of data analytics modules for a web platform managing clinical trials. Back-end and front-end work. Research projects guidance.*
 * Nov 2018 – Nov 2021 (3 years). **Medical Data Science Ph.D. Student ([Cifre](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844)).** *[AQUILAB](https://www.aquilab.com/).* Loos, France. *__Topic__—Research of radiomics signatures in head-and-neck and pulmonary cancers treated with radiotherapy based on machine learning approches.*
@@ -23,7 +23,7 @@ I also enjoy human interaction, especially through teaching and learning.
 * Jun – Aug 2017 (3 months). **Data Scientist Intern.** *[Vekia](http://www.vekia.fr).* Lille, France. *__Topic__—Development of a Python module for detecting suspicious stocks—phantom inventories—with machine learning techniques.*
 * Jul 2013 (4 weeks). **Production Workman Intern.** *[Ressorts Masselin](http://www.masselin.com).* Le Petit-Quevilly, France. _**Topic**—Manufacturing of cold springs (rolling, grinding, shot peening), quality controlling and packaging._
 
-## Diplomas and Formation
+# Diplomas and Formation
 
 * _I aborted my Ph.D. studies due to health issues at the end of my 3<sup>rd</sup> year._
 * Nov 2018 – Nov 2021. **Medical Data Science Ph.D. Student ([Cifre](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844)).** *[University of Rouen, Laboratory of Computer Science, Information Processing and Systems (LITIS), Team Quantification in Functional Imaging (QuantIF)](http://www.litislab.fr/equipe/quantif) and [Henri Becquerel Center](https://www.becquerel.fr/la-recherche/recherche-fondamentale).* Rouen, France. *See 'Work experience'.*
@@ -32,12 +32,12 @@ I also enjoy human interaction, especially through teaching and learning.
 * Sep 2012 – Jun. 2014 (2 years). **Higher Schools Preparatory Classes,** Specialization in Computer Science and Mathematics. *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr), Department of Sciences and Skills for Engineering.* Saint-Étienne-du-Rouvray, France.
 * Jul 2012. **French Baccalaureate of Sciences,** **_Magna Cum Laude,_** Specialization in Earth and Life Sciences. *French School Abroad Montaigne.* Cotonou, Benin.
 
-## Skills
+# Skills
 
 * **Technical:** statistics and machine learning, medical imaging, software engineering.
 * **Personal:** sharp-minded, leader, empathic.
 
-## Publications
+# Publications
 
 <a
 id="cy-effective-orcid-url"
@@ -56,44 +56,44 @@ style="vertical-align: top">
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Falexandrehuat%2Falexandrehuat.github.io%2Fmaster%2Fmy_publications.bib&jsonp=1&folding=1&commas=1"></script>
 </div>
 
-## Languages
+# Languages
 
-### Human
+## Human
 
 * **🇫🇷 French.** Native.
-* **🇬🇧 English.** C1. *Weekly courses.*
+* **🇬🇧 English.** C1.
 * **🇪🇸 Spanish, 🇩🇪 German, 🇲🇦 Arabic (Darija).** Notions.
 
-### Computer
+## Computer
 
 * **Python, PHP, HTML/Twig, CSS, JavaScript.** Advanced.
 * **Unix Shell.** Intermediate.
 * **SQL, PowerShell, Java, C, Pascal, Prolog.** Fundamental.
 
-## Certifications
+# Certifications
 
-* Feb 2023. ⛑️ **First aid: [Sauveteur Secouriste du Travail (SST)](https://www.fdmformation.fr/formation-sst).** *Formation Dupuis Management.*
+* Feb 2023. ⛑️ **First Aid: [Sauveteur Secouriste du Travail (SST)](https://www.fdmformation.fr/formation-sst).** *Formation Dupuis Management.*
 * Feb 2023. 🦺 **[Fire Evacuation](https://www.fdmformation.fr/formation-securite-incendie).** *Formation Dupuis Management.*
 * Jun 2015. 🚗 **Driving Licence,** Category B. *France.*
 * May 2017. 🇬🇧 **[TOEIC® Listening and Reading](https://www.etsglobal.org/fr/en/test-type-family/toeic-listening-and-reading-test),** Score 905. *ETS Global.*
 
-## Other Experiences
+# Other Experiences
  
-### Teaching
+## Teaching
 
 * Oct 2023 – Jan 2024. 👨🏻‍🏫 **Private Tutor in Advanced Statistics.** Based on [*Stochastic Modeling and Mathematical Statistics: A Text for Statisticians and Quantitative Scientists* (Samaniego, 2014)](https://doi.org/10.1201/b16414). Lille, France.
 * Oct 2022 – Jun 2023. 🤝 **Volunteer School Mentoring.** *[Entraide Scolaire Amicale (ESA)](https://www.entraidescolaireamicale.org/)*. Lille, France. *__Topic__—Mentoring and support classes in mathematics to a last year high school student.*
 * Jan – Jun 2016. 👨🏻‍🏫 **[Scientific and technological support in primary school: An introduction to robotic programming for children](https://github.com/alexandrehuat/alexandrehuat.github.io/blob/master/assets/pdf/ASTEP2016_AlexandreHuat_Rapport.pdf).** *Primary School Gérard Philipe and [National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr).* Amfreville-la-Mi-Voie, France.
 
-### Martial Arts
+## Martial Arts
 
 * From Mar 2024. 🤼 **Mixed Martial Arts.** 2<sup>nd</sup> Degree [Federal Instructor](https://www.fmmaf.fr/se-former/), 🟢 Green Grade. *[French MMA Federation](https://www.fmmaf.fr/).* Lille, France. *Teaching at [Faubourg de Béthune Judo Club de Lille (FBJCL)](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).*
 * From Oct 2022. 🥋 **Judo-jujūtsu.** 🟠 Orange Belt. *[FBJCL](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
 * From Sep 2012. 🥊 **Muay Thai.** *Rufin Didier and [Team Naja](https://team-naja.fr).* Rouen and Lille, France.
 
-## Hobbies
+# Hobbies
 
-### Sports
+## Sports
 
 * From Mar 2020. 🤸 **Handstand walk.**
 * From 2010. 💪 **Strength Training.** Pull-ups, push-ups, jumps, etc.
@@ -101,10 +101,10 @@ style="vertical-align: top">
 * 2010–2012. 🤾‍♂️ **Handball.** _High school competitions._ Bénin.
 * 2002–2008. 🎾 **Tennis.** _Competitive practice._ France.
 
-### Music
+## Music
 
 * 2002–2019. 🎸 **Guitar.** Classic, electric, folk.
 
-# Miscellaneous Articles
+# Articles
 
-* Mar 2020. **[Breaking down misconceptions on screening tests in the era of COVID-19](https://gist.github.com/alexandrehuat/f0c7854e911847ef74e79b60cbd9747c).** A Jupyter notebook explaining the interpretation of diagnostic test results and the estimation of epidemic spread based on Bayesian statistical theory.
+* Mar 2020. **[Breaking down misconceptions on screening tests in the era of COVID-19](https://gist.github.com/alexandrehuat/f0c7854e911847ef74e79b60cbd9747c).** _A Jupyter notebook explaining the interpretation of diagnostic test results and the estimation of epidemic spread based on Bayesian statistical theory._
