@@ -3,8 +3,7 @@
     --dinky-red: #C30000;
     --dinky-gray: #CCC;
     --dinky-bg-gray: #FBFAF7;
-    --dinky-border-radius: 4px;
-
+    --dinky-border-radius: 1ex;
     --linkedin-blue: #0B66C2;
 }
 
@@ -91,19 +90,23 @@ th, td {
 	border-radius: 50%;
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    border-radius: var(--dinky-border-radius);
+}
+
 img.small {
 	max-width: 144px;
 }
 
 img.float-right {
 	float: right;
-	margin-left: 16px;
-}
-
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+	margin-left: 1em;
 }
 
 ul.quote {
@@ -111,7 +114,7 @@ ul.quote {
 }
 
 p.quote {
-    margin-left: 4ch;
+    margin-left: 1em;
 }
 
 .quote .content  {
