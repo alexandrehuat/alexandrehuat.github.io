@@ -97,15 +97,15 @@ Below is my detailed _curriculum vitae_.
 
 ## Personal
 
-* ✅ Solution-oriented
-* 🎯 Rigorous
-* 🖌️ Creative
+* Solution-oriented
+* Rigorous
+* Creative
 
 ## Relational
 
-* 🚀 Leader
-* 🕊️ Empathic
-* 📖 Knowledge sharing
+* Leader
+* Empathic
+* Knowledge sharing
 
 # Languages
 
@@ -153,7 +153,6 @@ Below is my detailed _curriculum vitae_.
 
 🥊 **Muay Thai, Muay Boran and Lethwei:** 🟤 Brown Praciat. `Sep. 2012 – Present (> 12 years).` *Kru Rufin Didier, [Team Naja](https://team-naja.fr) and Self-Taught.* Rouen and Lille, France.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Krabi_Krabong_Buddhai_Swan_1.jpg" alt="Krabi-krabong fighters" class="float-right small border-thin">
 ⚔️ **Krabi-krabong:** Intermediate level. *Kru Rufin Didier and Self-Taught.* Rouen and Lille, France
 
 ## Sports
