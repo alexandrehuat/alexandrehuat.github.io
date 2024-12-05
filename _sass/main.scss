@@ -52,11 +52,11 @@ header a:hover {
 }
 
 header .icon::before {
-    margin-right: 1ch;
+    margin-right: 1ex;
 }
 
 .download.icon::before {
-    content: "\f019"
+    content: "\f019";
 }
 
 .github.icon::before {
@@ -127,6 +127,15 @@ a.certif-proof.icon::before {
 
 a.certif-proof.icon:hover:before {
     content: "\f0a3";
+}
+
+.pdf.icon::before {
+    font: var(--fa-font-regular);
+    content: "\f1c1";
+}
+
+a.pdf.icon:hover::before {
+    font: var(--fa-font-solid);
 }
 
 .fa-border, .border-thin {
