@@ -25,7 +25,7 @@ Below is my detailed _curriculum vitae_.
 `Nov. 2018 – Nov. 2021 (3 years).` **[CIFRE](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844) Ph.D. Student in Health Data Science.** *[AQUILAB by Coexya](https://www.aquilab.com/).* Loos, France.
 * Research of radiomics signatures in head-and-neck and pulmonary cancers treated with radiotherapy based on machine learning approches.
 
-`Mar. – Aug. 2018 (6 months)`  **Computer Science Research Intern.** *[National Institute for Research in Digital Science and Technology (INRIA) of Lille](https://www.inria.fr/centre/lille), [Project-team MAchine learninG in information NETworks (MAGNET)](https://team.inria.fr/magnet).* Lille, France.
+`Mar. – Aug. 2018 (6 months).`  **Computer Science Research Intern.** *[National Institute for Research in Digital Science and Technology (INRIA) of Lille](https://www.inria.fr/centre/lille), [Project-team MAchine learninG in information NETworks (MAGNET)](https://team.inria.fr/magnet).* Lille, France.
 * Improvement of GOssip Private Averaging (GOPA), a privacy-preserving algorithm for distributed averaging over peer-to-peer networks.
 * Enhancing robustness against malicious users and disconnections.
 
@@ -38,7 +38,7 @@ Below is my detailed _curriculum vitae_.
 * Evaluation and development of a Python module for detecting suspicious inventories using machine learning algorithms.
 * Development of a suspicious inventories simulator.
 
-`Jul. 2013 (4 weeks)` **Production Workman Intern.** *[Ressorts Masselin](http://www.masselin.com).* Le Petit-Quevilly, France.
+`Jul. 2013 (4 weeks).` **Production Workman Intern.** *[Ressorts Masselin](http://www.masselin.com).* Le Petit-Quevilly, France.
 * Cold springs manufacturing, quality controlling and packaging.
 
 # Diplomas and Formation
@@ -52,7 +52,7 @@ Below is my detailed _curriculum vitae_.
 
 `Sep. 2014 – Sep. 2018 (4 years).` **Engineer's Degree in Computer Science,** Spe. Data Engineering. *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr),* [Dept. Information Systems Architectures (ASI)](http://asi.insa-rouen.fr). Saint-Étienne-du-Rouvray, France.
 
-`Sep. 2012 – Jun. 2014 (2 years).` **Higher Schools Preparatory Classes,** Spe. Computer Science and Mathematics. *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr), Dept. Sciences and Skills for Engineering (STPI).* Saint-Étienne-du-Rouvray, France.
+`Sep. 2012 – Jun. 2014 (2 years).` **Higher School Preparatory Classes,** Spe. Computer Science and Mathematics. *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr), Dept. Sciences and Skills for Engineering (STPI).* Saint-Étienne-du-Rouvray, France.
 
 `Jul. 2012.` **French Baccalaureate of Sciences,** Spe. Earth and Life Sciences. *French School Abroad Montaigne.* Cotonou, Benin.
 * 🎖️ _Magna Cum Laude_
@@ -61,12 +61,11 @@ Below is my detailed _curriculum vitae_.
 
 ## Technical
 
-### General
 * Statistics and Machine Learning
 * Medical Imaging
 * Software Architecture and Development
 
-### Programming
+## Programming
 * **Python.** Advanced.
 * **PHP, HTML/Twig, CSS, JavaScript.** Advanced.
 * **SQL.** Fundamental.
@@ -81,13 +80,15 @@ Below is my detailed _curriculum vitae_.
 ## Relational
 * Leader
 * Empathic
-* Popularization and Teaching
+* Knowledge Sharing
 
 # Languages
 
-* 🇫🇷 **French.** Native.
-* 🇬🇧 **English.** C1.
-* 🇪🇸 **Spanish,** 🇩🇪 **German,** 🇲🇦 **Arabic (Darija).** Notions.
+🇫🇷 **French.** Native.
+
+🇬🇧 **English.** C1.
+
+🇪🇸 **Spanish,** 🇩🇪 **German,** 🇲🇦 **Arabic (Darija).** Notions.
 
 # Publications
 
