@@ -25,7 +25,7 @@ Below is my detailed _curriculum vitae_.
 `Nov. 2018 – Nov. 2021 (3 years).` **[CIFRE](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844) Ph.D. Student in Health Data Science.** *[AQUILAB by Coexya](https://www.aquilab.com/).* Loos, France.
 * Research of radiomics signatures in head-and-neck and pulmonary cancers treated with radiotherapy based on machine learning approches.
 
-`Mar. – Aug. 2018 (6 months).`  **Computer Science Research Intern.** *[National Institute for Research in Digital Science and Technology (INRIA) of Lille](https://www.inria.fr/centre/lille), [Project-team MAchine learninG in information NETworks (MAGNET)](https://team.inria.fr/magnet).* Lille, France.
+`Mar. – Aug. 2018 (6 months).`  **Computer Science Research Intern.** *[National Institute for Research in Digital Science and Technology (INRIA) of Lille](https://www.inria.fr/centre/lille), [Project-team MAchine learninG in information NETworks (MAGNET)](https://team.inria.fr/magnet).* Villeneuve-d'Ascq, France.
 * Improvement of GOssip Private Averaging (GOPA), a privacy-preserving algorithm for distributed averaging over peer-to-peer networks.
 * Enhancing robustness against malicious users and disconnections.
 
@@ -84,11 +84,11 @@ Below is my detailed _curriculum vitae_.
 
 # Languages
 
-🇫🇷 **French.** Native.
-
-🇬🇧 **English.** C1.
-
-🇪🇸 **Spanish,** 🇩🇪 **German,** 🇲🇦 **Arabic (Darija).** Notions.
+* 🇫🇷 **French.** Native.
+* 🇬🇧 **English.** C1.
+* 🇪🇸 **Spanish.** Notions.
+* 🇩🇪 **German.** Notions.
+* 🇲🇦 **Arabic (Darija).** Notions.
 
 # Publications
 
@@ -110,18 +110,18 @@ Below is my detailed _curriculum vitae_.
 
 ## Other Articles
 
-`Mar 2020.` **[Breaking down misconceptions on screening tests in the era of COVID-19](https://gist.github.com/alexandrehuat/f0c7854e911847ef74e79b60cbd9747c).**
+`Mar. 2020.` **[Breaking down misconceptions on screening tests in the era of COVID-19](https://gist.github.com/alexandrehuat/f0c7854e911847ef74e79b60cbd9747c).**
 * A Jupyter notebook explaining the interpretation of diagnostic test results and the estimation of epidemic spread based on Bayesian statistical theory.
 
 # Certifications
 
-`Feb 2023.` ⛑️ **First Aid: [Sauveteur Secouriste du Travail (SST)](https://www.fdmformation.fr/formation-sst).** *Formation Dupuis Management.*
+`Feb. 2023.` ⛑️ **First Aid, [Sauveteur Secouriste du Travail (SST)](https://www.fdmformation.fr/formation-sst).** *Formation Dupuis Management.* Loos, France.
 
-`Feb 2023.` 🦺 **[Fire Evacuation](https://www.fdmformation.fr/formation-securite-incendie).** *Formation Dupuis Management.*
+`Feb. 2023.` 🦺 **[Fire Evacuation](https://www.fdmformation.fr/formation-securite-incendie).** *Formation Dupuis Management.* Loos, France.
 
-`Jun 2015.` 🚗 **Driving Licence,** Category B. *France.*
+`Jun. 2015.` 🚗 **Driving Licence,** Category B. Rouen, France.
 
-`May 2017.` 🇬🇧 **[TOEIC® Listening and Reading](https://www.etsglobal.org/fr/en/test-type-family/toeic-listening-and-reading-test),** Score 905. *ETS Global.*
+`May. 2017.` 🇬🇧 **[TOEIC® Listening and Reading](https://www.etsglobal.org/fr/en/test-type-family/toeic-listening-and-reading-test),** Score 905. *ETS Global.* Rouen, France.
 
 # Volunteer Experience
 
