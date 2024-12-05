@@ -73,14 +73,14 @@ Below is my detailed _curriculum vitae_.
 * **Java, C, Pascal, Prolog.** Fundamental.
 
 ## Personal
-* Solution-Oriented
+* Solution-oriented
 * Rigorous
 * Creative
 
 ## Relational
 * Leader
 * Empathic
-* Knowledge Sharing
+* Knowledge sharing
 
 # Languages
 
