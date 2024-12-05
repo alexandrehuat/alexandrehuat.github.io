@@ -17,7 +17,7 @@ Below is my detailed _curriculum vitae_.
 
 # Work Experience
 
-**Data Science Engineer.** `Nov. 2021 – Present (>6 years).` *[AQUILAB by Coexya](https://www.aquilab.com/).* Loos, France.
+**Data Science Engineer.** `Nov. 2021 – Present (> 6 years).` *[AQUILAB by Coexya](https://www.aquilab.com/).* Loos, France.
 * Development of data analysis modules for a web platform managing clinical trials.
 * Back-end and front-end work.
 * Research projects guidance.
@@ -26,7 +26,7 @@ Below is my detailed _curriculum vitae_.
 * "Research of radiomics signatures in head-and-neck and pulmonary cancers treated with radiotherapy based on machine learning approches."
 * Medical image processing, survival analysis and radiotherapy data quality assurance.
 
-**Computer Science Research Intern.** `Mar. – Aug. 2018 (6 months).` *[National Institute for Research in Digital Science and Technology (INRIA) of Lille](https://www.inria.fr/centre/lille), [Project-team MAchine learninG in information NETworks (MAGNET)](https://team.inria.fr/magnet).* Villeneuve-d'Ascq, France.
+**Computer Science Research Intern.** `Mar. – Aug 2018 (6 months).` *[National Institute for Research in Digital Science and Technology (INRIA) of Lille](https://www.inria.fr/centre/lille), [Project-team MAchine learninG in information NETworks (MAGNET)](https://team.inria.fr/magnet).* Villeneuve-d'Ascq, France.
 * Improvement of GOssip Private Averaging (GOPA), a privacy-preserving algorithm for distributed averaging over peer-to-peer networks.
 * Enhancing robustness against malicious users and disconnections.
 
@@ -123,11 +123,11 @@ Below is my detailed _curriculum vitae_.
 
 🚗 **Driving Licence, Category B.** `Jun. 2015.` Rouen, France.
 
-🇬🇧 **[TOEIC® Listening and Reading](https://www.etsglobal.org/fr/en/test-type-family/toeic-listening-and-reading-test),** Score 905. `May. 2017.` *ETS Global.* Rouen, France.
+🇬🇧 **[TOEIC® Listening and Reading](https://www.etsglobal.org/fr/en/test-type-family/toeic-listening-and-reading-test),** Score 905. `May 2017.` *ETS Global.* Rouen, France.
 
 # Volunteer Experience
 
-🤼 **Junior Mixed Martial Arts Instructor.** `Apr. 2023 – Present.` _[Faubourg de Béthune Judo Club de Lille (FBJCL)](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com)._ Lille, France.
+🤼 **Junior Mixed Martial Arts Instructor.** `Apr. 2023 – Present (> 1 year).` _[Faubourg de Béthune Judo Club de Lille (FBJCL)](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com)._ Lille, France.
 
 🤝 **Academic Mentor.**
 * `Sep. 2024 – Present.` Lille, France.
@@ -147,18 +147,18 @@ Below is my detailed _curriculum vitae_.
 
 ## Martial Arts
 
-🤼 **Mixed Martial Arts (MMA):** 2<sup>nd</sup> Degree [Federal Instructor](https://www.fmmaf.fr/se-former/), 🟢 Green Grade. `Sep. 2022 – Present (>2 years).` *[French MMA Federation](https://www.fmmaf.fr/).* Lille, France.
+🤼 **Mixed Martial Arts (MMA):** 2<sup>nd</sup> Degree [Federal Instructor](https://www.fmmaf.fr/se-former/), 🟢 Green Grade. `Sep. 2022 – Present (> 2 years).` *[French MMA Federation](https://www.fmmaf.fr/).* Lille, France.
 
-🥋 **Judo and Jujutsu:** 🟠 Orange Belt. `Oct. 2022 – Present (>2 years).` *[Faubourg de Béthune Judo Club de Lille (FBJCL)](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
+🥋 **Judo and Jujutsu:** 🟠 Orange Belt. `Oct. 2022 – Present (> 2 years).` *[Faubourg de Béthune Judo Club de Lille (FBJCL)](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
 
-🥊 **Muay Thai, Muay Boran and Lethwei:** 🟤 Brown Praciat. `Sep. 2012 – Present (>12 years).` *Kru Rufin Didier, [Team Naja](https://team-naja.fr) and Self-Taught.* Rouen and Lille, France.
+🥊 **Muay Thai, Muay Boran and Lethwei:** 🟤 Brown Praciat. `Sep. 2012 – Present (> 12 years).` *Kru Rufin Didier, [Team Naja](https://team-naja.fr) and Self-Taught.* Rouen and Lille, France.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Krabi_Krabong_Buddhai_Swan_1.jpg" alt="Krabi-krabong fighters" width="96" style="float: right; margin-left: 2em; border-radius: 1em;">
 ⚔️ **Krabi-krabong:** Intermediate level. *Kru Rufin Didier and Self-Taught.* Rouen and Lille, France
 
 ## Sports
 
-🤸 **Handstand Walking.** `Mar. 2020 – Present (>4 years).` Lille, France.
+🤸 **Handstand Walking.** `Mar. 2020 – Present (> 4 years).` Lille, France.
 * Training for a world record attempt.
 
 🤾‍♂️ **Handball.** `Sep. 2010 – Jul. 2012 (2 years). ` _[French School Abroad Montaigne](https://efemontaigne-cotonou.com/)._ Cotonou, Bénin.
@@ -167,12 +167,12 @@ Below is my detailed _curriculum vitae_.
 
 ## Music
 
-🎸 **Guitar.** `Sep. 2002 – Present (>22 years).`
+🎸 **Guitar.** `Sep. 2002 – Present (> 22 years).`
 * Classic, electric, folk.
 * Blues, jazz, oriental, and a lot of improvisation.
 
 ## Other
 
-🤵 **Game Animation.** `Jul. 2024 – Present.`
+🤵 **Game Animation.** `Jul. 2024 – Present (> 5 months).`
 * Organization and animation of custom editions of _[Who Wants to Be a Millionaire?](https://en.wikipedia.org/wiki/Who_Wants_to_Be_a_Millionaire%3F)_ for colleagues and friends.
 * 🐙 Development of a [graphical game interface](https://github.com/alexandrehuat/who-wants-to-be-a-millionaire) using Tkinter in Python.
