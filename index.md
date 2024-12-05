@@ -31,7 +31,7 @@ Below is my detailed _curriculum vitae_.
 * Enhancing robustness against malicious users and disconnections.
 
 **Lead Junior Python Developer.** `Jan. 2017 – Jan. 2018 (1 year).` *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr) and [Henri Becquerel Center](http://www.becquerel.fr).* Saint-Étienne-du-Rouvray, France.
-* 🏅 [Unicancer Innovation Award 2017: Management and Research Award](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)
+* <i class="fa-solid fa-award"></i> [Unicancer Innovation Award 2017: Management and Research Award](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)
 * Conception and development of a Python user interface for the segmentation of cancer patients' CT scans.
 * Automated slice localization using a Keras-implemented fully convolutional deep neural networks (FCN).
 * ISO9001:2015 certified project.
@@ -57,7 +57,7 @@ Below is my detailed _curriculum vitae_.
 **Undergraduate General Engineering, Spe. Computer Science and Mathematics.** `Sep. 2012 – Jun. 2014 (2 years).` *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr), Dept. Engineering Sciences and Techniques (STPI).* Saint-Étienne-du-Rouvray, France.
 
 **French Baccalaureate of Sciences, Spe. Earth and Life Sciences.** `Jul. 2012.` *French School Abroad Montaigne.* Cotonou, Benin.
-* 🎖️ _Magna Cum Laude_
+* <i class="fa-solid fa-award"></i> _Magna Cum Laude_
 
 # Publications
 
@@ -117,19 +117,17 @@ Below is my detailed _curriculum vitae_.
 
 # Certifications
 
-⛑️ **First Aid, [Sauveteur Secouriste du Travail (SST)](https://www.fdmformation.fr/formation-sst).** `Feb. 2023.` *Formation Dupuis Management.* Loos, France.
+<i class="fa-solid fa-kit-medical"></i> **First Aid, [Sauveteur Secouriste du Travail (SST)](https://www.fdmformation.fr/formation-sst).** `Feb. 2023.` *Formation Dupuis Management.* Loos, France.
 
-🦺 **[Fire Evacuation](https://www.fdmformation.fr/formation-securite-incendie).** `Feb. 2023.` *Formation Dupuis Management.* Loos, France.
+<i class="fa-solid fa-house-fire"></i> **[Fire Evacuation](https://www.fdmformation.fr/formation-securite-incendie).** `Feb. 2023.` *Formation Dupuis Management.* Loos, France.
 
-🚗 **Driving Licence, Category B.** `Jun. 2015.` Rouen, France.
+<i class="fa-solid fa-car"></i> **Driving Licence, Category B.** `Jun. 2015.` Rouen, France.
 
 🇬🇧 **[TOEIC® Listening and Reading](https://www.etsglobal.org/fr/en/test-type-family/toeic-listening-and-reading-test),** Score 905. `May 2017.` *ETS Global.* Rouen, France.
 
 # Volunteer Experience
 
-🤼 **Junior Mixed Martial Arts Instructor.** `Apr. 2023 – Present (> 1 year).` _[Faubourg de Béthune Judo Club de Lille (FBJCL)](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com)._ Lille, France.
-
-🤝 **Academic Mentor.**
+<i class="fa-solid fa-handshake-angle"></i> **Academic Mentor.**
 * `Sep. 2024 – Present.` Lille, France.
   * Mentoring and tutoring for a first-year IT student.
 * `Apr. 2024 – Sep. 2024 (6 months).` _[JobIRL](https://www.jobirl.com/)_ Lille, France.
@@ -137,11 +135,13 @@ Below is my detailed _curriculum vitae_.
 * `Oct. 2022 – Jun. 2023 (1 year).` *[Entraide Scolaire Amicale (ESA)](https://www.entraidescolaireamicale.org/)*. Lille, France.
   * Mentoring and tutoring in mathematics for a final-year high school student.
 
-👨🏻‍🏫 **Private Tutor in Advanced Statistics.** `Oct. 2023 – Jan. 2024 (3 months).` Lille, France.
+<i class="fa-solid fa-chalkboard-user"></i> **Private Tutor in Advanced Statistics.** `Oct. 2023 – Jan. 2024 (3 months).` Lille, France.
 * Based on [*Stochastic Modeling and Mathematical Statistics: A Text for Statisticians and Quantitative Scientists* (Samaniego, 2014)](https://doi.org/10.1201/b16414).
 
-👨🏻‍🏫 **Scientific and Technological Support in Primary School: Introducing robotic programming to children.** `Jan. – Jun. 2016 (6 months).` *Primary School Gérard Philipe and [National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr).* Amfreville-la-Mi-Voie, France.
-* 📑 [Activity report](https://github.com/alexandrehuat/alexandrehuat.github.io/blob/master/assets/pdf/ASTEP2016_AlexandreHuat_Rapport.pdf)
+<i class="fa-solid fa-chalkboard-user"></i> **Scientific and Technological Support in Primary School: Introducing robotic programming to children.** `Jan. – Jun. 2016 (6 months).` *Primary School Gérard Philipe and [National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr).* Amfreville-la-Mi-Voie, France.
+* <i class="fa-solid fa-file-pdf"></i> [Activity report](https://github.com/alexandrehuat/alexandrehuat.github.io/blob/master/assets/pdf/ASTEP2016_AlexandreHuat_Rapport.pdf)
+
+🤼 **Junior Mixed Martial Arts (MMA) Instructor.** `Apr. 2023 – Present (> 1 year).` _[Faubourg de Béthune Judo Club de Lille (FBJCL)](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com)._ Lille, France.
 
 # Hobbies
 
