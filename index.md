@@ -43,7 +43,7 @@ Below is my detailed _curriculum vitae_.
 
 # Diplomas and Formation
 
-`Nov. 2018 – Nov. 2021 (3 years).` **Health Data Science [Cifre](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844) Ph.D. Student.** *[University of Rouen, Laboratory of Computer Science, Information Processing and Systems (LITIS), Team Quantification in Functional Imaging (QuantIF)](http://www.litislab.fr/equipe/quantif) and [Henri Becquerel Center](https://www.becquerel.fr/la-recherche/recherche-fondamentale).* Rouen, France.
+`Nov. 2018 – Nov. 2021 (3 years).` **Health Data Science [CIFRE](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844) Ph.D. Student.** *[University of Rouen, Laboratory of Computer Science, Information Processing and Systems (LITIS), Team Quantification in Functional Imaging (QuantIF)](http://www.litislab.fr/equipe/quantif) and [Henri Becquerel Center](https://www.becquerel.fr/la-recherche/recherche-fondamentale).* Rouen, France.
 * See the corresponding [work experience](#work-experience).
 * _Note: I aborted my Ph.D. studies due to health issues at the beginning of my 4<sup>th</sup> year._
 
