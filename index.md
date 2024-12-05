@@ -50,9 +50,9 @@ Below is my detailed _curriculum vitae_.
 `Sep. 2017 – Sep. 2018 (1 year).` **[Master 2 Data Science](http://mastersid.univ-rouen.fr/en/sd.php).** *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr) and [University of Rouen](http://www.univ-rouen.fr).* Saint-Étienne-du-Rouvray, France.
 * Dual-degree paired with my engineer's degree.
 
-`Sep. 2014 – Sep. 2018 (4 years).` **Engineer's Degree in Computer Science,** Spe. Data Engineering. *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr),* [Dept. Information Systems Architectures (ASI)](http://asi.insa-rouen.fr). Saint-Étienne-du-Rouvray, France.
+`Sep. 2014 – Sep. 2018 (4 years).` **Computer Science Engineer's Degree,** Spe. Data Engineering. *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr), [Dept. Information Systems Architectures (ASI)](http://asi.insa-rouen.fr).* Saint-Étienne-du-Rouvray, France.
 
-`Sep. 2012 – Jun. 2014 (2 years).` **Higher School Preparatory Classes,** Spe. Computer Science and Mathematics. *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr), Dept. Sciences and Skills for Engineering (STPI).* Saint-Étienne-du-Rouvray, France.
+`Sep. 2012 – Jun. 2014 (2 years).` **Undergraduate General Engineering,** Spe. Computer Science and Mathematics. *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr), Dept. Engineering Sciences and Techniques (STPI).* Saint-Étienne-du-Rouvray, France.
 
 `Jul. 2012.` **French Baccalaureate of Sciences,** Spe. Earth and Life Sciences. *French School Abroad Montaigne.* Cotonou, Benin.
 * 🎖️ _Magna Cum Laude_
