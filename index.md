@@ -63,9 +63,9 @@ Jul. 2012. **French Baccalaureate of Sciences, Spe. Earth and Life Sciences.** *
 
 ## Technical
 
-* Statistics and Machine Learning
-* Medical Imaging
-* Software Architecture and Development
+* Statistics and machine learning
+* Medical image processing
+* Software architecture and development
 
 ## Programming
 * **Python.** Advanced.
