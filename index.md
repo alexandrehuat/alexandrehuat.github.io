@@ -8,13 +8,12 @@ layout: home
   Certains mots et icônes peuvent être altérés.
 </smaller>
 
-<img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/637.png" alt="Sun Moth" width="144" style="float: right; margin-left: 2em; border-radius: 2em;">
+<img src="https://www.pokepedia.fr/images/4/47/Pyrax-NB.png" alt="Sun Moth" width="144" style="float: right; margin-left: 2em;">
 
-I am a French data science engineer working in health care in [Lille](https://goo.gl/maps/Hhj2u9o7F45jnyJi8).
+I am a French health data science engineer working in [Lille, France](https://goo.gl/maps/Hhj2u9o7F45jnyJi8).
 My favorite languages are mathematics and [Python](https://www.python.org/), but I can get by with other languages.
 I also enjoy social exchange, particularly through learning and teaching.
-
-See my curriculum vitae below and access my various articles from the left panel.
+Below is my detailed _curriculum vitae_.
 
 # Work Experience
 
