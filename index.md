@@ -8,7 +8,7 @@ layout: home
   Certains mots et icônes peuvent être altérés.
 </smaller>
 
-<img src="[https://www.pokepedia.fr/images/4/47/Pyrax-NB.png](https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/637.png)" alt="Sun Moth" width="144" style="float: right; margin-left: 2em; border-radius: 2em;">
+<img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/637.png" alt="Sun Moth" width="144" style="float: right; margin-left: 2em; border-radius: 2em;">
 
 I am a French data science engineer working in health care in [Lille](https://goo.gl/maps/Hhj2u9o7F45jnyJi8).
 My favorite languages are mathematics and [Python](https://www.python.org/), but I can get by with other languages.
@@ -123,7 +123,7 @@ See my curriculum vitae below and access my various articles from the left panel
 
 `May 2017.` 🇬🇧 **[TOEIC® Listening and Reading](https://www.etsglobal.org/fr/en/test-type-family/toeic-listening-and-reading-test),** Score 905. *ETS Global.*
 
-# Volunteer Experiences
+# Volunteer Experience
 
 `Sep. 2024 – Present.` 🤝 **Academic Mentor.** Lille, France.
 * Mentoring and tutoring for a first-year IT student.
@@ -157,11 +157,14 @@ See my curriculum vitae below and access my various articles from the left panel
 
 ## Sports
 
-`Mar. 2020 – Present.` 🤸 **Handstand Walking.** <smaller>Training for a world record attempt.</smaller>
+`Mar. 2020 – Present.` 🤸 **Handstand Walking.** Lille, France.
+* Training for a world record attempt.
 
-`2010–2012.` 🤾‍♂️ **Handball.** _[French School Abroad Montaigne](https://efemontaigne-cotonou.com/)._ Cotonou, Bénin. <smaller>High school competitions.</smaller>
+`2010–2012.` 🤾‍♂️ **Handball.** _[French School Abroad Montaigne](https://efemontaigne-cotonou.com/)._ Cotonou, Bénin.
+* High school competitions.
 
-`2002–2008.` 🎾 **Tennis.** France. <smaller>Competitive practice.</smaller>
+`2002–2008.` 🎾 **Tennis.** France.
+* Competitive practice.
 
 ## Music
 
