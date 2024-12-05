@@ -81,17 +81,17 @@ Below is my detailed _curriculum vitae_.
 
 ## General
 
-* 📊 Statistics and Machine Learning
-* 🩻 Medical Image Processing
-* 🖥️ Software Architecture and Development
+* Statistics and Machine Learning
+* Medical Image Processing
+* Software Architecture and Development
 
 ## Programming
 
-* 🐍 **Python:** Advanced.
-* 🌐 **PHP, HTML/Twig, CSS, JavaScript:** Advanced.
-* 🗃️ **SQL:** Fundamental.
-* 🪛 **Bash, Zsh, Batch, PowerShell:** Intermediate.
-* ☕ **Java, C, Pascal, Prolog:** Fundamental.
+* **Python:** Advanced.
+* **PHP, HTML/Twig, CSS, JavaScript:** Advanced.
+* **SQL:** Fundamental.
+* **Bash, Zsh, Batch, PowerShell:** Intermediate.
+* **Java, C, Pascal, Prolog:** Fundamental.
 
 # Softskills
 
