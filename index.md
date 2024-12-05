@@ -8,7 +8,7 @@ layout: home
   Certains mots et icônes peuvent être altérés.
 </smaller>
 
-<img src="https://www.pokepedia.fr/images/4/47/Pyrax-NB.png" alt="Sun Moth" width="144" style="float: right; margin-left: 2em;">
+<img src="https://www.pokepedia.fr/images/4/47/Pyrax-NB.png" alt="Sun Moth" class="float-right small">
 
 I am a French health data science engineer working in [Lille, France](https://goo.gl/maps/Hhj2u9o7F45jnyJi8).
 My favorite languages are mathematics and [Python](https://www.python.org/), but I can get by with other languages.
@@ -153,7 +153,7 @@ Below is my detailed _curriculum vitae_.
 
 🥊 **Muay Thai, Muay Boran and Lethwei:** 🟤 Brown Praciat. `Sep. 2012 – Present (> 12 years).` *Kru Rufin Didier, [Team Naja](https://team-naja.fr) and Self-Taught.* Rouen and Lille, France.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Krabi_Krabong_Buddhai_Swan_1.jpg" alt="Krabi-krabong fighters" width="96" style="float: right; margin-left: 2em; border-radius: 1em;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Krabi_Krabong_Buddhai_Swan_1.jpg" alt="Krabi-krabong fighters" class="float-right small">
 ⚔️ **Krabi-krabong:** Intermediate level. *Kru Rufin Didier and Self-Taught.* Rouen and Lille, France
 
 ## Sports
