@@ -77,28 +77,35 @@ Below is my detailed _curriculum vitae_.
   <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Falexandrehuat%2Falexandrehuat.github.io%2Fmaster%2Fmy_publications.bib&jsonp=1&folding=1&commas=1"></script>
 </div>
 
-## Other Articles
+# Hardskills
 
-**[Breaking down misconceptions on screening tests in the era of COVID-19](https://gist.github.com/alexandrehuat/f0c7854e911847ef74e79b60cbd9747c).** `Mar. 2020.`
-* A Jupyter notebook explaining the interpretation of diagnostic test results and the estimation of epidemic spread based on Bayesian statistical theory.
+## General
 
-# Technical Skills
-
-**General:** Statistics and Machine Learning; Medical Image Processing; Software Architecture and Development.
+* 📊 Statistics and Machine Learning
+* 🩻 Medical Image Processing
+* 🖥️ Software Architecture and Development
 
 ## Programming
 
-* **Python:** Advanced.
-* **PHP, HTML/Twig, CSS, JavaScript:** Advanced.
-* **SQL:** Fundamental.
-* **Bash, Zsh, Batch, PowerShell:** Intermediate.
-* **Java, C, Pascal, Prolog:** Fundamental.
+* 🐍 **Python:** Advanced.
+* 🌐 **PHP, HTML/Twig, CSS, JavaScript:** Advanced.
+* 🗃️ **SQL:** Fundamental.
+* 🪛 **Bash, Zsh, Batch, PowerShell:** Intermediate.
+* ☕ **Java, C, Pascal, Prolog:** Fundamental.
 
-# Social Skills
+# Softskills
 
-**Personal:** Solution-oriented; Rigorous; Creative.
+## Personal
 
-**Relational:** Leader; Empathic; Knowledge sharing.
+* ✅ Solution-oriented
+* 🎯 Rigorous
+* 🖌️ Creative
+
+## Relational
+
+* 🚀 Leader
+* 🕊️ Empathic
+* 📖 Knowledge sharing
 
 # Languages
 
