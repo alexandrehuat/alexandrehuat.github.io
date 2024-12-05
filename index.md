@@ -70,8 +70,8 @@ Below is my detailed _curriculum vitae_.
 
 ## Other Articles
 
-**[Breaking down misconceptions on screening tests in the era of COVID-19](https://gist.github.com/alexandrehuat/f0c7854e911847ef74e79b60cbd9747c).** `Mar. 2020.`
-* A Jupyter notebook explaining the interpretation of diagnostic test results and the estimation of epidemic spread based on Bayesian statistical theory.
+* **[Breaking down misconceptions on screening tests in the era of COVID-19](https://gist.github.com/alexandrehuat/f0c7854e911847ef74e79b60cbd9747c).** `Mar. 2020.`
+  * A Jupyter notebook explaining the interpretation of diagnostic test results and the estimation of epidemic spread based on Bayesian statistical theory.
 
 # Technical Skills
 
