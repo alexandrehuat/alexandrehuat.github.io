@@ -3,8 +3,10 @@ title: Home
 layout: home
 ---
 
-<button onclick="window.location.href='https://alexandrehuat-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp';">Traduire avec Google 🇫🇷</button>
-<small>Certains mots et icônes peuvent être altérés.</small>
+<smaller>
+  <button onclick="window.location.href='https://alexandrehuat-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp';">Traduire avec Google 🇫🇷</button>
+  Certains mots et icônes peuvent être altérés.
+</smaller>
 
 <img src="[https://www.pokepedia.fr/images/4/47/Pyrax-NB.png](https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/637.png)" alt="Sun Moth" width="144" style="float: right; margin-left: 2em; border-radius: 2em;">
 
@@ -155,11 +157,11 @@ See my curriculum vitae below and access my various articles from the left panel
 
 ## Sports
 
-`Mar. 2020 – Present.` 🤸 **Handstand Walking.** Training for a world record attempt.
+`Mar. 2020 – Present.` 🤸 **Handstand Walking.** <smaller>Training for a world record attempt.</smaller>
 
-`2010–2012.` 🤾‍♂️ **Handball.** [EFE Montaigne](https://efemontaigne-cotonou.com/) _High school competitions._ Cotonou, Bénin.
+`2010–2012.` 🤾‍♂️ **Handball.** _[French School Abroad Montaigne](https://efemontaigne-cotonou.com/)._ Cotonou, Bénin. <smaller>High school competitions.</smaller>
 
-`2002–2008.` 🎾 **Tennis.** _Competitive practice._ France.
+`2002–2008.` 🎾 **Tennis.** France. <smaller>Competitive practice.</smaller>
 
 ## Music
 
