@@ -12,7 +12,7 @@ layout: home
 
 I am a French data science engineer working in health care in [Lille](https://goo.gl/maps/Hhj2u9o7F45jnyJi8).
 My favorite languages are mathematics and [Python](https://www.python.org/), but I can get by with other languages.
-I also enjoy social activities, especially through learning and teaching.
+I also enjoy social exchange, particularly through learning and teaching.
 
 See my curriculum vitae below and access my various articles from the left panel.
 
