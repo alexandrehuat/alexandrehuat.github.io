@@ -138,10 +138,9 @@ Below is my detailed _curriculum vitae_.
 <i class="fa-solid fa-chalkboard-user" style="color: Goldenrod;"></i> **Private Tutor in Advanced Statistics.** `Oct. 2023 – Jan. 2024 (3 months).` Lille, France.
 * Based on [*Stochastic Modeling and Mathematical Statistics: A Text for Statisticians and Quantitative Scientists* (Samaniego, 2014)](https://doi.org/10.1201/b16414).
 
-<i class="fa-solid fa-person-chalkboard" style="color: Silver;"></i> **Scientific and Technological Support in Primary School: Introducing robotic programming to children.** `Jan. – Jun. 2016 (6 months).` *Primary School Gérard Philipe and [National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr).* Amfreville-la-Mi-Voie, France.
-<a href="https://github.com/alexandrehuat/alexandrehuat.github.io/blob/master/assets/pdf/ASTEP2016_AlexandreHuat_Rapport.pdf">
-  <i class="fa-solid fa-file-pdf" style="color: var(--dinky-red);"></i>
-</a>
+<i class="fa-solid fa-person-chalkboard" style="color: Silver;"></i> **Scientific and Technological Support in Primary School: Introducing robotic programming to children.**
+<a class="icon pdf" href="https://github.com/alexandrehuat/alexandrehuat.github.io/blob/master/assets/pdf/ASTEP2016_AlexandreHuat_Rapport.pdf"></a>
+`Jan. – Jun. 2016 (6 months).` *Primary School Gérard Philipe and [National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr).* Amfreville-la-Mi-Voie, France.
 
 🤼 **Junior Mixed Martial Arts (MMA) Instructor.** `Apr. 2023 – Present (> 1 year).` _[Faubourg de Béthune Judo Club de Lille (FBJCL)](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com)._ Lille, France.
 
