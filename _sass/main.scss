@@ -91,6 +91,15 @@ th, td {
 	border-radius: 50%;
 }
 
+img.small {
+	max-width: 144px;
+}
+
+img.float-right {
+	float: right;
+	margin-left: 16px;
+}
+
 .center {
     display: block;
     margin-left: auto;
