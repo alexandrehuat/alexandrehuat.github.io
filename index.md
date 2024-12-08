@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-🇫🇷 _[Traduire avec Google](https://alexandrehuat-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp). Certains mots et icônes peuvent être altérés._
+<button onclick="window.location.href='https://alexandrehuat-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp';">Traduire avec Google 🇫🇷</button>
 
 <img src="https://www.pokepedia.fr/images/4/47/Pyrax-NB.png" alt="Sun Moth" class="float-right small">
 
@@ -15,9 +15,8 @@ See my detailed _curriculum vitae_ below.
 # Work Experience
 
 **Data Science Engineer.** `Nov. 2021 – Present (> 6 years).` *[AQUILAB by Coexya](https://www.aquilab.com/).* Loos, France.
-* Development of data analysis modules for a web platform managing clinical trials.
-* Back-end and front-end work.
-* Research projects guidance.
+* Conception and development of data analysis modules for a web platform managing clinical trials.
+* Research projects management.
 
 **Health Data Science [CIFRE](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844) Ph.D. Student.** `Nov. 2018 – Nov. 2021 (3 years).` *[AQUILAB by Coexya](https://www.aquilab.com/).* Loos, France.
 * Medical image processing, radiomics and survival analysis.
@@ -30,7 +29,7 @@ See my detailed _curriculum vitae_ below.
 * <i class="fa-solid fa-award" style="color: GoldenRod;"></i> [Unicancer Innovation Award 2017: Management and Research Award](http://www.unicancer.fr/actualites/groupe/prix-unicancer-innovation-2017-les-centres-reinventent-cancerologie-pour-les-patients#bodycomp)
 * Conception and development of a Python user interface for the segmentation of cancer patients' CT scans.
 * Automated slice localization using a Keras-implemented fully convolutional deep neural networks (FCN).
-* ISO9001:2015 certified project.
+* ISO9001:2015 certified project
 
 **Data Scientist Intern.** `Jun. – Aug. 2017 (3 months).` *[Vekia](http://www.vekia.fr).* Lille, France.
 * Evaluation and development of a Python module for detecting suspicious inventories using machine learning algorithms.
@@ -42,9 +41,9 @@ See my detailed _curriculum vitae_ below.
 # Diplomas and Formation
 
 **Health Data Science [CIFRE](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844) Ph.D. Student.**
-"Research of radiomics signatures in head-and-neck and pulmonary cancers treated with radiotherapy using machine learning."
 `Nov. 2018 – Nov. 2021 (3 years).` *[University of Rouen, Laboratory of Computer Science, Information Processing and Systems (LITIS), Team Quantification in Functional Imaging (QuantIF)](http://www.litislab.fr/equipe/quantif) and [Henri Becquerel Center](https://www.becquerel.fr/la-recherche/recherche-fondamentale).* Rouen, France.
-* <i class="fa-solid fa-circle-info"></i> I aborted my Ph.D. studies due to health issues at the beginning of my 4<sup>th</sup> year.
+* "Research of radiomics signatures in head-and-neck and pulmonary cancers treated with radiotherapy using machine learning."
+* <i class="fa-solid fa-circle-info"></i><em>I aborted my Ph.D. studies due to health issues at the beginning of my 4<sup>th</sup> year.</em>
 
 **[Master 2 Data Science](http://mastersid.univ-rouen.fr/en/sd.php).** `Sep. 2017 – Sep. 2018 (1 year).` *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr) and [University of Rouen](http://www.univ-rouen.fr).* Saint-Étienne-du-Rouvray, France.
 * Dual-degree paired with my engineer's degree.
@@ -124,6 +123,8 @@ See my detailed _curriculum vitae_ below.
 
 # Volunteer Experience
 
+🤼 **Junior Mixed Martial Arts (MMA) Instructor.** `Apr. 2023 – Present (> 1 year).` _[Faubourg de Béthune Judo Club de Lille (FBJCL)](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com)._ Lille, France.
+
 <i class="fa-solid fa-handshake-angle" style="color: Goldenrod;"></i> **Academic Mentor.**
 `Apr. 2024 – Present (> 8 months).` _[JobIRL](https://www.jobirl.com/)_. Lille, France.
 * Mentoring and tutoring for a first-year IT student.
@@ -136,11 +137,10 @@ See my detailed _curriculum vitae_ below.
 `Oct. 2022 – Jun. 2023 (1 year).` *[Entraide Scolaire Amicale (ESA)](https://www.entraidescolaireamicale.org/)*. Lille, France.
 * Mentoring and tutoring in mathematics for a final-year high school student.
 
-<i class="fa-solid fa-person-chalkboard" style="color: Silver;"></i> **Scientific and Technological Support in Primary School.**
+<i class="fa-solid fa-person-chalkboard" style="color: Silver;"></i> **Scientific and Technological Support in Primary School:**
+Introducing robotic programming to children.
+<a class="icon pdf" href="https://github.com/alexandrehuat/alexandrehuat.github.io/blob/master/assets/pdf/ASTEP2016_AlexandreHuat_Rapport.pdf"></a>
 `Jan. – Jun. 2016 (6 months).` *Primary School Gérard Philipe and [National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr).* Amfreville-la-Mi-Voie, France.
-* Introducing robotic programming to children. <a class="icon pdf" href="https://github.com/alexandrehuat/alexandrehuat.github.io/blob/master/assets/pdf/ASTEP2016_AlexandreHuat_Rapport.pdf"></a>
-
-🤼 **Junior Mixed Martial Arts (MMA) Instructor.** `Apr. 2023 – Present (> 1 year).` _[Faubourg de Béthune Judo Club de Lille (FBJCL)](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com)._ Lille, France.
 
 # Hobbies
 
