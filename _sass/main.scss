@@ -130,12 +130,12 @@ a.certif-proof.icon:hover:before {
 }
 
 .pdf.icon::before {
-    font: var(--fa-font-regular);
+    font: var(--fa-font-solid);
     content: "\f1c1";
 }
 
 a.pdf.icon:hover::before {
-    font: var(--fa-font-solid);
+    font: var(--fa-font-regular);
 }
 
 .fa-border, .border-thin {
