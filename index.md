@@ -43,7 +43,7 @@ See my detailed _curriculum vitae_ below.
 **Health Data Science [CIFRE](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844) Ph.D. Student.**
 `Nov. 2018 – Nov. 2021 (3 years).` *[University of Rouen, Laboratory of Computer Science, Information Processing and Systems (LITIS), Team Quantification in Functional Imaging (QuantIF)](http://www.litislab.fr/equipe/quantif) and [Henri Becquerel Center](https://www.becquerel.fr/la-recherche/recherche-fondamentale).* Rouen, France.
 * "Research of radiomics signatures in head-and-neck and pulmonary cancers treated with radiotherapy using machine learning."
-* <smaller><i class="fa-solid fa-circle-info"></i> <em>I aborted my Ph.D. studies due to health issues at the beginning of my 4<sup>th</sup> year.</em></smaller>
+* <small><i class="fa-solid fa-circle-info"></i> <em>I aborted my Ph.D. studies due to health issues at the beginning of my 4<sup>th</sup> year.</em></small>
 
 **[Master 2 Data Science](http://mastersid.univ-rouen.fr/en/sd.php).** `Sep. 2017 – Sep. 2018 (1 year).` *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr) and [University of Rouen](http://www.univ-rouen.fr).* Saint-Étienne-du-Rouvray, France.
 * Dual-degree paired with my engineer's degree.
