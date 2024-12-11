@@ -150,7 +150,7 @@ Introducing robotic programming to children.
 
 🥋 **Judo and Jujutsu:** 🟠 Orange Belt. `Oct. 2022 – Present (> 2 years).` *[Faubourg de Béthune Judo Club de Lille (FBJCL)](https://faubourg-de-bethune-judo-club-lillois.ffjudo.com).* Lille, France.
 
-🥊 **Muay Thai, Muay Boran and Lethwei:** 🟤 Brown Praciat. `Sep. 2012 – Present (> 12 years).` *Kru Rufin Didier, [Team Naja](https://team-naja.fr) and Self-Taught.* Rouen and Lille, France.
+🥊 **Muay Thai, Muay Boran and Lethwei:** 🟤 Brown Armband. `Sep. 2012 – Present (> 12 years).` *Kru Rufin Didier, [Team Naja](https://team-naja.fr) and Self-Taught.* Rouen and Lille, France.
 
 ⚔️ **Krabi-krabong:** Intermediate level. *Kru Rufin Didier and Self-Taught.* Rouen and Lille, France
 
