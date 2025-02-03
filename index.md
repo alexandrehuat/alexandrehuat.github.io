@@ -5,7 +5,7 @@ layout: home
 
 <button onclick="window.location.href='https://alexandrehuat-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp';">Traduire avec Google 🇫🇷</button>
 
-<img src="https://www.pokepedia.fr/images/4/47/Pyrax-NB.png" alt="Sun Moth" class="float-right small">
+<img src="https://www.pokepedia.fr/images/d/db/Pyrax-CA.png" alt="Sun Moth" class="float-right small">
 
 I am a French health data science engineer working in [Lille, France](https://goo.gl/maps/Hhj2u9o7F45jnyJi8).
 My favorite languages are mathematics and [Python](https://www.python.org/), but I can get by with other languages.
@@ -43,7 +43,7 @@ See my detailed _curriculum vitae_ below.
 **Health Data Science [CIFRE](https://www.anrt.asso.fr/fr/le-dispositif-cifre-7844) Ph.D. Student.**
 `Nov. 2018 – Nov. 2021 (3 years).` *[University of Rouen, Laboratory of Computer Science, Information Processing and Systems (LITIS), Team Quantification in Functional Imaging (QuantIF)](http://www.litislab.fr/equipe/quantif) and [Henri Becquerel Center](https://www.becquerel.fr/la-recherche/recherche-fondamentale).* Rouen, France.
 * "Research of radiomics signatures in head-and-neck and pulmonary cancers treated with radiotherapy using machine learning."
-* <small><i class="fa-solid fa-circle-info"></i> <em>I aborted my Ph.D. studies due to health issues at the beginning of my 4<sup>th</sup> year.</em></small>
+* <em><small><i class="fa-solid fa-circle-info"></i> I aborted my Ph.D. studies due to health issues at the beginning of my 4<sup>th</sup> year.</em></small>
 
 **[Master 2 Data Science](http://mastersid.univ-rouen.fr/en/sd.php).** `Sep. 2017 – Sep. 2018 (1 year).` *[National Institute of Applied Sciences (INSA) of Rouen](https://www.insa-rouen.fr) and [University of Rouen](http://www.univ-rouen.fr).* Saint-Étienne-du-Rouvray, France.
 * Dual-degree paired with my engineer's degree.
@@ -156,8 +156,8 @@ Introducing robotic programming to children.
 
 ## Sports
 
-🤸 **Handstand Walking.** `Mar. 2020 – Present (> 4 years).` Lille, France.
-* Training for a world record attempt.
+🤸 **Handstand Walking.** `Mar. 2020 – Jan. 2025 (5 years).` Lille, France.
+* Training for a world record attempt, aborted due to too many injuries.
 
 🤾‍♂️ **Handball.** `Sep. 2010 – Jul. 2012 (2 years). ` _[French School Abroad Montaigne](https://efemontaigne-cotonou.com/)._ Cotonou, Bénin.
 
