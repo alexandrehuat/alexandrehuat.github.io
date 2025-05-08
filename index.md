@@ -14,7 +14,7 @@ See my detailed _curriculum vitae_ below.
 
 # Work Experience
 
-**Data Science Engineer.** `Nov. 2021 – Present (> 6 years).` *[AQUILAB by Coexya](https://www.aquilab.com/).* Loos, France.
+**Data Science Engineer.** `Nov. 2021 – Present (> 3 years).` *[AQUILAB by Coexya](https://www.aquilab.com/).* Loos, France.
 * Conception and development of data analysis modules for a web platform managing clinical trials.
 * Research projects management.
 
